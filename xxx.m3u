@@ -2,9 +2,9 @@
 
 #EXTINF:0 type="stream" tvg-logo="http://www.monolitospost.com/wp-content/uploads/2014/08/sextreme.jpg",XXX: SEXTREME
 http://149.202.72.15:8000/live/Costa/Costa/690.ts
-#EXTINF:-1,XXX: PENTHOUSE
+#EXTINF:0 type="stream" tvg-logo="http://www.affairesdegars.com/webroot/usr_img/2016-01/janvier/semaine3/penthousea.jpg",XXX: PENTHOUSE
 http://149.202.72.15:8000/live/Costa/Costa/510.ts
-#EXTINF:-1,XXX: VENUS
+#EXTINF:0 type="stream" tvg-logo="https://jobs.archapprentices.co.uk/wp-content/uploads/company_logos/2015/05/venus-tv.jpg" ,XXX: VENUS
 http://149.202.72.15:8000/live/Costa/Costa/181.ts
 #EXTINF:-1,XXX: PLAYBOY
 http://149.202.72.15:8000/live/Costa/Costa/304.ts

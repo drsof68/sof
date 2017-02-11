@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,XXX: SEXTREME
+#EXTINF:0 type="stream" tvg-logo="http://www.monolitospost.com/wp-content/uploads/2014/08/sextreme.jpg",XXX: SEXTREME
 http://149.202.72.15:8000/live/Costa/Costa/690.ts
 #EXTINF:-1,XXX: PENTHOUSE
 http://149.202.72.15:8000/live/Costa/Costa/510.ts

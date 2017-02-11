@@ -1,0 +1,974 @@
+﻿#EXTM3U
+#EXTINF:0,TF1_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/58.ts
+#EXTINF:0,FRANCE_2_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/137.ts
+#EXTINF:0,FRANCE_3_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/61.ts
+#EXTINF:0,FRANCE 4
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/60.ts
+#EXTINF:0,FRANCE 5
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/59.ts
+#EXTINF:0,FRANCE O
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/345.ts
+#EXTINF:0,M6_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/138.ts
+#EXTINF:0,W9HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/337.ts
+#EXTINF:0,Cherie_25
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/133.ts
+#EXTINF:0,FR_C8
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3474.ts
+#EXTINF:0,RTL_9HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2566.ts
+#EXTINF:0,6TER_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/673.ts
+#EXTINF:0,NT1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2698.ts
+#EXTINF:0,Numero_23
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2683.ts
+#EXTINF:0,C star
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2550.ts
+#EXTINF:0,*-*-*-*-*CSAT_INFO*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4026.ts
+#EXTINF:0,TV5
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2611.ts
+#EXTINF:0,I_Tele
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/336.ts
+#EXTINF:0,LCI
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/334.ts
+#EXTINF:0,EURONEWS FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/674.ts
+#EXTINF:0,France24 FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/403.ts
+#EXTINF:0,BFM_TV
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2541.ts
+#EXTINF:0,Arte
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/338.ts
+#EXTINF:0,*-*-*-*-*CSAT_CINEMA*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4023.ts
+#EXTINF:0,CANAL+_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/52.ts
+#EXTINF:0,CANAL+ DECALE
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/54.ts
+#EXTINF:0,CANAL+_FAMILY_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/53.ts
+#EXTINF:0,CANAL+ CINEMA
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/56.ts
+#EXTINF:0,CANAL+SERIE
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/55.ts
+#EXTINF:0,CANAL+ SPORT
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/57.ts
+#EXTINF:0,CINE PREMIER
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/135.ts
+#EXTINF:0,CINE EMOTION
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/136.ts
+#EXTINF:0,CINE+ FRISSON FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/64.ts
+#EXTINF:0,CINE+ FAMIZ
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/65.ts
+#EXTINF:0,CINE+ CLASSIC FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/67.ts
+#EXTINF:0,Ocs_Geants
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2682.ts
+#EXTINF:0,OCS_MAX
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2693.ts
+#EXTINF:0,OCS_CITY
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/134.ts
+#EXTINF:0,OCS_Choc
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2561.ts
+#EXTINF:0,TEVA
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2637.ts
+#EXTINF:0,Comedie
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2549.ts
+#EXTINF:0,*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4025.ts
+#EXTINF:0,FR: Action
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/611.ts
+#EXTINF:0,FR_AB1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2537.ts
+#EXTINF:0,13_Eme_Rue
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2548.ts
+#EXTINF:0,FR.Cine_Polar_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2685.ts
+#EXTINF:0,Paris_Premiere
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2562.ts
+#EXTINF:0,Serie_Club
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2568.ts
+#EXTINF:0,FR_TV_BREIZH
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3475.ts
+#EXTINF:0,SyFy
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2569.ts
+#EXTINF:0,HD1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2538.ts
+#EXTINF:0,NRJ_12
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2560.ts
+#EXTINF:0,TMC
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2570.ts
+#EXTINF:0,FR:_TVA_Montreal
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3351.ts
+#EXTINF:0,FR.Paramount_Channel_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2690.ts
+#EXTINF:0,FR.OL_TV
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2691.ts
+#EXTINF:0,FR:_Oui_FM_TV
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3353.ts
+#EXTINF:0,FR:_Trek_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3352.ts
+#EXTINF:0,FR:_Weo
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3350.ts
+#EXTINF:0,RMC_Decouverte
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2565.ts
+#EXTINF:0,*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4027.ts
+#EXTINF:0,Planete+
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2563.ts
+#EXTINF:0,Planet+ci
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2564.ts
+#EXTINF:0,FR.Planet_A&E_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2689.ts
+#EXTINF:0,NATIONAL GEO
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/139.ts
+#EXTINF:0,National_Geo_Wild_FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2559.ts
+#EXTINF:0,Science_et_Vie
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2567.ts
+#EXTINF:0,DISCOVERY_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/63.ts
+#EXTINF:0,DISCOVERY_SCIENCE_FR
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/62.ts
+#EXTINF:0,Chasse et peche
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/471.ts
+#EXTINF:0,USHUAIA_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/372.ts
+#EXTINF:0,Voyage_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2571.ts
+#EXTINF:0,FR ANIMAUX
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/478.ts
+#EXTINF:0,FR.Histoire_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2686.ts
+#EXTINF:0,Equidia_Live
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2553.ts
+#EXTINF:0,Equidia
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2552.ts
+#EXTINF:0,*-*-*-*-*CSAT_SPORT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4028.ts
+#EXTINF:0,BEINSPORT_1_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/49.ts
+#EXTINF:0,BEINSPORT_2_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/50.ts
+#EXTINF:0,BEINSPORT_3 _HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/51.ts
+#EXTINF:0,FR:_Bein_Sports_1_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3370.ts
+#EXTINF:0,FR:_Bein_Sports_2_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3369.ts
+#EXTINF:0,FR:_Bein_Sports_3_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3368.ts
+#EXTINF:0,BEIN_SPORT_MAX_4
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3900.ts
+#EXTINF:0,BEIN_SPORT_MAX_5
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3901.ts
+#EXTINF:0,BEIN_SPORT_MAX_6
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3902.ts
+#EXTINF:0,BEIN_SPORT_MAX_7
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3903.ts
+#EXTINF:0,BEIN_SPORT_MAX_8
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3904.ts
+#EXTINF:0,BEIN_SPORT_MAX_9
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4040.ts
+#EXTINF:0,BEIN_SPORT_MAX_10
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4041.ts
+#EXTINF:0,SFR_SPORT_1_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2803.ts
+#EXTINF:0,SFR_SPORT_2_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2804.ts
+#EXTINF:0,SFR_SPORT_3_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2880.ts
+#EXTINF:0,INFOSPORT+
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/1809.ts
+#EXTINF:0,Foot+
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2556.ts
+#EXTINF:0,FR.Foot_24
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2684.ts
+#EXTINF:0,EUROSPORT_1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/377.ts
+#EXTINF:0,EUROSPORT_2
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2555.ts
+#EXTINF:0,Equipe21
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2554.ts
+#EXTINF:0,*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4029.ts
+#EXTINF:0,PIWI
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/374.ts
+#EXTINF:0,Tiji
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2680.ts
+#EXTINF:0,teletoon
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2681.ts
+#EXTINF:0,Gulli
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/335.ts
+#EXTINF:0,Cartoon Network
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/373.ts
+#EXTINF:0,FR:_Canal_J
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2636.ts
+#EXTINF:0,DISNEY CHANNEL
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/376.ts
+#EXTINF:0,FR:_Disney_XD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2635.ts
+#EXTINF:0,FR:_Disney_Cinemagic
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2634.ts
+#EXTINF:0,FR: Disney Junior
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/472.ts
+#EXTINF:0,FR:_Nickelodeon_Junior
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3354.ts
+#EXTINF:0,FR:_Nickelodeon
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3356.ts
+#EXTINF:0,FR:_Zouzou
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3349.ts
+#EXTINF:0,MANGAS
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/375.ts
+#EXTINF:0,BOOMERANG
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/378.ts
+#EXTINF:0,Game_One
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2557.ts
+#EXTINF:0,*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4030.ts
+#EXTINF:0,FR_M6_Music
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4032.ts
+#EXTINF:0,FR_MTV_HITS
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4031.ts
+#EXTINF:0,*-*-*-*-*CSAT_PPV_VOD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4033.ts
+#EXTINF:0,A.LA.CARTE.1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/544.ts
+#EXTINF:0,A.LA.CARTE.2
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/545.ts
+#EXTINF:0,A.LA.CARTE.3
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/546.ts
+#EXTINF:0,A.LA.CARTE.4
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/539.ts
+#EXTINF:0,A_LA_CARTE_5
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2612.ts
+#EXTINF:0,A_LA_CARTE_6
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2613.ts
+#EXTINF:0,A_LA_CARTE_7
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2653.ts
+#EXTINF:0,A_LA_CARTE_8
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2654.ts
+#EXTINF:0,A_LA_CARTE_9
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2655.ts
+#EXTINF:0,A_LA_CARTE_10
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2644.ts
+#EXTINF:0,A_LA_CARTE_11
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2645.ts
+#EXTINF:0,A_LA_CARTE_12
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2646.ts
+#EXTINF:0,A_LA_CARTE_13
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2647.ts
+#EXTINF:0,A_LA_CARTE_14
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2657.ts
+#EXTINF:0,A_LA_CARTE_15
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2656.ts
+#EXTINF:0,A_LA_CARTE_16
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2648.ts
+#EXTINF:0,A_LA_CARTE_17
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2649.ts
+#EXTINF:0,A_LA_CARTE_18
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2650.ts
+#EXTINF:0,A_LA_CARTE_19
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2651.ts
+#EXTINF:0,A_LA_CARTE_20
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2652.ts
+#EXTINF:0,_FR:_CANALPLAY_1
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4042.ts
+#EXTINF:0,_FR:_CANALPLAY_2
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4043.ts
+#EXTINF:0,_FR:_CANALPLAY_3
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4044.ts
+#EXTINF:0,_FR:_CANALPLAY_4
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4045.ts
+#EXTINF:0,_FR:_CANALPLAY_5
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4046.ts
+#EXTINF:0,_FR:_CANALPLAY_6
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4047.ts
+#EXTINF:0,_FR:_CANALPLAY_7
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4048.ts
+#EXTINF:0,_FR:_CANALPLAY_8
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4049.ts
+#EXTINF:0,_FR:_CANALPLAY_9
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4050.ts
+#EXTINF:0,_FR:_CANALPLAY_10
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4051.ts
+#EXTINF:0,_FR:_CANALPLAY_11
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4052.ts
+#EXTINF:0,_FR:_CANAL_PLAY_12
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4053.ts
+#EXTINF:0,_FR:_CANAL_PLAY_13
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4054.ts
+#EXTINF:0,_FR:_CANAL_PLAY_14
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4055.ts
+#EXTINF:0,_FR:_CANAL_PLAY_15
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4056.ts
+#EXTINF:0,_FR:_CANAL_PLAY_16
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/4057.ts
+#EXTINF:0,=====_Swiss_======
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3380.ts
+#EXTINF:0,RTS_UN
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2864.ts
+#EXTINF:0,RTS_DEUX
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2865.ts
+#EXTINF:0,CH:_SRF_1_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3381.ts
+#EXTINF:0,CH:_SRF_2_HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3382.ts
+#EXTINF:0,====BELGIQUE_TELESAT====
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/1741.ts
+#EXTINF:0,LA UNE HD
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/541.ts
+#EXTINF:0,LA.DEUX
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/542.ts
+#EXTINF:0,LA.TROIS
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/543.ts
+#EXTINF:0,RTL_TVI
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2639.ts
+#EXTINF:0,BE_Vtm_Kazoom_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3461.ts
+#EXTINF:0,BE_Vtm_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3462.ts
+#EXTINF:0,BE_Vitaya_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3463.ts
+#EXTINF:0,BE_Vijf_TV_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3464.ts
+#EXTINF:0,BE_Vier_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3465.ts
+#EXTINF:0,BE_Rtl_Tvi_HD_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3466.ts
+#EXTINF:0,BE_Plug_Rtl_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3467.ts
+#EXTINF:0,BE_Ket_op_2_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3468.ts
+#EXTINF:0,BE_Een_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3469.ts
+#EXTINF:0,BE_Club_Rtl_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3470.ts
+#EXTINF:0,BE_Canvas_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3471.ts
+#EXTINF:0,BE_2Be_-_Belgium
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/3472.ts
+#EXTINF:0,BE:Club_RTL
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2642.ts
+#EXTINF:0,BE:Plug_RTL
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2643.ts
+#EXTINF:0,BE:RTL_TVI
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2641.ts
+#EXTINF:0 type="stream" channelId="139" , FRANCE 24
+http://149.202.72.15:8000/live/Costa/Costa/785.ts
+#EXTINF:0 type="stream" , FR | FRANCE 24
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2529.ts
+#EXTINF:0 type="stream" channelId="140" , TV5 MONDE
+http://149.202.72.15:8000/live/Costa/Costa/864.ts
+#EXTINF:0 type="stream" channelId="2128" , M6
+http://149.202.72.15:8000/live/Costa/Costa/691.ts
+#EXTINF:0 type="stream" , FR: M6 HD
+http://149.202.72.15:8000/live/Costa/Costa/1887.ts
+#EXTINF:0 type="stream" , FR | M6 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/858.ts
+#EXTINF:0 type="stream" , FR: TF1 HD
+http://149.202.72.15:8000/live/Costa/Costa/1877.ts
+#EXTINF:0 type="stream" , FR | TF1 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/882.ts
+#EXTINF:0 type="stream" , FR: France O
+http://149.202.72.15:8000/live/Costa/Costa/1889.ts
+#EXTINF:0 type="stream" , FR | FRANCE O HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/903.ts
+#EXTINF:0 type="stream" , FR: France 2
+http://149.202.72.15:8000/live/Costa/Costa/1893.ts
+#EXTINF:0 type="stream" , FR | FRANCE 2 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/902.ts
+#EXTINF:0 type="stream" , FR: France 3
+http://149.202.72.15:8000/live/Costa/Costa/1892.ts
+#EXTINF:0 type="stream" , FR | FRANCE 3 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/901.ts
+#EXTINF:0 type="stream" , FR: France 4
+http://149.202.72.15:8000/live/Costa/Costa/1891.ts
+#EXTINF:0 type="stream" , FR | FRANCE 4 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/900.ts
+#EXTINF:0 type="stream" , FR: France 5
+http://149.202.72.15:8000/live/Costa/Costa/1890.ts
+#EXTINF:0 type="stream" , FR | FRANCE 5
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/899.ts
+#EXTINF:0 type="stream" , FR: NRJ 12
+http://149.202.72.15:8000/live/Costa/Costa/1884.ts
+#EXTINF:0 type="stream" , FR | NRJ 12 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/866.ts
+#EXTINF:0 type="stream" , FR: NT1
+http://149.202.72.15:8000/live/Costa/Costa/1883.ts
+#EXTINF:0 type="stream" , FR: Planete A&E
+http://149.202.72.15:8000/live/Costa/Costa/1879.ts
+#EXTINF:0 type="stream" , FR | PLANETE HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2526.ts
+#EXTINF:0 type="stream" , FR | PLANETE CI HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2525.ts
+
+#EXTINF:0 type="stream" , FR:  FOOT  24/24
+http://149.202.72.15:8000/live/Costa/Costa/1913.ts
+#EXTINF:0 type="stream" , FR:  TELETOON
+http://149.202.72.15:8000/live/Costa/Costa/1912.ts
+#EXTINF:0 type="stream" , FR: Animaux HD
+http://149.202.72.15:8000/live/Costa/Costa/1911.ts
+#EXTINF:0 type="stream" , FR: Bein Sports 1 HD
+http://149.202.72.15:8000/live/Costa/Costa/1910.ts
+#EXTINF:0 type="stream" , FR: Bein Sports 2
+http://149.202.72.15:8000/live/Costa/Costa/1909.ts
+#EXTINF:0 type="stream" , FR: Bein Sports 3 HD
+http://149.202.72.15:8000/live/Costa/Costa/1908.ts
+#EXTINF:0 type="stream" , FR: BFMTV
+http://149.202.72.15:8000/live/Costa/Costa/1914.ts
+#EXTINF:0 type="stream" , FR: Canal
+http://149.202.72.15:8000/live/Costa/Costa/1907.ts
+#EXTINF:0 type="stream" , FR: CANAL  CINEMA
+http://149.202.72.15:8000/live/Costa/Costa/1906.ts
+#EXTINF:0 type="stream" , FR: Canal  Decale
+http://149.202.72.15:8000/live/Costa/Costa/1905.ts
+#EXTINF:0 type="stream" , FR: Canal  Sport
+http://149.202.72.15:8000/live/Costa/Costa/1904.ts
+#EXTINF:0 type="stream" , FR: Cine  Classic
+http://149.202.72.15:8000/live/Costa/Costa/1903.ts
+#EXTINF:0 type="stream" , FR: Cine  Club
+http://149.202.72.15:8000/live/Costa/Costa/1902.ts
+#EXTINF:0 type="stream" , FR: Cine  Emotion
+http://149.202.72.15:8000/live/Costa/Costa/1901.ts
+#EXTINF:0 type="stream" , FR: Cine  Famiz
+http://149.202.72.15:8000/live/Costa/Costa/1900.ts
+#EXTINF:0 type="stream" , FR: Cine  Frisson
+http://149.202.72.15:8000/live/Costa/Costa/1899.ts
+#EXTINF:0 type="stream" , FR: CINE  PREMIER HD
+http://149.202.72.15:8000/live/Costa/Costa/1898.ts
+#EXTINF:0 type="stream" , FR: Comedy
+http://149.202.72.15:8000/live/Costa/Costa/1897.ts
+#EXTINF:0 type="stream" , FR: D17
+http://149.202.72.15:8000/live/Costa/Costa/1915.ts
+#EXTINF:0 type="stream" , FR: D8
+http://149.202.72.15:8000/live/Costa/Costa/1916.ts
+#EXTINF:0 type="stream" , FR | D8
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2501.ts
+#EXTINF:0 type="stream" , FR: discovery Channel HD
+http://149.202.72.15:8000/live/Costa/Costa/1896.ts
+#EXTINF:0 type="stream" , FR: Discovery Science
+http://149.202.72.15:8000/live/Costa/Costa/1895.ts
+#EXTINF:0 type="stream" , FR | DISCOVERY SCIENCE HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/884.ts
+#EXTINF:0 type="stream" , FR: Disney Channel
+http://149.202.72.15:8000/live/Costa/Costa/1894.ts
+#EXTINF:0 type="stream" , FR: Gulli HD
+http://149.202.72.15:8000/live/Costa/Costa/1888.ts
+#EXTINF:0 type="stream" , FR | GULLI HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2511.ts
+#EXTINF:0 type="stream" , FR: iTELE
+http://149.202.72.15:8000/live/Costa/Costa/1917.ts
+#EXTINF:0 type="stream" , FR: La Deux
+http://149.202.72.15:8000/live/Costa/Costa/1918.ts
+#EXTINF:0 type="stream" , FR: La Trois
+http://149.202.72.15:8000/live/Costa/Costa/1919.ts
+#EXTINF:0 type="stream" , FR: La Une
+http://149.202.72.15:8000/live/Costa/Costa/1920.ts
+#EXTINF:0 type="stream" , FR: Nat. Geo Wild HD
+http://149.202.72.15:8000/live/Costa/Costa/1886.ts
+#EXTINF:0 type="stream" , FR: Nat. Geographic
+http://149.202.72.15:8000/live/Costa/Costa/1885.ts
+#EXTINF:0 type="stream" , FR: OCS City
+http://149.202.72.15:8000/live/Costa/Costa/1882.ts
+#EXTINF:0 type="stream" , FR: OCS GEANT
+http://149.202.72.15:8000/live/Costa/Costa/1881.ts
+#EXTINF:0 type="stream" , FR: OCS Max
+http://149.202.72.15:8000/live/Costa/Costa/1880.ts
+#EXTINF:0 type="stream" , FR: TELETOON
+http://149.202.72.15:8000/live/Costa/Costa/1878.ts
+#EXTINF:0 type="stream" , FR: TMC
+http://149.202.72.15:8000/live/Costa/Costa/1921.ts
+#EXTINF:0 type="stream" , FR: VOYAGE HD
+http://149.202.72.15:8000/live/Costa/Costa/1876.ts
+#EXTINF:0 type="stream" , FR: W9
+http://149.202.72.15:8000/live/Costa/Costa/1875.ts
+#EXTINF:0 type="stream" , FR | CINE CLASSIC
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/879.ts
+#EXTINF:0 type="stream" , FR | Cine Polar
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/878.ts
+#EXTINF:0 type="stream" , FR | InfoSport+
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/857.ts
+#EXTINF:0 type="stream" , FR | CANAL J HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/868.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 1
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/898.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 2
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/897.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 3
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/896.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 4
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/895.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 5
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/894.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 6
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/893.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 7
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/892.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 8
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/891.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 9
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/890.ts
+#EXTINF:0 type="stream" , FR | A LA CARTE 10
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/889.ts
+#EXTINF:0 type="stream" , FR | TMC
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/860.ts
+#EXTINF:0 type="stream" , FR | CINE FRISSON HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/873.ts
+#EXTINF:0 type="stream" , FR | CINE+ FAMILY HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/874.ts
+#EXTINF:0 type="stream" , FR | Foot+ 24 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/861.ts
+#EXTINF:0 type="stream" , FR | NT 1
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/863.ts
+#EXTINF:0 type="stream" , FR | DISNEY JUNIOR
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/885.ts
+#EXTINF:0 type="stream" , FR | CINE+ PREMIER HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/877.ts
+#EXTINF:0 type="stream" , FR | RTL9
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/881.ts
+#EXTINF:0 type="stream" , FR | ARTE HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/872.ts
+#EXTINF:0 type="stream" , FR | CHERIE 25 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/871.ts
+#EXTINF:0 type="stream" , FR | OCS CHOC HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/886.ts
+#EXTINF:0 type="stream" , FR | Cartoon NetWork
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/865.ts
+#EXTINF:0 type="stream" , FR | Teva HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/855.ts
+#EXTINF:0 type="stream" , FR | AB1 HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/856.ts
+#EXTINF:0 type="stream" , FR | L’EQUIPE 21
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/883.ts
+#EXTINF:0 type="stream" , FR | W9
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2500.ts
+#EXTINF:0 type="stream" , FR | USHUAIA HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2519.ts
+#EXTINF:0 type="stream" , FR | TV BREITZ
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2521.ts
+#EXTINF:0 type="stream" , FR | TELETOON HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2515.ts
+#EXTINF:0 type="stream" , FR | SYFY HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2537.ts
+#EXTINF:0 type="stream" , FR | RMC DECOUVERTE
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2527.ts
+#EXTINF:0 type="stream" , FR | PIWI
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2518.ts
+#EXTINF:0 type="stream" , FR | NAT GEO WILD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2524.ts
+#EXTINF:0 type="stream" , FR | MANGAS
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2508.ts
+#EXTINF:0 type="stream" , FR | M6 MUSIC
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2502.ts
+#EXTINF:0 type="stream" , FR | I TELE
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2528.ts
+#EXTINF:0 type="stream" , FR | EQUIDIA LIVE HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2532.ts
+#EXTINF:0 type="stream" , FR | DISNEY Channel
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2509.ts
+#EXTINF:0 type="stream" , FR | CHASSE ET PECHE
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2504.ts
+#EXTINF:0 type="stream" , FR | CANAL SPORT HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2539.ts
+#EXTINF:0 type="stream" , FR | CANAL PLAY 4
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2550.ts
+#EXTINF:0 type="stream" , FR | CANAL PLAY 3
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2549.ts
+#EXTINF:0 type="stream" , FR | CANAL PLAY 2
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2548.ts
+#EXTINF:0 type="stream" , FR | CANAL PLAY 1
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2547.ts
+#EXTINF:0 type="stream" , FR | CANAL HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2540.ts
+#EXTINF:0 type="stream" , FR | CANAL DECALE HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2538.ts
+#EXTINF:0 type="stream" , FR | AB3
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2544.ts
+#EXTINF:0 type="stream" , FR | AB MOTEURS HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2533.ts
+#EXTINF:0 type="stream" , FR | 6TER HD
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2546.ts
+#EXTINF:0 type="stream" , FR | 13 EME RUE
+http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2543.ts
+#EXTINF:0 type="stream" , BEIN :SPORT1 HD
+http://149.202.72.15:8000/live/Costa/Costa/1922.ts
+#EXTINF:0 type="stream" , BEIN :SPORT2 HD
+http://149.202.72.15:8000/live/Costa/Costa/1925.ts
+#EXTINF:0 type="stream" , BEIN :SPORT3 HD
+http://149.202.72.15:8000/live/Costa/Costa/1926.ts
+#EXTINF:0 type="stream" , BEIN :SPORT4 HD
+http://149.202.72.15:8000/live/Costa/Costa/1927.ts
+#EXTINF:0 type="stream" , BEIN :SPORT5 HD
+http://149.202.72.15:8000/live/Costa/Costa/1928.ts
+#EXTINF:0 type="stream" , BEIN :SPORT6 HD
+http://149.202.72.15:8000/live/Costa/Costa/1929.ts
+#EXTINF:0 type="stream" , BEIN :SPORT7 HD
+http://149.202.72.15:8000/live/Costa/Costa/1930.ts
+#EXTINF:0 type="stream" , BEIN :SPORT8 HD
+http://149.202.72.15:8000/live/Costa/Costa/1931.ts
+#EXTINF:0 type="stream" , BEIN :SPORT9 HD
+http://149.202.72.15:8000/live/Costa/Costa/1932.ts
+#EXTINF:0 type="stream" , BEIN :SPORT10 HD
+http://149.202.72.15:8000/live/Costa/Costa/1923.ts
+#EXTINF:0 type="stream" , BEIN :SPORT11 HD
+http://149.202.72.15:8000/live/Costa/Costa/1924.ts
+#EXTINF:-1,FR: TF1 HD
+http://149.202.72.15:8000/live/casa/casa/1877.ts
+#EXTINF:-1,FR: France O
+http://149.202.72.15:8000/live/casa/casa/1889.ts
+#EXTINF:-1,FR: France 2
+http://149.202.72.15:8000/live/casa/casa/1893.ts
+#EXTINF:-1,FR: France 3
+http://149.202.72.15:8000/live/casa/casa/1892.ts
+#EXTINF:-1,FR: France 4
+http://149.202.72.15:8000/live/casa/casa/1891.ts
+#EXTINF:-1,FR: France 5
+http://149.202.72.15:8000/live/casa/casa/1890.ts
+#EXTINF:-1,FR: NRJ 12
+http://149.202.72.15:8000/live/casa/casa/1884.ts
+#EXTINF:-1,FR: NT1
+http://149.202.72.15:8000/live/casa/casa/1883.ts
+#EXTINF:-1,FR: Planete A&E
+http://149.202.72.15:8000/live/casa/casa/1879.ts
+#EXTINF:-1,FR: M6 HD
+http://149.202.72.15:8000/live/casa/casa/1887.ts
+#EXTINF:-1,FR:  FOOT  24/24
+http://149.202.72.15:8000/live/casa/casa/1913.ts
+#EXTINF:-1,FR:  TELETOON
+http://149.202.72.15:8000/live/casa/casa/1912.ts
+#EXTINF:-1,FR: Animaux HD
+http://149.202.72.15:8000/live/casa/casa/1911.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://149.202.72.15:8000/live/casa/casa/1910.ts
+#EXTINF:-1,FR: Bein Sports 2
+http://149.202.72.15:8000/live/casa/casa/1909.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://149.202.72.15:8000/live/casa/casa/1908.ts
+#EXTINF:-1,FR: BFMTV
+http://149.202.72.15:8000/live/casa/casa/1914.ts
+#EXTINF:-1,FR: Canal
+http://149.202.72.15:8000/live/casa/casa/1907.ts
+#EXTINF:-1,FR: CANAL  CINEMA
+http://149.202.72.15:8000/live/casa/casa/1906.ts
+#EXTINF:-1,FR: Canal  Decale
+http://149.202.72.15:8000/live/casa/casa/1905.ts
+#EXTINF:-1,FR: Canal  Sport
+http://149.202.72.15:8000/live/casa/casa/1904.ts
+#EXTINF:-1,FR: Cine  Classic
+http://149.202.72.15:8000/live/casa/casa/1903.ts
+#EXTINF:-1,FR: Cine  Club
+http://149.202.72.15:8000/live/casa/casa/1902.ts
+#EXTINF:-1,FR: Cine  Emotion
+http://149.202.72.15:8000/live/casa/casa/1901.ts
+#EXTINF:-1,FR: Cine  Famiz
+http://149.202.72.15:8000/live/casa/casa/1900.ts
+#EXTINF:-1,FR: Cine  Frisson
+http://149.202.72.15:8000/live/casa/casa/1899.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+http://149.202.72.15:8000/live/casa/casa/1898.ts
+#EXTINF:-1,FR: Comedy
+http://149.202.72.15:8000/live/casa/casa/1897.ts
+#EXTINF:-1,FR: D17
+http://149.202.72.15:8000/live/casa/casa/1915.ts
+#EXTINF:-1,FR: D8
+http://149.202.72.15:8000/live/casa/casa/1916.ts
+#EXTINF:-1,FR: discovery Channel HD
+http://149.202.72.15:8000/live/casa/casa/1896.ts
+#EXTINF:-1,FR: Discovery Science
+http://149.202.72.15:8000/live/casa/casa/1895.ts
+#EXTINF:-1,FR: Disney Channel
+http://149.202.72.15:8000/live/casa/casa/1894.ts
+#EXTINF:-1,FR: Gulli HD
+http://149.202.72.15:8000/live/casa/casa/1888.ts
+#EXTINF:-1,FR: iTELE
+http://149.202.72.15:8000/live/casa/casa/1917.ts
+#EXTINF:-1,FR: La Deux
+http://149.202.72.15:8000/live/casa/casa/1918.ts
+#EXTINF:-1,FR: La Trois
+http://149.202.72.15:8000/live/casa/casa/1919.ts
+#EXTINF:-1,FR: La Une
+http://149.202.72.15:8000/live/casa/casa/1920.ts
+#EXTINF:-1,FR: Nat. Geo Wild HD
+http://149.202.72.15:8000/live/casa/casa/1886.ts
+#EXTINF:-1,FR: Nat. Geographic
+http://149.202.72.15:8000/live/casa/casa/1885.ts
+#EXTINF:-1,FR: OCS City
+http://149.202.72.15:8000/live/casa/casa/1882.ts
+#EXTINF:-1,FR: OCS GEANT
+http://149.202.72.15:8000/live/casa/casa/1881.ts
+#EXTINF:-1,FR: OCS Max
+http://149.202.72.15:8000/live/casa/casa/1880.ts
+#EXTINF:-1,FR: TELETOON
+http://149.202.72.15:8000/live/casa/casa/1878.ts
+#EXTINF:-1,FR: TMC
+http://149.202.72.15:8000/live/casa/casa/1921.ts
+#EXTINF:-1,FR: VOYAGE HD
+http://149.202.72.15:8000/live/casa/casa/1876.ts
+#EXTINF:-1,FR: W9
+http://149.202.72.15:8000/live/casa/casa/1875.ts
+#EXTINF:-1,FRANCE 24
+http://149.202.72.15:8000/live/casa/casa/785.ts
+#EXTINF:-1,TV5 MONDE
+http://149.202.72.15:8000/live/casa/casa/864.ts
+#EXTINF:-1,DEUTSCHE WELLE
+http://149.202.72.15:8000/live/casa/casa/858.ts
+#EXTINF:-1,BLOOMBERG
+http://149.202.72.15:8000/live/casa/casa/861.ts
+#EXTINF:-1,M6
+http://149.202.72.15:8000/live/casa/casa/691.ts
+#EXTINF:-1,---? BIEN SPORTS ?---
+http://149.202.72.15:8000/live/casa/casa/1873.ts
+#EXTINF:-1,BEIN :SPORT1 HD
+http://149.202.72.15:8000/live/casa/casa/1922.ts
+#EXTINF:-1,BEIN :SPORT2 HD
+http://149.202.72.15:8000/live/casa/casa/1925.ts
+#EXTINF:-1,BEIN :SPORT3 HD
+http://149.202.72.15:8000/live/casa/casa/1926.ts
+#EXTINF:-1,BEIN :SPORT4 HD
+http://149.202.72.15:8000/live/casa/casa/1927.ts
+#EXTINF:-1,BEIN :SPORT5 HD
+http://149.202.72.15:8000/live/casa/casa/1928.ts
+#EXTINF:-1,BEIN :SPORT6 HD
+http://149.202.72.15:8000/live/casa/casa/1929.ts
+#EXTINF:-1,BEIN :SPORT7 HD
+http://149.202.72.15:8000/live/casa/casa/1930.ts
+#EXTINF:-1,BEIN :SPORT8 HD
+http://149.202.72.15:8000/live/casa/casa/1931.ts
+#EXTINF:-1,BEIN :SPORT9 HD
+http://149.202.72.15:8000/live/casa/casa/1932.ts
+#EXTINF:-1,BEIN :SPORT10 HD
+http://149.202.72.15:8000/live/casa/casa/1923.ts
+#EXTINF:-1,BEIN :SPORT11 HD
+http://149.202.72.15:8000/live/casa/casa/1924.ts
+#EXTINF:-1,---? SWITZERLAND ?---
+http://149.202.72.15:8000/live/casa/casa/1874.ts
+#EXTINF:-1,CH: CINEMA 1 DE
+http://149.202.72.15:8000/live/casa/casa/1933.ts
+#EXTINF:-1,CH: CINEMA 1 FR
+http://149.202.72.15:8000/live/casa/casa/1934.ts
+#EXTINF:-1,CH: CINEMA 1 IT
+http://149.202.72.15:8000/live/casa/casa/1935.ts
+#EXTINF:-1,CH: CINEMA 2 DE
+http://149.202.72.15:8000/live/casa/casa/1936.ts
+#EXTINF:-1,CH: CINEMA 2 FR
+http://149.202.72.15:8000/live/casa/casa/1937.ts
+#EXTINF:-1,CH: CINEMA 2 IT
+http://149.202.72.15:8000/live/casa/casa/1938.ts
+#EXTINF:-1,CH: La TELE HD
+http://149.202.72.15:8000/live/casa/casa/1939.ts
+#EXTINF:-1,CH: RSI La 1 HD
+http://149.202.72.15:8000/live/casa/casa/1940.ts
+#EXTINF:-1,CH: RSI La 2 HD
+http://149.202.72.15:8000/live/casa/casa/1941.ts
+#EXTINF:-1,CH: RTS Deux
+http://149.202.72.15:8000/live/casa/casa/1942.ts
+#EXTINF:-1,CH: RTS Un HD
+http://149.202.72.15:8000/live/casa/casa/1943.ts
+#EXTINF:-1,CH: SFR Sport 1 HD
+http://149.202.72.15:8000/live/casa/casa/1944.ts
+#EXTINF:-1,CH: SFR Sport 2 HD
+http://149.202.72.15:8000/live/casa/casa/1945.ts
+#EXTINF:-1,CH: SFR Sport 3 HD
+http://149.202.72.15:8000/live/casa/casa/1946.ts
+#EXTINF:-1,CH: SRF 1 HD
+http://149.202.72.15:8000/live/casa/casa/1947.ts
+#EXTINF:-1,CH: SRF 2 HD
+http://149.202.72.15:8000/live/casa/casa/1948.ts
+#EXTINF:-1,CH: SRF Info HD
+http://149.202.72.15:8000/live/casa/casa/1949.ts
+#EXTINF:-1,CH: TELEBASEL
+http://149.202.72.15:8000/live/casa/casa/1950.ts
+#EXTINF:-1,CH: TELECLUB SPORT 1HD
+http://149.202.72.15:8000/live/casa/casa/1951.ts
+#EXTINF:-1,CH: TELECLUB SPORT 2HD
+http://149.202.72.15:8000/live/casa/casa/1952.ts
+#EXTINF:-1,CH: TELECLUB SPORT 3HD
+http://149.202.72.15:8000/live/casa/casa/1953.ts
+#EXTINF:-1,CH: Teleclub STAR HD
+http://149.202.72.15:8000/live/casa/casa/1954.ts
+#EXTINF:-1,CH: TVM3 HD
+http://149.202.72.15:8000/live/casa/casa/1955.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" , XXX VENUS MOBILE
+http://149.202.72.15:8000/live/Costa/Costa/1468.ts
+#EXTINF:0 type="stream" , XXX PLAYBOY MOBILE
+http://149.202.72.15:8000/live/Costa/Costa/1469.ts
+#EXTINF:0 type="stream" , XXX HOT MOBILE
+http://149.202.72.15:8000/live/Costa/Costa/1470.ts
+#EXTINF:0 type="stream" , XXX: SEXTREME
+http://149.202.72.15:8000/live/Costa/Costa/690.ts
+#EXTINF:0 type="stream" , XXX: PENTHOUSE
+http://149.202.72.15:8000/live/Costa/Costa/510.ts
+#EXTINF:0 type="stream" , XXX: VENUS
+http://149.202.72.15:8000/live/Costa/Costa/181.ts
+#EXTINF:0 type="stream" , XXX: PLAYBOY
+http://149.202.72.15:8000/live/Costa/Costa/304.ts
+#EXTINF:0 type="stream" , XXX HOT XXX
+http://149.202.72.15:8000/live/Costa/Costa/244.ts
+#EXTINF:0 type="stream" , XXX: REDLIGHT HD
+http://149.202.72.15:8000/live/Costa/Costa/853.ts
+#EXTINF:0 type="stream" , XXX: HUSTLER HD
+http://149.202.72.15:8000/live/Costa/Costa/856.ts
+#EXTINF:0 type="stream" , XXX: SESTO SENSO TV
+http://149.202.72.15:8000/live/Costa/Costa/800.ts
+#EXTINF:0 type="stream" , XXX: TGIRLS TV
+http://149.202.72.15:8000/live/Costa/Costa/799.ts
+#EXTINF:0 type="stream" , XXX: EXOTICA TV
+http://149.202.72.15:8000/live/Costa/Costa/803.ts
+#EXTINF:0 type="stream" , xXx: Hot Club 1
+http://149.202.72.15:8000/live/Costa/Costa/1328.ts
+#EXTINF:0 type="stream" , xXx: Hot Club 2
+http://149.202.72.15:8000/live/Costa/Costa/1327.ts
+#EXTINF:0 type="stream" , xXx: Hot Club 3
+http://149.202.72.15:8000/live/Costa/Costa/1326.ts
+#EXTINF:0 type="stream" , xXx: Hot Club 4
+http://149.202.72.15:8000/live/Costa/Costa/1325.ts
+#EXTINF:0 type="stream" , XXX: Hot Club 6
+http://149.202.72.15:8000/live/Costa/Costa/1323.ts
+#EXTINF:0 type="stream" , XXX: Hot Club 7
+http://149.202.72.15:8000/live/Costa/Costa/1322.ts
+#EXTINF:0 type="stream" , XXX: Hot Club 8
+http://149.202.72.15:8000/live/Costa/Costa/1321.ts
+#EXTINF:-1,XXX: SEXTREME
+http://149.202.72.15:8000/live/Costa/Costa/690.ts
+#EXTINF:-1,XXX: PENTHOUSE
+http://149.202.72.15:8000/live/Costa/Costa/510.ts
+#EXTINF:-1,XXX: VENUS
+http://149.202.72.15:8000/live/Costa/Costa/181.ts
+#EXTINF:-1,XXX: PLAYBOY
+http://149.202.72.15:8000/live/Costa/Costa/304.ts
+#EXTINF:-1,XXX HOT XXX
+http://149.202.72.15:8000/live/Costa/Costa/244.ts
+#EXTINF:-1,XXX: REDLIGHT HD
+http://149.202.72.15:8000/live/Costa/Costa/853.ts
+#EXTINF:-1,XXX: HUSTLER HD
+http://149.202.72.15:8000/live/Costa/Costa/856.ts
+#EXTINF:-1,XXX: SCT
+http://149.202.72.15:8000/live/Costa/Costa/805.ts
+#EXTINF:-1,XXX: SESTO SENSO TV
+http://149.202.72.15:8000/live/Costa/Costa/800.ts
+#EXTINF:-1,XXX: SCT HD
+http://149.202.72.15:8000/live/Costa/Costa/801.ts
+#EXTINF:-1,XXX: TGIRLS TV
+http://149.202.72.15:8000/live/Costa/Costa/799.ts
+#EXTINF:-1,XXX: PINK O TV
+http://149.202.72.15:8000/live/Costa/Costa/802.ts
+#EXTINF:-1,XXX: EXOTICA TV
+http://149.202.72.15:8000/live/Costa/Costa/803.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV
+http://149.202.72.15:8000/live/Costa/Costa/804.ts
+#EXTINF:-1,xXx: Hot Club 1
+http://149.202.72.15:8000/live/Costa/Costa/1328.ts
+#EXTINF:-1,xXx: Hot Club 2
+http://149.202.72.15:8000/live/Costa/Costa/1327.ts
+#EXTINF:-1,xXx: Hot Club 3
+http://149.202.72.15:8000/live/Costa/Costa/1326.ts
+#EXTINF:-1,xXx: Hot Club 4
+http://149.202.72.15:8000/live/Costa/Costa/1325.ts
+#EXTINF:-1,xXx: Hot Club 5
+http://149.202.72.15:8000/live/Costa/Costa/1324.ts
+#EXTINF:-1,XXX: Hot Club 6
+http://149.202.72.15:8000/live/Costa/Costa/1323.ts
+#EXTINF:-1,XXX: Hot Club 7
+http://149.202.72.15:8000/live/Costa/Costa/1322.ts
+#EXTINF:-1,XXX: Hot Club 8
+http://149.202.72.15:8000/live/Costa/Costa/1321.ts
+#EXTINF:-1,Redlight HD
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1198.ts
+#EXTINF:-1,Hustler HD
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1199.ts
+#EXTINF:-1,TGIRLS TV
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/964.ts
+#EXTINF:-1,SESTO SENSO TV
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/965.ts
+#EXTINF:-1,Pink O TV
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/962.ts
+#EXTINF:-1,CENTOxCENTO TV
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/963.ts
+#EXTINF:-1,SCT HQ
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/328.ts
+#EXTINF:-1,Esotica xxx
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/327.ts
+#EXTINF:-1,XXX: ADULT 1
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1947.ts
+#EXTINF:-1,XXX: ADULT 2
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1936.ts
+#EXTINF:-1,XXX: ADULT 3
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1934.ts
+#EXTINF:-1,XXX: ADULT 4
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1933.ts
+#EXTINF:-1,XXX: ADULT 5
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1932.ts
+#EXTINF:-1,XXX: ADULT 6
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1931.ts
+#EXTINF:-1,XXX: ADULT 7
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1930.ts
+#EXTINF:-1,XXX: ADULT 8
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1929.ts
+#EXTINF:-1,XXX: ADULT 9
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1928.ts
+#EXTINF:-1,XXX: ADULT 10
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1946.ts
+#EXTINF:-1,XXX: ADULT 11
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1945.ts
+#EXTINF:-1,XXX: ADULT 12
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1944.ts
+#EXTINF:-1,XXX: ADULT 13
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1943.ts
+#EXTINF:-1,XXX: ADULT 14
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1942.ts
+#EXTINF:-1,XXX: ADULT 15
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1941.ts
+#EXTINF:-1,XXX: ADULT 16
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2125.ts
+#EXTINF:-1,XXX: ADULT 17
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2124.ts
+#EXTINF:-1,XXX: ADULT 18
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2123.ts
+#EXTINF:-1,XXX: ADULT 19
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2122.ts
+#EXTINF:-1,XXX: ADULT 20
+http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2121.ts
+#EXTINF:-1,ADULTI MOVIE 1
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/357.mp4
+#EXTINF:-1,ADULTI MOVIE 2
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/358.mp4
+#EXTINF:-1,ADULTI MOVIE 3
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/359.mp4
+#EXTINF:-1,ADULTI MOVIE 4
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/360.mp4
+#EXTINF:-1,ADULTI MOVIE 5
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/361.mp4
+#EXTINF:-1,ADULTI MOVIE 6
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/362.mp4
+#EXTINF:-1,ADULTI MOVIE 7
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/363.mp4
+#EXTINF:-1,ADULTI MOVIE 8
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/364.mp4
+#EXTINF:-1,ADULTI MOVIE 9
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/365.mp4
+#EXTINF:-1,ADULTI MOVIE 10
+http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/366.mp4
+
+
+
+
+
+
+

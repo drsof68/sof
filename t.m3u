@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,FRENCH |  liste1
 http://gootvonline.net:8585/get.php?username=justin&password=justin&type=m3u
 #http://panel3server.com:80/get.php?username=necmi05&password=20082016vu&type=m3u 
 #http://163.172.42.177:25461/get.php?username=15&password=15&type=m3u

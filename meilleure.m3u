@@ -1,902 +1,727 @@
-#EXTM3U
-#EXTINF:-1,FR: TF1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1877.ts
-#EXTINF:-1,FR: France O
-http://149.202.72.15:8000/live/Costa/Costa/1889.ts
-#EXTINF:-1,FR: France 2
-http://149.202.72.15:8000/live/Costa/Costa/1893.ts
-#EXTINF:-1,FR: France 3
-http://149.202.72.15:8000/live/Costa/Costa/1892.ts
-#EXTINF:-1,FR: France 4
-http://149.202.72.15:8000/live/Costa/Costa/1891.ts
-#EXTINF:-1,FR: France 5
-http://149.202.72.15:8000/live/Costa/Costa/1890.ts
-#EXTINF:-1,FR: NRJ 12
-http://149.202.72.15:8000/live/Costa/Costa/1884.ts
-#EXTINF:-1,FR: NT1
-http://149.202.72.15:8000/live/Costa/Costa/1883.ts
-#EXTINF:-1,FR: Planete A&E
-http://149.202.72.15:8000/live/Costa/Costa/1879.ts
-#EXTINF:-1,FR: M6 HD
-http://149.202.72.15:8000/live/Costa/Costa/1887.ts
-#EXTINF:-1,FR:  FOOT  24/24
-http://149.202.72.15:8000/live/Costa/Costa/1913.ts
-#EXTINF:-1,FR:  TELETOON
-http://149.202.72.15:8000/live/Costa/Costa/1912.ts
-#EXTINF:-1,FR: Animaux HD
-http://149.202.72.15:8000/live/Costa/Costa/1911.ts
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1910.ts
-#EXTINF:-1,FR: Bein Sports 2
-http://149.202.72.15:8000/live/Costa/Costa/1909.ts
-#EXTINF:-1,FR: Bein Sports 3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1908.ts
-#EXTINF:-1,FR: BFMTV
-http://149.202.72.15:8000/live/Costa/Costa/1914.ts
-#EXTINF:-1,FR: Canal
-http://149.202.72.15:8000/live/Costa/Costa/1907.ts
-#EXTINF:-1,FR: CANAL  CINEMA
-http://149.202.72.15:8000/live/Costa/Costa/1906.ts
-#EXTINF:-1,FR: Canal  Decale
-http://149.202.72.15:8000/live/Costa/Costa/1905.ts
-#EXTINF:-1,FR: Canal  Sport
-http://149.202.72.15:8000/live/Costa/Costa/1904.ts
-#EXTINF:-1,FR: Cine  Classic
-http://149.202.72.15:8000/live/Costa/Costa/1903.ts
-#EXTINF:-1,FR: Cine  Club
-http://149.202.72.15:8000/live/Costa/Costa/1902.ts
-#EXTINF:-1,FR: Cine  Emotion
-http://149.202.72.15:8000/live/Costa/Costa/1901.ts
-#EXTINF:-1,FR: Cine  Famiz
-http://149.202.72.15:8000/live/Costa/Costa/1900.ts
-#EXTINF:-1,FR: Cine  Frisson
-http://149.202.72.15:8000/live/Costa/Costa/1899.ts
-#EXTINF:-1,FR: CINE  PREMIER HD
-http://149.202.72.15:8000/live/Costa/Costa/1898.ts
-#EXTINF:-1,FR: Comedy
-http://149.202.72.15:8000/live/Costa/Costa/1897.ts
-#EXTINF:-1,FR: D17
-http://149.202.72.15:8000/live/Costa/Costa/1915.ts
-#EXTINF:-1,FR: D8
-http://149.202.72.15:8000/live/Costa/Costa/1916.ts
-#EXTINF:-1,FR: discovery Channel HD
-http://149.202.72.15:8000/live/Costa/Costa/1896.ts
-#EXTINF:-1,FR: Discovery Science
-http://149.202.72.15:8000/live/Costa/Costa/1895.ts
-#EXTINF:-1,FR: Disney Channel
-http://149.202.72.15:8000/live/Costa/Costa/1894.ts
-#EXTINF:-1,FR: Gulli HD
-http://149.202.72.15:8000/live/Costa/Costa/1888.ts
-#EXTINF:-1,FR: iTELE
-http://149.202.72.15:8000/live/Costa/Costa/1917.ts
-#EXTINF:-1,FR: La Deux
-http://149.202.72.15:8000/live/Costa/Costa/1918.ts
-#EXTINF:-1,FR: La Trois
-http://149.202.72.15:8000/live/Costa/Costa/1919.ts
-#EXTINF:-1,FR: La Une
-http://149.202.72.15:8000/live/Costa/Costa/1920.ts
-#EXTINF:-1,FR: Nat. Geo Wild HD
-http://149.202.72.15:8000/live/Costa/Costa/1886.ts
-#EXTINF:-1,FR: Nat. Geographic
-http://149.202.72.15:8000/live/Costa/Costa/1885.ts
-#EXTINF:-1,FR: OCS City
-http://149.202.72.15:8000/live/Costa/Costa/1882.ts
-#EXTINF:-1,FR: OCS GEANT
-http://149.202.72.15:8000/live/Costa/Costa/1881.ts
-#EXTINF:-1,FR: OCS Max
-http://149.202.72.15:8000/live/Costa/Costa/1880.ts
-#EXTINF:-1,FR: TELETOON
-http://149.202.72.15:8000/live/Costa/Costa/1878.ts
-#EXTINF:-1,FR: TMC
-http://149.202.72.15:8000/live/Costa/Costa/1921.ts
-#EXTINF:-1,FR: VOYAGE HD
-http://149.202.72.15:8000/live/Costa/Costa/1876.ts
-#EXTINF:-1,FR: W9
-http://149.202.72.15:8000/live/Costa/Costa/1875.ts
-#EXTINF:-1,---? BIEN SPORTS ?---
-http://149.202.72.15:8000/live/Costa/Costa/1873.ts
-#EXTINF:-1,BEIN :SPORT1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1922.ts
-#EXTINF:-1,BEIN :SPORT2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1925.ts
-#EXTINF:-1,BEIN :SPORT3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1926.ts
-#EXTINF:-1,BEIN :SPORT4 HD
-http://149.202.72.15:8000/live/Costa/Costa/1927.ts
-#EXTINF:-1,BEIN :SPORT5 HD
-http://149.202.72.15:8000/live/Costa/Costa/1928.ts
-#EXTINF:-1,BEIN :SPORT6 HD
-http://149.202.72.15:8000/live/Costa/Costa/1929.ts
-#EXTINF:-1,BEIN :SPORT7 HD
-http://149.202.72.15:8000/live/Costa/Costa/1930.ts
-#EXTINF:-1,BEIN :SPORT8 HD
-http://149.202.72.15:8000/live/Costa/Costa/1931.ts
-#EXTINF:-1,BEIN :SPORT9 HD
-http://149.202.72.15:8000/live/Costa/Costa/1932.ts
-#EXTINF:-1,BEIN :SPORT10 HD
-http://149.202.72.15:8000/live/Costa/Costa/1923.ts
-#EXTINF:-1,BEIN :SPORT11 HD
-http://149.202.72.15:8000/live/Costa/Costa/1924.ts
-#EXTINF:-1,---? SWITZERLAND ?---
-http://149.202.72.15:8000/live/Costa/Costa/1874.ts
-#EXTINF:-1,CH: CINEMA 1 DE
-http://149.202.72.15:8000/live/Costa/Costa/1933.ts
-#EXTINF:-1,CH: CINEMA 1 FR
-http://149.202.72.15:8000/live/Costa/Costa/1934.ts
-#EXTINF:-1,CH: CINEMA 1 IT
-http://149.202.72.15:8000/live/Costa/Costa/1935.ts
-#EXTINF:-1,CH: CINEMA 2 DE
-http://149.202.72.15:8000/live/Costa/Costa/1936.ts
-#EXTINF:-1,CH: CINEMA 2 FR
-http://149.202.72.15:8000/live/Costa/Costa/1937.ts
-#EXTINF:-1,CH: CINEMA 2 IT
-http://149.202.72.15:8000/live/Costa/Costa/1938.ts
-#EXTINF:-1,CH: La TELE HD
-http://149.202.72.15:8000/live/Costa/Costa/1939.ts
-#EXTINF:-1,CH: RSI La 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1940.ts
-#EXTINF:-1,CH: RSI La 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1941.ts
-#EXTINF:-1,CH: RTS Deux
-http://149.202.72.15:8000/live/Costa/Costa/1942.ts
-#EXTINF:-1,CH: RTS Un HD
-http://149.202.72.15:8000/live/Costa/Costa/1943.ts
-#EXTINF:-1,CH: SFR Sport 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1944.ts
-#EXTINF:-1,CH: SFR Sport 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1945.ts
-#EXTINF:-1,CH: SFR Sport 3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1946.ts
-#EXTINF:-1,CH: SRF 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1947.ts
-#EXTINF:-1,CH: SRF 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1948.ts
-#EXTINF:-1,CH: SRF Info HD
-http://149.202.72.15:8000/live/Costa/Costa/1949.ts
-#EXTINF:-1,CH: TELEBASEL
-http://149.202.72.15:8000/live/Costa/Costa/1950.ts
-#EXTINF:-1,CH: TELECLUB SPORT 1HD
-http://149.202.72.15:8000/live/Costa/Costa/1951.ts
-#EXTINF:-1,CH: TELECLUB SPORT 2HD
-http://149.202.72.15:8000/live/Costa/Costa/1952.ts
-#EXTINF:-1,CH: TELECLUB SPORT 3HD
-http://149.202.72.15:8000/live/Costa/Costa/1953.ts
-#EXTINF:-1,CH: Teleclub STAR HD
-http://149.202.72.15:8000/live/Costa/Costa/1954.ts
-#EXTINF:-1,CH: TVM3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1955.ts
-
-
-#EXTINF:-1,---☛ ITALIA ☚---
-http://149.202.72.15:8000/live/Costa/Costa/1812.ts
-#EXTINF:-1,IT Sky Fox Sports HD
-http://149.202.72.15:8000/live/Costa/Costa/1739.ts
-#EXTINF:-1,IT: Alice
-http://149.202.72.15:8000/live/Costa/Costa/1740.ts
-#EXTINF:-1,IT: Antenna 3
-http://149.202.72.15:8000/live/Costa/Costa/1741.ts
-#EXTINF:-1,IT: AutoMoto TV
-http://149.202.72.15:8000/live/Costa/Costa/1742.ts
-#EXTINF:-1,IT: BOING
-http://149.202.72.15:8000/live/Costa/Costa/1743.ts
-#EXTINF:-1,IT: Canale 21
-http://149.202.72.15:8000/live/Costa/Costa/1744.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://149.202.72.15:8000/live/Costa/Costa/1745.ts
-#EXTINF:-1,IT: Canale Dieci
-http://149.202.72.15:8000/live/Costa/Costa/1746.ts
-#EXTINF:-1,IT: CBL Classic
-http://149.202.72.15:8000/live/Costa/Costa/1747.ts
-#EXTINF:-1,IT: Cielo
-http://149.202.72.15:8000/live/Costa/Costa/1748.ts
-#EXTINF:-1,IT: Class CNBC
-http://149.202.72.15:8000/live/Costa/Costa/1749.ts
-#EXTINF:-1,IT: Class TV
-http://149.202.72.15:8000/live/Costa/Costa/1750.ts
-#EXTINF:-1,IT: Dee Jay TV
-http://149.202.72.15:8000/live/Costa/Costa/1751.ts
-#EXTINF:-1,IT: Nat Geo Wild HD
-http://149.202.72.15:8000/live/Costa/Costa/1752.ts
-#EXTINF:-1,IT: OTTO 8 FM TV
-http://149.202.72.15:8000/live/Costa/Costa/1753.ts
-#EXTINF:-1,IT: Premium Action  24 HD
-http://149.202.72.15:8000/live/Costa/Costa/1754.ts
-#EXTINF:-1,IT: Premium Action HD
-http://149.202.72.15:8000/live/Costa/Costa/1755.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://149.202.72.15:8000/live/Costa/Costa/1756.ts
-#EXTINF:-1,IT: Premium Cinema 24 HD
-http://149.202.72.15:8000/live/Costa/Costa/1757.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://149.202.72.15:8000/live/Costa/Costa/1758.ts
-#EXTINF:-1,IT: Premium Comedy HD
-http://149.202.72.15:8000/live/Costa/Costa/1759.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://149.202.72.15:8000/live/Costa/Costa/1760.ts
-#EXTINF:-1,IT: Premium Disney Channel
-http://149.202.72.15:8000/live/Costa/Costa/1761.ts
-#EXTINF:-1,IT: Premium Emotion HD
-http://149.202.72.15:8000/live/Costa/Costa/1762.ts
-#EXTINF:-1,IT: Premium Energy HD
-http://149.202.72.15:8000/live/Costa/Costa/1763.ts
-#EXTINF:-1,IT: Premium Joy
-http://149.202.72.15:8000/live/Costa/Costa/1764.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1765.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://149.202.72.15:8000/live/Costa/Costa/1766.ts
-#EXTINF:-1,IT: Premium Stories HD
-http://149.202.72.15:8000/live/Costa/Costa/1767.ts
-#EXTINF:-1,IT: Primo Canale
-http://149.202.72.15:8000/live/Costa/Costa/1768.ts
-#EXTINF:-1,IT: Radionorba TV
-http://149.202.72.15:8000/live/Costa/Costa/1769.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1770.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1771.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1772.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://149.202.72.15:8000/live/Costa/Costa/1773.ts
-#EXTINF:-1,IT: Rai Gulp
-http://149.202.72.15:8000/live/Costa/Costa/1774.ts
-#EXTINF:-1,IT: Rai Movie
-http://149.202.72.15:8000/live/Costa/Costa/1775.ts
-#EXTINF:-1,IT: Rai Premium
-http://149.202.72.15:8000/live/Costa/Costa/1776.ts
-#EXTINF:-1,IT: Rai Scuola
-http://149.202.72.15:8000/live/Costa/Costa/1777.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://149.202.72.15:8000/live/Costa/Costa/1778.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://149.202.72.15:8000/live/Costa/Costa/1779.ts
-#EXTINF:-1,IT: Rai Storia
-http://149.202.72.15:8000/live/Costa/Costa/1780.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://149.202.72.15:8000/live/Costa/Costa/1781.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://149.202.72.15:8000/live/Costa/Costa/1782.ts
-#EXTINF:-1,IT: Rete 8 Sport
-http://149.202.72.15:8000/live/Costa/Costa/1783.ts
-#EXTINF:-1,IT: Rete55 Sport
-http://149.202.72.15:8000/live/Costa/Costa/1784.ts
-#EXTINF:-1,IT: Ricicla TV
-http://149.202.72.15:8000/live/Costa/Costa/1785.ts
-#EXTINF:-1,IT: Sky Cinema  24 HD
-http://149.202.72.15:8000/live/Costa/Costa/1786.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1787.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://149.202.72.15:8000/live/Costa/Costa/1788.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://149.202.72.15:8000/live/Costa/Costa/1789.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://149.202.72.15:8000/live/Costa/Costa/1790.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://149.202.72.15:8000/live/Costa/Costa/1791.ts
-#EXTINF:-1,IT: Sky Discovery Channel HD
-http://149.202.72.15:8000/live/Costa/Costa/1792.ts
-#EXTINF:-1,IT: Sky Fox HD
-http://149.202.72.15:8000/live/Costa/Costa/1793.ts
-#EXTINF:-1,IT: Sky Moto GP HD
-http://149.202.72.15:8000/live/Costa/Costa/1794.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1795.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1796.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://149.202.72.15:8000/live/Costa/Costa/1797.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1798.ts
-#EXTINF:-1,IT: Sky Super Tennis HD
-http://149.202.72.15:8000/live/Costa/Costa/1799.ts
-#EXTINF:-1,IT: Super TV
-http://149.202.72.15:8000/live/Costa/Costa/1800.ts
-#EXTINF:-1,IT: Tele Luna
-http://149.202.72.15:8000/live/Costa/Costa/1801.ts
-#EXTINF:-1,IT: Tele Mantova
-http://149.202.72.15:8000/live/Costa/Costa/1802.ts
-#EXTINF:-1,IT: Tele Unica
-http://149.202.72.15:8000/live/Costa/Costa/1803.ts
-#EXTINF:-1,IT: teleboario
-http://149.202.72.15:8000/live/Costa/Costa/1804.ts
-#EXTINF:-1,IT: Telecitta
-http://149.202.72.15:8000/live/Costa/Costa/1805.ts
-#EXTINF:-1,IT: Tg Com 24
-http://149.202.72.15:8000/live/Costa/Costa/1806.ts
-#EXTINF:-1,IT: TG Norba 24
-http://149.202.72.15:8000/live/Costa/Costa/1807.ts
-#EXTINF:-1,IT: TRM TV
-http://149.202.72.15:8000/live/Costa/Costa/1808.ts
-#EXTINF:-1,IT: TSN 1 Italy
-http://149.202.72.15:8000/live/Costa/Costa/1809.ts
-#EXTINF:-1,IT: TSN 2 Italy
-http://149.202.72.15:8000/live/Costa/Costa/1810.ts
-#EXTINF:-1,IT: TV 2000
-http://149.202.72.15:8000/live/Costa/Costa/1811.ts
-#EXTINF:-1,---☛ DEUTSCH ☚---
-http://149.202.72.15:8000/live/Costa/Costa/1081.ts
-#EXTINF:-1,DE: ZDF
-http://149.202.72.15:8000/live/Costa/Costa/1082.ts
-#EXTINF:-1,DE: WDR
-http://149.202.72.15:8000/live/Costa/Costa/1083.ts
-#EXTINF:-1,DE: VOX
-http://149.202.72.15:8000/live/Costa/Costa/1084.ts
-#EXTINF:-1,DE: TNT Film
-http://149.202.72.15:8000/live/Costa/Costa/1085.ts
-#EXTINF:-1,DE: Tagesschau 24
-http://149.202.72.15:8000/live/Costa/Costa/1086.ts
-#EXTINF:-1,DE: SuperRTL
-http://149.202.72.15:8000/live/Costa/Costa/1087.ts
-#EXTINF:-1,DE: SRF2
-http://149.202.72.15:8000/live/Costa/Costa/1088.ts
-#EXTINF:-1,DE: SRF1
-http://149.202.72.15:8000/live/Costa/Costa/1089.ts
-#EXTINF:-1,DE: Sky Sports Austria
-http://149.202.72.15:8000/live/Costa/Costa/1090.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1091.ts
-#EXTINF:-1,DE: SKY SPORTS 1 HQ
-http://149.202.72.15:8000/live/Costa/Costa/1092.ts
-#EXTINF:-1,DE: Sky Sport News
-http://149.202.72.15:8000/live/Costa/Costa/1093.ts
-#EXTINF:-1,DE: SKY Krimi
-http://149.202.72.15:8000/live/Costa/Costa/1094.ts
-#EXTINF:-1,DE: Sky emotion
-http://149.202.72.15:8000/live/Costa/Costa/1095.ts
-#EXTINF:-1,DE: Sky Comedy
-http://149.202.72.15:8000/live/Costa/Costa/1096.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://149.202.72.15:8000/live/Costa/Costa/1097.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://149.202.72.15:8000/live/Costa/Costa/1098.ts
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://149.202.72.15:8000/live/Costa/Costa/1099.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://149.202.72.15:8000/live/Costa/Costa/1100.ts
-#EXTINF:-1,DE: SAT 1
-http://149.202.72.15:8000/live/Costa/Costa/1101.ts
-#EXTINF:-1,DE: RTLNitro
-http://149.202.72.15:8000/live/Costa/Costa/1102.ts
-#EXTINF:-1,DE: RTL living
-http://149.202.72.15:8000/live/Costa/Costa/1103.ts
-#EXTINF:-1,DE: RTL 2
-http://149.202.72.15:8000/live/Costa/Costa/1104.ts
-#EXTINF:-1,DE: RTL 1
-http://149.202.72.15:8000/live/Costa/Costa/1105.ts
-#EXTINF:-1,DE: RBB
-http://149.202.72.15:8000/live/Costa/Costa/1106.ts
-#EXTINF:-1,DE: PRO 7
-http://149.202.72.15:8000/live/Costa/Costa/1107.ts
-#EXTINF:-1,DE: Phoenix
-http://149.202.72.15:8000/live/Costa/Costa/1108.ts
-#EXTINF:-1,DE: ORF 2
-http://149.202.72.15:8000/live/Costa/Costa/1109.ts
-#EXTINF:-1,DE: ORF 1
-http://149.202.72.15:8000/live/Costa/Costa/1110.ts
-#EXTINF:-1,DE: NickelodeoN
-http://149.202.72.15:8000/live/Costa/Costa/1111.ts
-#EXTINF:-1,DE: NDR
-http://149.202.72.15:8000/live/Costa/Costa/1112.ts
-#EXTINF:-1,DE: Nat. Geo Wild
-http://149.202.72.15:8000/live/Costa/Costa/1113.ts
-#EXTINF:-1,DE: Nat. Geo  HD
-http://149.202.72.15:8000/live/Costa/Costa/1114.ts
-#EXTINF:-1,DE: N24
-http://149.202.72.15:8000/live/Costa/Costa/1115.ts
-#EXTINF:-1,DE: KIKA
-http://149.202.72.15:8000/live/Costa/Costa/1116.ts
-#EXTINF:-1,DE: History HD
-http://149.202.72.15:8000/live/Costa/Costa/1117.ts
-#EXTINF:-1,DE: FOX HQ
-http://149.202.72.15:8000/live/Costa/Costa/1118.ts
-#EXTINF:-1,DE: Eurosport HD
-http://149.202.72.15:8000/live/Costa/Costa/1119.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://149.202.72.15:8000/live/Costa/Costa/1120.ts
-#EXTINF:-1,DE: Disney Channel DE
-http://149.202.72.15:8000/live/Costa/Costa/1121.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://149.202.72.15:8000/live/Costa/Costa/1122.ts
-#EXTINF:-1,DE: BR
-http://149.202.72.15:8000/live/Costa/Costa/1123.ts
-#EXTINF:-1,DE: AXN HQ
-http://149.202.72.15:8000/live/Costa/Costa/1124.ts
-#EXTINF:-1,DE: ARD
-http://149.202.72.15:8000/live/Costa/Costa/1125.ts
-#EXTINF:-1,---☛ ENGLISH ☚---
-http://149.202.72.15:8000/live/Costa/Costa/1267.ts
-#EXTINF:-1,UK: Utv iRELAND
-http://149.202.72.15:8000/live/Costa/Costa/1268.ts
-#EXTINF:-1,UK: True Movies
-http://149.202.72.15:8000/live/Costa/Costa/1269.ts
-#EXTINF:-1,UK: Travel channel
-http://149.202.72.15:8000/live/Costa/Costa/1270.ts
-#EXTINF:-1,UK: TMC
-http://149.202.72.15:8000/live/Costa/Costa/1271.ts
-#EXTINF:-1,UK: TLC
-http://149.202.72.15:8000/live/Costa/Costa/1272.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://149.202.72.15:8000/live/Costa/Costa/1273.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://149.202.72.15:8000/live/Costa/Costa/1274.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://149.202.72.15:8000/live/Costa/Costa/1275.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://149.202.72.15:8000/live/Costa/Costa/1276.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1277.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1278.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1279.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
-http://149.202.72.15:8000/live/Costa/Costa/1280.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://149.202.72.15:8000/live/Costa/Costa/1281.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats
-http://149.202.72.15:8000/live/Costa/Costa/1282.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://149.202.72.15:8000/live/Costa/Costa/1283.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://149.202.72.15:8000/live/Costa/Costa/1284.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://149.202.72.15:8000/live/Costa/Costa/1285.ts
-#EXTINF:-1,UK: Sky Movies Crime & Thriller
-http://149.202.72.15:8000/live/Costa/Costa/1286.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://149.202.72.15:8000/live/Costa/Costa/1287.ts
-#EXTINF:-1,UK: Sky Movies Atlantic
-http://149.202.72.15:8000/live/Costa/Costa/1288.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure
-http://149.202.72.15:8000/live/Costa/Costa/1289.ts
-#EXTINF:-1,UK: Sky living
-http://149.202.72.15:8000/live/Costa/Costa/1290.ts
-#EXTINF:-1,UK: Racing
-http://149.202.72.15:8000/live/Costa/Costa/1291.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://149.202.72.15:8000/live/Costa/Costa/1292.ts
-#EXTINF:-1,UK: Nicktoons
-http://149.202.72.15:8000/live/Costa/Costa/1293.ts
-#EXTINF:-1,UK: Nat. Geo
-http://149.202.72.15:8000/live/Costa/Costa/1294.ts
-#EXTINF:-1,UK: More 4
-http://149.202.72.15:8000/live/Costa/Costa/1295.ts
-#EXTINF:-1,UK: Manchester TV
-http://149.202.72.15:8000/live/Costa/Costa/1296.ts
-#EXTINF:-1,UK: Liverpool FC  tv
-http://149.202.72.15:8000/live/Costa/Costa/1297.ts
-#EXTINF:-1,UK: ITVBE
-http://149.202.72.15:8000/live/Costa/Costa/1298.ts
-#EXTINF:-1,UK: ITV4
-http://149.202.72.15:8000/live/Costa/Costa/1299.ts
-#EXTINF:-1,UK: ITV3
-http://149.202.72.15:8000/live/Costa/Costa/1300.ts
-#EXTINF:-1,UK: ITV2
-http://149.202.72.15:8000/live/Costa/Costa/1301.ts
-#EXTINF:-1,UK: ITV1
-http://149.202.72.15:8000/live/Costa/Costa/1302.ts
-#EXTINF:-1,UK: Gold
-http://149.202.72.15:8000/live/Costa/Costa/1303.ts
-#EXTINF:-1,UK: E4
-http://149.202.72.15:8000/live/Costa/Costa/1304.ts
-#EXTINF:-1,UK: Discovery Channel history
-http://149.202.72.15:8000/live/Costa/Costa/1305.ts
-#EXTINF:-1,UK: CBS action
-http://149.202.72.15:8000/live/Costa/Costa/1306.ts
-#EXTINF:-1,UK: BT Sport Europe HD
-http://149.202.72.15:8000/live/Costa/Costa/1307.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1308.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1309.ts
-#EXTINF:-1,UK: BT ESPN HD
-http://149.202.72.15:8000/live/Costa/Costa/1310.ts
-#EXTINF:-1,UK: BOX NATION
-http://149.202.72.15:8000/live/Costa/Costa/1311.ts
-#EXTINF:-1,UK: BBC 4
-http://149.202.72.15:8000/live/Costa/Costa/1312.ts
-#EXTINF:-1,UK: BBC 3
-http://149.202.72.15:8000/live/Costa/Costa/1313.ts
-#EXTINF:-1,UK: BBC 2
-http://149.202.72.15:8000/live/Costa/Costa/1314.ts
-#EXTINF:-1,UK: BBC 1
-http://149.202.72.15:8000/live/Costa/Costa/1315.ts
-#EXTINF:-1,UK: AT RACES
-http://149.202.72.15:8000/live/Costa/Costa/1316.ts
-#EXTINF:-1,UK : SETENTA
-http://149.202.72.15:8000/live/Costa/Costa/1317.ts
-#EXTINF:-1,UK : FOX
-http://149.202.72.15:8000/live/Costa/Costa/1318.ts
-#EXTINF:-1,UK : Food Network
-http://149.202.72.15:8000/live/Costa/Costa/1319.ts
-
-
-
-
-
-#EXTINF:-1,XXX: SEXTREME
-http://149.202.72.15:8000/live/Costa/Costa/690.ts
-#EXTINF:-1,XXX: PENTHOUSE
-http://149.202.72.15:8000/live/Costa/Costa/510.ts
-#EXTINF:-1,XXX: VENUS
-http://149.202.72.15:8000/live/Costa/Costa/181.ts
-#EXTINF:-1,XXX: PLAYBOY
-http://149.202.72.15:8000/live/Costa/Costa/304.ts
-#EXTINF:-1,XXX HOT XXX
-http://149.202.72.15:8000/live/Costa/Costa/244.ts
-#EXTINF:-1,XXX: REDLIGHT HD
-http://149.202.72.15:8000/live/Costa/Costa/853.ts
-#EXTINF:-1,XXX: HUSTLER HD
-http://149.202.72.15:8000/live/Costa/Costa/856.ts
-#EXTINF:-1,XXX: SCT
-http://149.202.72.15:8000/live/Costa/Costa/805.ts
-#EXTINF:-1,XXX: SESTO SENSO TV
-http://149.202.72.15:8000/live/Costa/Costa/800.ts
-#EXTINF:-1,XXX: SCT HD
-http://149.202.72.15:8000/live/Costa/Costa/801.ts
-#EXTINF:-1,XXX: TGIRLS TV
-http://149.202.72.15:8000/live/Costa/Costa/799.ts
-#EXTINF:-1,XXX: PINK O TV
-http://149.202.72.15:8000/live/Costa/Costa/802.ts
-#EXTINF:-1,XXX: EXOTICA TV
-http://149.202.72.15:8000/live/Costa/Costa/803.ts
-#EXTINF:-1,XXX: CENTOXCENTO TV
-http://149.202.72.15:8000/live/Costa/Costa/804.ts
-#EXTINF:-1,xXx: Hot Club 1
-http://149.202.72.15:8000/live/Costa/Costa/1328.ts
-#EXTINF:-1,xXx: Hot Club 2
-http://149.202.72.15:8000/live/Costa/Costa/1327.ts
-#EXTINF:-1,xXx: Hot Club 3
-http://149.202.72.15:8000/live/Costa/Costa/1326.ts
-#EXTINF:-1,xXx: Hot Club 4
-http://149.202.72.15:8000/live/Costa/Costa/1325.ts
-#EXTINF:-1,xXx: Hot Club 5
-http://149.202.72.15:8000/live/Costa/Costa/1324.ts
-#EXTINF:-1,XXX: Hot Club 6
-http://149.202.72.15:8000/live/Costa/Costa/1323.ts
-#EXTINF:-1,XXX: Hot Club 7
-http://149.202.72.15:8000/live/Costa/Costa/1322.ts
-#EXTINF:-1,XXX: Hot Club 8
-http://149.202.72.15:8000/live/Costa/Costa/1321.ts
-#EXTINF:-1,XXX VENUS MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1468.ts
-#EXTINF:-1,XXX PLAYBOY MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1469.ts
-#EXTINF:-1,XXX HOT MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1470.ts
-
-
-
-
-
-
-
-
-#EXTINF:0 type="stream" channelId="139" , FRANCE 24
-http://149.202.72.15:8000/live/Costa/Costa/785.ts
-#EXTINF:0 type="stream" , FR | FRANCE 24
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2529.ts
-#EXTINF:0 type="stream" channelId="140" , TV5 MONDE
-http://149.202.72.15:8000/live/Costa/Costa/864.ts
-#EXTINF:0 type="stream" channelId="2128" , M6
-http://149.202.72.15:8000/live/Costa/Costa/691.ts
-#EXTINF:0 type="stream" , FR: M6 HD
-http://149.202.72.15:8000/live/Costa/Costa/1887.ts
-#EXTINF:0 type="stream" , FR | M6 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/858.ts
-#EXTINF:0 type="stream" , FR: TF1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1877.ts
-#EXTINF:0 type="stream" , FR | TF1 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/882.ts
-#EXTINF:0 type="stream" , FR: France O
-http://149.202.72.15:8000/live/Costa/Costa/1889.ts
-#EXTINF:0 type="stream" , FR | FRANCE O HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/903.ts
-#EXTINF:0 type="stream" , FR: France 2
-http://149.202.72.15:8000/live/Costa/Costa/1893.ts
-#EXTINF:0 type="stream" , FR | FRANCE 2 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/902.ts
-#EXTINF:0 type="stream" , FR: France 3
-http://149.202.72.15:8000/live/Costa/Costa/1892.ts
-#EXTINF:0 type="stream" , FR | FRANCE 3 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/901.ts
-#EXTINF:0 type="stream" , FR: France 4
-http://149.202.72.15:8000/live/Costa/Costa/1891.ts
-#EXTINF:0 type="stream" , FR | FRANCE 4 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/900.ts
-#EXTINF:0 type="stream" , FR: France 5
-http://149.202.72.15:8000/live/Costa/Costa/1890.ts
-#EXTINF:0 type="stream" , FR | FRANCE 5
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/899.ts
-#EXTINF:0 type="stream" , FR: NRJ 12
-http://149.202.72.15:8000/live/Costa/Costa/1884.ts
-#EXTINF:0 type="stream" , FR | NRJ 12 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/866.ts
-#EXTINF:0 type="stream" , FR: NT1
-http://149.202.72.15:8000/live/Costa/Costa/1883.ts
-#EXTINF:0 type="stream" , FR: Planete A&E
-http://149.202.72.15:8000/live/Costa/Costa/1879.ts
-#EXTINF:0 type="stream" , FR | PLANETE HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2526.ts
-#EXTINF:0 type="stream" , FR | PLANETE CI HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2525.ts
-
-#EXTINF:0 type="stream" , FR:  FOOT  24/24
-http://149.202.72.15:8000/live/Costa/Costa/1913.ts
-#EXTINF:0 type="stream" , FR:  TELETOON
-http://149.202.72.15:8000/live/Costa/Costa/1912.ts
-#EXTINF:0 type="stream" , FR: Animaux HD
-http://149.202.72.15:8000/live/Costa/Costa/1911.ts
-#EXTINF:0 type="stream" , FR: Bein Sports 1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1910.ts
-#EXTINF:0 type="stream" , FR: Bein Sports 2
-http://149.202.72.15:8000/live/Costa/Costa/1909.ts
-#EXTINF:0 type="stream" , FR: Bein Sports 3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1908.ts
-#EXTINF:0 type="stream" , FR: BFMTV
-http://149.202.72.15:8000/live/Costa/Costa/1914.ts
-#EXTINF:0 type="stream" , FR: Canal
-http://149.202.72.15:8000/live/Costa/Costa/1907.ts
-#EXTINF:0 type="stream" , FR: CANAL  CINEMA
-http://149.202.72.15:8000/live/Costa/Costa/1906.ts
-#EXTINF:0 type="stream" , FR: Canal  Decale
-http://149.202.72.15:8000/live/Costa/Costa/1905.ts
-#EXTINF:0 type="stream" , FR: Canal  Sport
-http://149.202.72.15:8000/live/Costa/Costa/1904.ts
-#EXTINF:0 type="stream" , FR: Cine  Classic
-http://149.202.72.15:8000/live/Costa/Costa/1903.ts
-#EXTINF:0 type="stream" , FR: Cine  Club
-http://149.202.72.15:8000/live/Costa/Costa/1902.ts
-#EXTINF:0 type="stream" , FR: Cine  Emotion
-http://149.202.72.15:8000/live/Costa/Costa/1901.ts
-#EXTINF:0 type="stream" , FR: Cine  Famiz
-http://149.202.72.15:8000/live/Costa/Costa/1900.ts
-#EXTINF:0 type="stream" , FR: Cine  Frisson
-http://149.202.72.15:8000/live/Costa/Costa/1899.ts
-#EXTINF:0 type="stream" , FR: CINE  PREMIER HD
-http://149.202.72.15:8000/live/Costa/Costa/1898.ts
-#EXTINF:0 type="stream" , FR: Comedy
-http://149.202.72.15:8000/live/Costa/Costa/1897.ts
-#EXTINF:0 type="stream" , FR: D17
-http://149.202.72.15:8000/live/Costa/Costa/1915.ts
-#EXTINF:0 type="stream" , FR: D8
-http://149.202.72.15:8000/live/Costa/Costa/1916.ts
-#EXTINF:0 type="stream" , FR | D8
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2501.ts
-#EXTINF:0 type="stream" , FR: discovery Channel HD
-http://149.202.72.15:8000/live/Costa/Costa/1896.ts
-#EXTINF:0 type="stream" , FR: Discovery Science
-http://149.202.72.15:8000/live/Costa/Costa/1895.ts
-#EXTINF:0 type="stream" , FR | DISCOVERY SCIENCE HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/884.ts
-#EXTINF:0 type="stream" , FR: Disney Channel
-http://149.202.72.15:8000/live/Costa/Costa/1894.ts
-#EXTINF:0 type="stream" , FR: Gulli HD
-http://149.202.72.15:8000/live/Costa/Costa/1888.ts
-#EXTINF:0 type="stream" , FR | GULLI HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2511.ts
-#EXTINF:0 type="stream" , FR: iTELE
-http://149.202.72.15:8000/live/Costa/Costa/1917.ts
-#EXTINF:0 type="stream" , FR: La Deux
-http://149.202.72.15:8000/live/Costa/Costa/1918.ts
-#EXTINF:0 type="stream" , FR: La Trois
-http://149.202.72.15:8000/live/Costa/Costa/1919.ts
-#EXTINF:0 type="stream" , FR: La Une
-http://149.202.72.15:8000/live/Costa/Costa/1920.ts
-#EXTINF:0 type="stream" , FR: Nat. Geo Wild HD
-http://149.202.72.15:8000/live/Costa/Costa/1886.ts
-#EXTINF:0 type="stream" , FR: Nat. Geographic
-http://149.202.72.15:8000/live/Costa/Costa/1885.ts
-#EXTINF:0 type="stream" , FR: OCS City
-http://149.202.72.15:8000/live/Costa/Costa/1882.ts
-#EXTINF:0 type="stream" , FR: OCS GEANT
-http://149.202.72.15:8000/live/Costa/Costa/1881.ts
-#EXTINF:0 type="stream" , FR: OCS Max
-http://149.202.72.15:8000/live/Costa/Costa/1880.ts
-#EXTINF:0 type="stream" , FR: TELETOON
-http://149.202.72.15:8000/live/Costa/Costa/1878.ts
-#EXTINF:0 type="stream" , FR: TMC
-http://149.202.72.15:8000/live/Costa/Costa/1921.ts
-#EXTINF:0 type="stream" , FR: VOYAGE HD
-http://149.202.72.15:8000/live/Costa/Costa/1876.ts
-#EXTINF:0 type="stream" , FR: W9
-http://149.202.72.15:8000/live/Costa/Costa/1875.ts
-
-#EXTINF:0 type="stream" , BEIN :SPORT1 HD
-http://149.202.72.15:8000/live/Costa/Costa/1922.ts
-#EXTINF:0 type="stream" , BEIN :SPORT2 HD
-http://149.202.72.15:8000/live/Costa/Costa/1925.ts
-#EXTINF:0 type="stream" , BEIN :SPORT3 HD
-http://149.202.72.15:8000/live/Costa/Costa/1926.ts
-#EXTINF:0 type="stream" , BEIN :SPORT4 HD
-http://149.202.72.15:8000/live/Costa/Costa/1927.ts
-#EXTINF:0 type="stream" , BEIN :SPORT5 HD
-http://149.202.72.15:8000/live/Costa/Costa/1928.ts
-#EXTINF:0 type="stream" , BEIN :SPORT6 HD
-http://149.202.72.15:8000/live/Costa/Costa/1929.ts
-#EXTINF:0 type="stream" , BEIN :SPORT7 HD
-http://149.202.72.15:8000/live/Costa/Costa/1930.ts
-#EXTINF:0 type="stream" , BEIN :SPORT8 HD
-http://149.202.72.15:8000/live/Costa/Costa/1931.ts
-#EXTINF:0 type="stream" , BEIN :SPORT9 HD
-http://149.202.72.15:8000/live/Costa/Costa/1932.ts
-#EXTINF:0 type="stream" , BEIN :SPORT10 HD
-http://149.202.72.15:8000/live/Costa/Costa/1923.ts
-#EXTINF:0 type="stream" , BEIN :SPORT11 HD
-http://149.202.72.15:8000/live/Costa/Costa/1924.ts
-
-
-
-
-
-
-
-#EXTINF:0 type="stream" , XXX VENUS MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1468.ts
-#EXTINF:0 type="stream" , XXX PLAYBOY MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1469.ts
-#EXTINF:0 type="stream" , XXX HOT MOBILE
-http://149.202.72.15:8000/live/Costa/Costa/1470.ts
-#EXTINF:0 type="stream" , XXX: SEXTREME
-http://149.202.72.15:8000/live/Costa/Costa/690.ts
-#EXTINF:0 type="stream" , XXX: PENTHOUSE
-http://149.202.72.15:8000/live/Costa/Costa/510.ts
-#EXTINF:0 type="stream" , XXX: VENUS
-http://149.202.72.15:8000/live/Costa/Costa/181.ts
-#EXTINF:0 type="stream" , XXX: PLAYBOY
-http://149.202.72.15:8000/live/Costa/Costa/304.ts
-#EXTINF:0 type="stream" , XXX HOT XXX
-http://149.202.72.15:8000/live/Costa/Costa/244.ts
-#EXTINF:0 type="stream" , XXX: REDLIGHT HD
-http://149.202.72.15:8000/live/Costa/Costa/853.ts
-#EXTINF:0 type="stream" , XXX: HUSTLER HD
-http://149.202.72.15:8000/live/Costa/Costa/856.ts
-#EXTINF:0 type="stream" , XXX: SESTO SENSO TV
-http://149.202.72.15:8000/live/Costa/Costa/800.ts
-#EXTINF:0 type="stream" , XXX: TGIRLS TV
-http://149.202.72.15:8000/live/Costa/Costa/799.ts
-#EXTINF:0 type="stream" , XXX: EXOTICA TV
-http://149.202.72.15:8000/live/Costa/Costa/803.ts
-#EXTINF:0 type="stream" , xXx: Hot Club 1
-http://149.202.72.15:8000/live/Costa/Costa/1328.ts
-#EXTINF:0 type="stream" , xXx: Hot Club 2
-http://149.202.72.15:8000/live/Costa/Costa/1327.ts
-#EXTINF:0 type="stream" , xXx: Hot Club 3
-http://149.202.72.15:8000/live/Costa/Costa/1326.ts
-#EXTINF:0 type="stream" , xXx: Hot Club 4
-http://149.202.72.15:8000/live/Costa/Costa/1325.ts
-#EXTINF:0 type="stream" , XXX: Hot Club 6
-http://149.202.72.15:8000/live/Costa/Costa/1323.ts
-#EXTINF:0 type="stream" , XXX: Hot Club 7
-http://149.202.72.15:8000/live/Costa/Costa/1322.ts
-#EXTINF:0 type="stream" , XXX: Hot Club 8
-http://149.202.72.15:8000/live/Costa/Costa/1321.ts
-#EXTINF:-1,XXX: SEXTREME
-http://149.202.72.15:8000/live/Costa/Costa/690.ts
-#EXTINF:-1,XXX: PENTHOUSE
-http://149.202.72.15:8000/live/Costa/Costa/510.ts
-#EXTINF:-1,XXX: VENUS
-http://149.202.72.15:8000/live/Costa/Costa/181.ts
-#EXTINF:-1,XXX: PLAYBOY
-http://149.202.72.15:8000/live/Costa/Costa/304.ts
-#EXTINF:-1,XXX HOT XXX
-http://149.202.72.15:8000/live/Costa/Costa/244.ts
-#EXTINF:-1,XXX: REDLIGHT HD
-http://149.202.72.15:8000/live/Costa/Costa/853.ts
-#EXTINF:-1,XXX: HUSTLER HD
-http://149.202.72.15:8000/live/Costa/Costa/856.ts
-#EXTINF:-1,XXX: SCT
-http://149.202.72.15:8000/live/Costa/Costa/805.ts
-#EXTINF:-1,XXX: SESTO SENSO TV
-http://149.202.72.15:8000/live/Costa/Costa/800.ts
-#EXTINF:-1,XXX: SCT HD
-http://149.202.72.15:8000/live/Costa/Costa/801.ts
-#EXTINF:-1,XXX: TGIRLS TV
-http://149.202.72.15:8000/live/Costa/Costa/799.ts
-#EXTINF:-1,XXX: PINK O TV
-http://149.202.72.15:8000/live/Costa/Costa/802.ts
-#EXTINF:-1,XXX: EXOTICA TV
-http://149.202.72.15:8000/live/Costa/Costa/803.ts
-#EXTINF:-1,XXX: CENTOXCENTO TV
-http://149.202.72.15:8000/live/Costa/Costa/804.ts
-#EXTINF:-1,xXx: Hot Club 1
-http://149.202.72.15:8000/live/Costa/Costa/1328.ts
-#EXTINF:-1,xXx: Hot Club 2
-http://149.202.72.15:8000/live/Costa/Costa/1327.ts
-#EXTINF:-1,xXx: Hot Club 3
-http://149.202.72.15:8000/live/Costa/Costa/1326.ts
-#EXTINF:-1,xXx: Hot Club 4
-http://149.202.72.15:8000/live/Costa/Costa/1325.ts
-#EXTINF:-1,xXx: Hot Club 5
-http://149.202.72.15:8000/live/Costa/Costa/1324.ts
-#EXTINF:-1,XXX: Hot Club 6
-http://149.202.72.15:8000/live/Costa/Costa/1323.ts
-#EXTINF:-1,XXX: Hot Club 7
-http://149.202.72.15:8000/live/Costa/Costa/1322.ts
-#EXTINF:-1,XXX: Hot Club 8
-http://149.202.72.15:8000/live/Costa/Costa/1321.ts
-#EXTINF:-1,Redlight HD
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1198.ts
-#EXTINF:-1,Hustler HD
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1199.ts
-#EXTINF:-1,TGIRLS TV
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/964.ts
-#EXTINF:-1,SESTO SENSO TV
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/965.ts
-#EXTINF:-1,Pink O TV
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/962.ts
-#EXTINF:-1,CENTOxCENTO TV
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/963.ts
-#EXTINF:-1,SCT HQ
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/328.ts
-#EXTINF:-1,Esotica xxx
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/327.ts
-#EXTINF:-1,XXX: ADULT 1
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1947.ts
-#EXTINF:-1,XXX: ADULT 2
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1936.ts
-#EXTINF:-1,XXX: ADULT 3
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1934.ts
-#EXTINF:-1,XXX: ADULT 4
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1933.ts
-#EXTINF:-1,XXX: ADULT 5
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1932.ts
-#EXTINF:-1,XXX: ADULT 6
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1931.ts
-#EXTINF:-1,XXX: ADULT 7
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1930.ts
-#EXTINF:-1,XXX: ADULT 8
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1929.ts
-#EXTINF:-1,XXX: ADULT 9
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1928.ts
-#EXTINF:-1,XXX: ADULT 10
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1946.ts
-#EXTINF:-1,XXX: ADULT 11
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1945.ts
-#EXTINF:-1,XXX: ADULT 12
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1944.ts
-#EXTINF:-1,XXX: ADULT 13
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1943.ts
-#EXTINF:-1,XXX: ADULT 14
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1942.ts
-#EXTINF:-1,XXX: ADULT 15
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/1941.ts
-#EXTINF:-1,XXX: ADULT 16
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2125.ts
-#EXTINF:-1,XXX: ADULT 17
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2124.ts
-#EXTINF:-1,XXX: ADULT 18
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2123.ts
-#EXTINF:-1,XXX: ADULT 19
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2122.ts
-#EXTINF:-1,XXX: ADULT 20
-http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2121.ts
-#EXTINF:-1,ADULTI MOVIE 1
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/357.mp4
-#EXTINF:-1,ADULTI MOVIE 2
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/358.mp4
-#EXTINF:-1,ADULTI MOVIE 3
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/359.mp4
-#EXTINF:-1,ADULTI MOVIE 4
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/360.mp4
-#EXTINF:-1,ADULTI MOVIE 5
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/361.mp4
-#EXTINF:-1,ADULTI MOVIE 6
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/362.mp4
-#EXTINF:-1,ADULTI MOVIE 7
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/363.mp4
-#EXTINF:-1,ADULTI MOVIE 8
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/364.mp4
-#EXTINF:-1,ADULTI MOVIE 9
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/365.mp4
-#EXTINF:-1,ADULTI MOVIE 10
-http://185.71.66.54:15004/movie/IPTV_02/SDCT32VBN/366.mp4
-
-
-
-
-
-
-
+#EXTINF:-1,MBC1HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1378.ts
+#EXTINF:-1,MBC2_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1371.ts
+#EXTINF:-1,MBC4HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1377.ts
+#EXTINF:-1,MBC-DRAMAHD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1395.ts
+#EXTINF:-1,MBC-ACTIONHD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1394.ts
+#EXTINF:-1,MBC1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/19.ts
+#EXTINF:-1,MBC2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/20.ts
+#EXTINF:-1,MBC3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/21.ts
+#EXTINF:-1,MBC4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/22.ts
+#EXTINF:-1,MBCDRAMA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/25.ts
+#EXTINF:-1,MBCAction
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/23.ts
+#EXTINF:-1,MBCMAX
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/26.ts
+#EXTINF:-1,MBCBollywood
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/24.ts
+#EXTINF:-1,MBC_Masr2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/28.ts
+#EXTINF:-1,MBC_MASR
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/27.ts
+#EXTINF:-1,Rotana music
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/43.ts
+#EXTINF:-1,Rotana_Cinema_KSA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/45.ts
+#EXTINF:-1,Rotana_Cinema_EGY
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/44.ts
+#EXTINF:-1,Rotana-Masriya
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/49.ts
+#EXTINF:-1,Rotana_Clip
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/47.ts
+#EXTINF:-1,Rotana_Khalijiah
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/48.ts
+#EXTINF:-1,Rotana_Classic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/46.ts
+#EXTINF:-1,Almajd-Space
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2314.ts
+#EXTINF:-1,Almajd-Science
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2312.ts
+#EXTINF:-1,Almajd-Quran
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2313.ts
+#EXTINF:-1,Almajd-hadeeth
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2311.ts
+#EXTINF:-1,ART_Cinema
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/53.ts
+#EXTINF:-1,Aflam_1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/51.ts
+#EXTINF:-1,Aflam_2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/52.ts
+#EXTINF:-1,Hekayat
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/54.ts
+#EXTINF:-1,Hekayat_2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/75.ts
+#EXTINF:-1,Ar-HD-KIDS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2290.ts
+#EXTINF:-1,Ar-HD-FILM
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2293.ts
+#EXTINF:-1,Ar-HD-CLASSIC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2291.ts
+#EXTINF:-1,Ar-CINEMA2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2302.ts
+#EXTINF:-1,Ar-CINEMA1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2301.ts
+#EXTINF:-1,Ar-CINEMA-ALWAN
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2296.ts
+#EXTINF:-1,AR-FATAFEAT
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/98.ts
+#EXTINF:-1,AR_Drama_Sudan
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2064.ts
+#EXTINF:-1,CBC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/56.ts
+#EXTINF:-1,CBC2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/57.ts
+#EXTINF:-1,CBC-Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/58.ts
+#EXTINF:-1,CBC-Extra
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/59.ts
+#EXTINF:-1,CBC-Sofra
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/60.ts
+#EXTINF:-1,AR-TUNISNA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/35.ts
+#EXTINF:-1,NATIONAL1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/29.ts
+#EXTINF:-1,National2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/780.ts
+#EXTINF:-1,AR-hannibal
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/31.ts
+#EXTINF:-1,AR-ZAYTOONA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/840.ts
+#EXTINF:-1,Ar-ZITOUNA-HEDAYA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1687.ts
+#EXTINF:-1,Ar-janoubiyya
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/112.ts
+#EXTINF:-1,AL_MUTAWASIT-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/36.ts
+#EXTINF:-1,AR-TNN
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/37.ts
+#EXTINF:-1,AR-ATTESSIA-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/499.ts
+#EXTINF:-1,AR-ELHIWAR_ETTOUNSI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/34.ts
+#EXTINF:-1,AR-NESMA-tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/32.ts
+#EXTINF:-1,AR-FIRST-tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/38.ts
+#EXTINF:-1,AR-TELVZA_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/33.ts
+#EXTINF:-1,AR-CanalALGERIA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1715.ts
+#EXTINF:-1,Algeria3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1685.ts
+#EXTINF:-1,AR-heddaf
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/829.ts
+#EXTINF:-1,AR-ECHOUROUK-HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1601.ts
+#EXTINF:-1,AR-Echourouk-benna
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/831.ts
+#EXTINF:-1,AR-Echorouk-News
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/203.ts
+#EXTINF:-1,AR-Coran-algerie
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1644.ts
+#EXTINF:-1,AR-Dzair_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/202.ts
+#EXTINF:-1,AR-Samira-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/210.ts
+#EXTINF:-1,AR-BZAF_Music
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1535.ts
+#EXTINF:-1,AR-Dzair3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1598.ts
+#EXTINF:-1,AR-DZAIR16
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1602.ts
+#EXTINF:-1,AR-DZAIR-news
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1596.ts
+#EXTINF:-1,AR-beur-algerie
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1600.ts
+#EXTINF:-1,Ar-DJAZAIRIA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/205.ts
+#EXTINF:-1,AR-ENNAHAR-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/164.ts
+#EXTINF:-1,AR-Ennahar-Laki
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/207.ts
+#EXTINF:-1,AR-KBC-ALGERIA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1604.ts
+#EXTINF:-1,AR-Medi1_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/293.ts
+#EXTINF:-1,AR-Almaghribia
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2028.ts
+#EXTINF:-1,Ar-AlHiwar
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/817.ts
+#EXTINF:-1,AR-Al_Magharibia
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/821.ts
+#EXTINF:-1,AlMagharibia-Two
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1917.ts
+#EXTINF:-1,AR-2M_Maroc
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/197.ts
+#EXTINF:-1,AR-Arriadia
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1533.ts
+#EXTINF:-1,Ar-JAZEERA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/146.ts
+#EXTINF:-1,Ar-Jazeera-Documentary
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/155.ts
+#EXTINF:-1,Ar-Jazeera-Mubasher
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/833.ts
+#EXTINF:-1,AR-SAMA-CINEMA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/848.ts
+#EXTINF:-1,arb-TRTArabic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1460.ts
+#EXTINF:-1,AR-BBC-ARABIC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/824.ts
+#EXTINF:-1,AR-SHARKIA-NEWS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1500.ts
+#EXTINF:-1,AR-Halab Today
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1499.ts
+#EXTINF:-1,YEMEN-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1553.ts
+#EXTINF:-1,AR-Moga-Comedy
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1534.ts
+#EXTINF:-1,AR-Melody_Classic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/140.ts
+#EXTINF:-1,AR-Mazzika
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/291.ts
+#EXTINF:-1,AR-NOOR-DUBAI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/149.ts
+#EXTINF:-1,AR-MUSIC_PLUS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/131.ts
+#EXTINF:-1,AR-DUBAITV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/128.ts
+#EXTINF:-1,AR-DUBAI-ONE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/126.ts
+#EXTINF:-1,AR-SAMADUBAI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/133.ts
+#EXTINF:-1,Ar-Ennahar_Algerie
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1681.ts
+#EXTINF:-1,Ar-Abu dhabi TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1469.ts
+#EXTINF:-1,AJMAN-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/153.ts
+#EXTINF:-1,Ar-MANAR
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/853.ts
+#EXTINF:-1,Ar--SHARJAH
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/121.ts
+#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/284.ts
+#EXTINF:-1,OTV-LEBANON
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1925.ts
+#EXTINF:-1,AR-LDC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1648.ts
+#EXTINF:-1,AR-LBC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/139.ts
+#EXTINF:-1,AR-Cartoon
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/162.ts
+#EXTINF:-1,AR-FUTURE_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/280.ts
+#EXTINF:-1,AR-Mickey
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/286.ts
+#EXTINF:-1,AR-mtv_lebanon
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/209.ts
+#EXTINF:-1,AR-Teleliban
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/819.ts
+#EXTINF:-1,AR-JADEED
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/813.ts
+#EXTINF:-1,AR-Al_Aqsa
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1606.ts
+#EXTINF:-1,arb-AL-Quds
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/108.ts
+#EXTINF:-1,Ar-Al_Rayyan
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3569.ts
+#EXTINF:-1,Ar-Hawacom(Leb)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3568.ts
+#EXTINF:-1,AR-Syria-News
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/825.ts
+#EXTINF:-1,Syria_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1399.ts
+#EXTINF:-1,Syria_Sama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1403.ts
+#EXTINF:-1,Sriya Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1404.ts
+#EXTINF:-1,Syria Ikhbaria
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1402.ts
+#EXTINF:-1,Syria Aloula
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1401.ts
+#EXTINF:-1,arb-SyriaNour
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1458.ts
+#EXTINF:-1,Ar-EDU-SYRIA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2303.ts
+#EXTINF:-1,Nile_news
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/295.ts
+#EXTINF:-1,Nile_Life
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/144.ts
+#EXTINF:-1,Nile_Family
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/143.ts
+#EXTINF:-1,Nile_Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/142.ts
+#EXTINF:-1,Nile_Cinema
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/294.ts
+#EXTINF:-1,Nile_Comedy
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/141.ts
+#EXTINF:-1,arb-Nile sport
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1455.ts
+#EXTINF:-1,Ar-Hayat-Cinema
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/136.ts
+#EXTINF:-1,Alhayat-Muslsalat
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/515.ts
+#EXTINF:-1,AlNahar-Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/159.ts
+#EXTINF:-1,Ar-nahar-nour
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/838.ts
+#EXTINF:-1,Ar-Nahar-Al-Youm
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/837.ts
+#EXTINF:-1,Ar-Nahar+2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/834.ts
+#EXTINF:-1,Ar--Nahar
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/156.ts
+#EXTINF:-1,DREAM1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/287.ts
+#EXTINF:-1,Dream2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/163.ts
+#EXTINF:-1,Ar-CAIRO-ONE-TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2305.ts
+#EXTINF:-1,AR-Ontv_live
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1642.ts
+#EXTINF:-1,Ar-ONTV-sport
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/835.ts
+#EXTINF:-1,Cairo-Universal
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/106.ts
+#EXTINF:-1,Cairo-Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/109.ts
+#EXTINF:-1,Cairo-cinema
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/107.ts
+#EXTINF:-1,Panorama-Drama2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/41.ts
+#EXTINF:-1,Panorama-Drama
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/40.ts
+#EXTINF:-1,Panorama-Film
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1555.ts
+#EXTINF:-1,Panorama-comedy
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/844.ts
+#EXTINF:-1,AR-AR-Noon-Tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/118.ts
+#EXTINF:-1,AR-AlAnwar
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/110.ts
+#EXTINF:-1,AR-Alam_News
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1867.ts
+#EXTINF:-1,Ar-Al_Kahera_Wel_Nes
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3204.ts
+#EXTINF:-1,Ar-Al_Kahera
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3203.ts
+#EXTINF:-1,AR-DUBAI-SPORT1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/127.ts
+#EXTINF:-1,AD-SPORT1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/103.ts
+#EXTINF:-1,AD-Sport2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/104.ts
+#EXTINF:-1,MBC-PRO-SP1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/168.ts
+#EXTINF:-1,MBC-PRO-SP2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/169.ts
+#EXTINF:-1,MBC-PRO-SP3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/170.ts
+#EXTINF:-1,Am-Armenian_tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3575.ts
+#EXTINF:-1,Am-AABC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3573.ts
+#EXTINF:-1,Am-ARTN
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3572.ts
+#EXTINF:-1,Am-kentron
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3574.ts
+#EXTINF:-1,Am-AMGA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3581.ts
+#EXTINF:-1,Am-ARMOUNT_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3579.ts
+#EXTINF:-1,Am-Pan_Armenian
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3577.ts
+#EXTINF:-1,Am-shant_tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3576.ts
+#EXTINF:-1,Am-Yerkir_Media
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3578.ts
+#EXTINF:-1,Am-H3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3580.ts
+#EXTINF:-1,Am-High_Vision
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3583.ts
+#EXTINF:-1,Am-MTV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3582.ts
+#EXTINF:-1,Bn_HD_Sport1_FR
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/17.ts
+#EXTINF:-1,Fr-B_Sport1_(b)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2739.ts
+#EXTINF:-1,Bn_HD_Sport2_FR
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/18.ts
+#EXTINF:-1,Fr-B_Sport2_(b)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2740.ts
+#EXTINF:-1,Bn_HD_Sport3_FR
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/336.ts
+#EXTINF:-1,Fr-B_Sport3_(b)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2741.ts
+#EXTINF:-1,BN-MAX_4_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3590.ts
+#EXTINF:-1,BN-MAX_5_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3591.ts
+#EXTINF:-1,BN-MAX_6_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3592.ts
+#EXTINF:-1,BN-MAX_7_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3593.ts
+#EXTINF:-1,fr-CANAL_sport
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/152.ts
+#EXTINF:-1,Ar-B_SPORT1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/300.ts
+#EXTINF:-1,B_Sports_HD1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1.ts
+#EXTINF:-1,Ar-B_SPORT2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/307.ts
+#EXTINF:-1,B_Sports_HD2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2.ts
+#EXTINF:-1,Ar-B_SPORT3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/308.ts
+#EXTINF:-1,B_Sports_HD3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3.ts
+#EXTINF:-1,Ar-B_SPORT4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/309.ts
+#EXTINF:-1,B_Sports_HD4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/4.ts
+#EXTINF:-1,Ar-B_SPORT5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/310.ts
+#EXTINF:-1,B_Sports_HD5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/5.ts
+#EXTINF:-1,Ar-B_SPORT6
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/311.ts
+#EXTINF:-1,B_Sports_HD6
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/6.ts
+#EXTINF:-1,Ar-B_SPORT7
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/312.ts
+#EXTINF:-1,B_Sports_HD7
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/7.ts
+#EXTINF:-1,Ar-B_SPORT8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/313.ts
+#EXTINF:-1,B_Sports_HD8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/8.ts
+#EXTINF:-1,Ar-B_SPORT9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/314.ts
+#EXTINF:-1,B_Sports_HD9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/9.ts
+#EXTINF:-1,Ar-B_SPORT10
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/301.ts
+#EXTINF:-1,B_Sports_HD10
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/10.ts
+#EXTINF:-1,Ar-B_SPORT11
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/302.ts
+#EXTINF:-1,B_Sports_HD11
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/11.ts
+#EXTINF:-1,Ar-B_SPORT12
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/303.ts
+#EXTINF:-1,B_Sports_HD12
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/12.ts
+#EXTINF:-1,Ar-B_SPORT13
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/304.ts
+#EXTINF:-1,B_Sports_HD13
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/13.ts
+#EXTINF:-1,Ar-B_SPORT14
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/305.ts
+#EXTINF:-1,Ar-B_SPORT17
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/306.ts
+#EXTINF:-1,Ar-B_Sport16
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/16.ts
+#EXTINF:-1,B_Sports HD14-2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/15.ts
+#EXTINF:-1,B_Sports HD15-2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/14.ts
+#EXTINF:-1,B_Sport_News HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/299.ts
+#EXTINF:-1,FR-SFR_Sports1(test)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/251.ts
+#EXTINF:-1,FR-SFR_Sport2(test)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2555.ts
+#EXTINF:-1,FR-SFR_Sport3(test)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2738.ts
+#EXTINF:-1,FR-SFR Sport5(test)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2532.ts
+#EXTINF:-1,fr-CANAL
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/64.ts
+#EXTINF:-1,Fr-Canal_plus(B)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3570.ts
+#EXTINF:-1,fr-CANAL_CINEMA
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/65.ts
+#EXTINF:-1,fr-CANAL_DECALE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/525.ts
+#EXTINF:-1,fr-CANAL_FAMILY
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/524.ts
+#EXTINF:-1,FR-Canal-SERIES
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/761.ts
+#EXTINF:-1,FR-Canal Comedie
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2188.ts
+#EXTINF:-1,FR-OCS-MAX
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1546.ts
+#EXTINF:-1,FR-OCS-GEANT
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1547.ts
+#EXTINF:-1,FR-OCS-CHOC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1545.ts
+#EXTINF:-1,FR-OSC_CITY
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1882.ts
+#EXTINF:-1,fr-CINE_PREMIER
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/69.ts
+#EXTINF:-1,fr-Cine_Frisson
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/95.ts
+#EXTINF:-1,fr-Cine_Emotion
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/94.ts
+#EXTINF:-1,fr-Cine_Classic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/93.ts
+#EXTINF:-1,FR-CINE_FAMIZ-HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1924.ts
+#EXTINF:-1,fr-EQUIPE21
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/791.ts
+#EXTINF:-1,Fr-Equidia livee
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2633.ts
+#EXTINF:-1,FR-TMC
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/91.ts
+#EXTINF:-1,FR-Teva
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1549.ts
+#EXTINF:-1,FR_FOOT
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2195.ts
+#EXTINF:-1,FR-OLTV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2138.ts
+#EXTINF:-1,FR-Info_Sport
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/792.ts
+#EXTINF:-1,FR-Eurosport-HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/165.ts
+#EXTINF:-1,FR_Orange_Cine 1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3587.ts
+#EXTINF:-1,FR_Orange_Cine 2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3588.ts
+#EXTINF:-1,FR_Orange_Cine 3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3589.ts
+#EXTINF:-1,FR_A LA CARTE1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2189.ts
+#EXTINF:-1,FR_A LACARTE2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2190.ts
+#EXTINF:-1,FR_A LA CARTE3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2191.ts
+#EXTINF:-1,FR_A LA CARTE4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2192.ts
+#EXTINF:-1,FR_A LA CARTE5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2193.ts
+#EXTINF:-1,FR_A LA CARTE6
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2194.ts
+#EXTINF:-1,Fr-A La Carte 7
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2627.ts
+#EXTINF:-1,Fr-A La Carte 8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2628.ts
+#EXTINF:-1,Fr-A La Carte 9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2629.ts
+#EXTINF:-1,Fr-A La Carte 10
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2630.ts
+#EXTINF:-1,Fr-canalplay-1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2621.ts
+#EXTINF:-1,Fr-canalplay-2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2622.ts
+#EXTINF:-1,Fr-canalplay-3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2623.ts
+#EXTINF:-1,Fr-canalplay-4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2624.ts
+#EXTINF:-1,Fr-canalplay-5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2625.ts
+#EXTINF:-1,Fr-canalplay-6
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2626.ts
+#EXTINF:-1,Fr-Canalplay-7
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2611.ts
+#EXTINF:-1,Fr-Canalplay-8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2612.ts
+#EXTINF:-1,Fr-Canalplay-9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2613.ts
+#EXTINF:-1,Fr-Canalplay-10
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2614.ts
+#EXTINF:-1,FR-PLANET+
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/87.ts
+#EXTINF:-1,FR-Planet+CI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2183.ts
+#EXTINF:-1,FR-Planet+AE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2184.ts
+#EXTINF:-1,fr-NatGeoWild
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2196.ts
+#EXTINF:-1,Fr-Discovery
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2197.ts
+#EXTINF:-1,FR-Natl_Geographic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/39.ts
+#EXTINF:-1,FR-Discovery_SC_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1879.ts
+#EXTINF:-1,fr-ANIMAUX
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1356.ts
+#EXTINF:-1,Fr-EuroNews
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2632.ts
+#EXTINF:-1,FR-Ushuaia
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1880.ts
+#EXTINF:-1,FR-Disney_Junior
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2134.ts
+#EXTINF:-1,FR-Disneycinemagic
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1550.ts
+#EXTINF:-1,FR-Canal_J
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2187.ts
+#EXTINF:-1,FR-PIWI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2198.ts
+#EXTINF:-1,FR-Gong
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/637.ts
+#EXTINF:-1,Fr-GAME_ONE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2137.ts
+#EXTINF:-1,Fr-Nick Junior
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2694.ts
+#EXTINF:-1,fr-Cartoon_network
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1360.ts
+#EXTINF:-1,FR-Disney_Channel
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/97.ts
+#EXTINF:-1,FR-GULLI
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/79.ts
+#EXTINF:-1,FR-MANGAS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1998.ts
+#EXTINF:-1,FR-Tiji_Cartoon
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1883.ts
+#EXTINF:-1,FR-BoomeRang
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1593.ts
+#EXTINF:-1,FR-Teletoon+
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1548.ts
+#EXTINF:-1,FRO
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/78.ts
+#EXTINF:-1,FR-FRO(B)
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/63.ts
+#EXTINF:-1,FR-C8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3215.ts
+#EXTINF:-1,Fr-CHERIE 25 HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1624.ts
+#EXTINF:-1,FR-Numero 23
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/80.ts
+#EXTINF:-1,FR5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/76.ts
+#EXTINF:-1,FR3
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/73.ts
+#EXTINF:-1,FR4
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/74.ts
+#EXTINF:-1,FR2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/72.ts
+#EXTINF:-1,FR-D8
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/71.ts
+#EXTINF:-1,FR-D17
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/70.ts
+#EXTINF:-1,FR-TV5_MONDE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3268.ts
+#EXTINF:-1,FR-TiVi5
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/296.ts
+#EXTINF:-1,FR-TF1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/90.ts
+#EXTINF:-1,FR-NT1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2185.ts
+#EXTINF:-1,FR-Rtl9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2156.ts
+#EXTINF:-1,FR-W9
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/92.ts
+#EXTINF:-1,FR-m6
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/84.ts
+#EXTINF:-1,FR-ITELE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/82.ts
+#EXTINF:-1,FR-I24_news
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2693.ts
+#EXTINF:-1,FR-E!
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1551.ts
+#EXTINF:-1,FR-IL TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2186.ts
+#EXTINF:-1,FR-Serie_Club
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1590.ts
+#EXTINF:-1,FR-13EmeRue
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1544.ts
+#EXTINF:-1,FR-Antenne-Centre
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1997.ts
+#EXTINF:-1,FR-TV_BREIZH
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3336.ts
+#EXTINF:-1,FR-NRJ12
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/86.ts
+#EXTINF:-1,Fr-Syfy HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1362.ts
+#EXTINF:-1,fr-Action
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1357.ts
+#EXTINF:-1,fr-Chasse-et-peche
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1361.ts
+#EXTINF:-1,FR-BFM
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/62.ts
+#EXTINF:-1,FRANCE24
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/77.ts
+#EXTINF:-1,FR-Paris_Premiere
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/298.ts
+#EXTINF:-1,fr-LCP
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/787.ts
+#EXTINF:-1,fr-HD1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/790.ts
+#EXTINF:-1,fr-ARTE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/789.ts
+#EXTINF:-1,fr-6TER
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/793.ts
+#EXTINF:-1,Fr-Voyage
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2631.ts
+#EXTINF:-1,FR-Enorme TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/476.ts
+#EXTINF:-1,FR-m6 Music
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1881.ts
+#EXTINF:-1,Fr-RTS_deux
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1628.ts
+#EXTINF:-1,Fr-RMC_DECOUVERTE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1888.ts
+#EXTINF:-1,FR-CHAINE_NORMANDIE
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/759.ts
+#EXTINF:-1,FR-Plug rtl
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1904.ts
+#EXTINF:-1,FR_Amazing
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3605.ts
+#EXTINF:-1,FR_BFM_Business
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3600.ts
+#EXTINF:-1,FR_CAPITAL_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3607.ts
+#EXTINF:-1,FR_M2o_Tv
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3606.ts
+#EXTINF:-1,FR_MTV_HITS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3601.ts
+#EXTINF:-1,FR_Si_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3608.ts
+#EXTINF:-1,FR_TREK_HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3594.ts
+#EXTINF:-1,FR_YVELINES_PREMIER
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3598.ts
+#EXTINF:-1,BE-Rtl_Tvi
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2485.ts
+#EXTINF:-1,Fr-Euro Sports 2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1878.ts
+#EXTINF:-1,BE-AB1
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2135.ts
+#EXTINF:-1,Be-La_Deux
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1090.ts
+#EXTINF:-1,Be-LA_TROIS
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/695.ts
+#EXTINF:-1,BE-La_UneHD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1312.ts
+#EXTINF:-1,BE-club_Rtl
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1313.ts
+#EXTINF:-1,Fr-Toute l'Histoire
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2689.ts
+#EXTINF:-1,Fr-Cine _Club
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2690.ts
+#EXTINF:-1,Fr-Science & Vie
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2691.ts
+#EXTINF:-1,Fr-Canal-17
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2692.ts
+#EXTINF:-1,Fr-Cine_FX
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2695.ts
+#EXTINF:-1,Fr-Cine_polar
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2696.ts
+#EXTINF:-1,FR-KTO-HD
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/760.ts
+#EXTINF:-1,BE-NRJ_Hits
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/676.ts
+#EXTINF:-1,FR-Grand_Lille_TV
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/475.ts
+#EXTINF:-1,Fr-L_EQUIPE21
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/758.ts
+ 

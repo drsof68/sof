@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:network-caching=1000
-http://198.16.78.218:1102/cdn/711b94c0cbf617dd2922cf6e42c50608.mp4
-#EXTVLCOPT:network-caching=1000
-http://185.142.236.125:1103/cdn/1199bedbdd838c762e67389d6d22c9cf.mp4
-#EXTVLCOPT:network-caching=1000
-http://198.16.78.218:1104/cdn/98260c65c18467e5f789d30f71c5dd63.mp4
-#EXTVLCOPT:network-caching=1000
-http://185.142.236.110:1103/cdn/6fa9db415f581c9ae8e67fc50155986a.mp4

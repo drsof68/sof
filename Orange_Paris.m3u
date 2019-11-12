@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,TF1
+http://86.245.28.29:2001/stream/channelid/2046655350
+#EXTINF:-1,France 2
+http://86.245.28.29:2001/stream/channelid/1515709496
+#EXTINF:-1,F3 Paris Ile-de-France
+http://86.245.28.29:2001/stream/channelid/299781400
+#EXTINF:-1,France 5
+http://86.245.28.29:2001/stream/channelid/1361048788
+#EXTINF:-1,M6
+http://86.245.28.29:2001/stream/channelid/2077499352
+#EXTINF:-1,Arte
+http://86.245.28.29:2001/stream/channelid/1788890301
+#EXTINF:-1,W9
+http://86.245.28.29:2001/stream/channelid/1185238589
+#EXTINF:-1,TMC
+http://86.245.28.29:2001/stream/channelid/1865038300
+#EXTINF:-1,TFX
+http://86.245.28.29:2001/stream/channelid/1680056483
+#EXTINF:-1,NRJ12
+http://86.245.28.29:2001/stream/channelid/110847499
+#EXTINF:-1,LCP
+http://86.245.28.29:2001/stream/channelid/1412472594
+#EXTINF:-1,France 4
+http://86.245.28.29:2001/stream/channelid/1845234975
+#EXTINF:-1,France Ô
+http://86.245.28.29:2001/stream/channelid/1889547633
+#EXTINF:-1,TF1 Séries Films
+http://86.245.28.29:2001/stream/channelid/1181792031
+#EXTINF:-1,L&#039;Equipe 21
+http://86.245.28.29:2001/stream/channelid/1992333751
+#EXTINF:-1,6ter
+http://86.245.28.29:2001/stream/channelid/229746405
+#EXTINF:-1,RMC STORY
+http://86.245.28.29:2001/stream/channelid/1978460867
+#EXTINF:-1,RMC Découverte
+http://86.245.28.29:2001/stream/channelid/2134116324
+#EXTINF:-1,Chérie 25
+http://86.245.28.29:2001/stream/channelid/673368795
+#EXTINF:-1,franceinfo:
+http://86.245.28.29:2001/stream/channelid/922198190
+#EXTINF:-1,BFM Paris
+http://86.245.28.29:2001/stream/channelid/1204397806
+#EXTINF:-1,France 24
+http://86.245.28.29:2001/stream/channelid/1393342536

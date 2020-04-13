@@ -1,24 +1,24 @@
-#EXTM3U
+ï»¿#EXTM3U
 
-#EXTINF:0,On continue à l'appeler Trinita
+#EXTINF:0,On continue Ã  l'appeler Trinita
 http://127.0.0.1:4001/?f=2fc4710327c2d009ea83b2c3221c68b1
-#EXTINF:0,On l’appelle Trinita
+#EXTINF:0,On lâ€™appelle Trinita
 http://127.0.0.1:4001/e6f6c59790dc684a853ebdcb6e2e9842
-#EXTINF:0,Il était une fois dans l’Ouest
+#EXTINF:0,Il Ã©tait une fois dans lâ€™Ouest
 http://127.0.0.1:4001/e997ad96ce5d4d4c9e5f4f81d1157be4
 #EXTINF:0,Le Bon, la Brute et le Truand
 http://127.0.0.1:4001/63647ff5d8c6f1e2a2c40644fd874196
 #EXTINF:0,Lucky Luke
 http://127.0.0.1:4001/3a5d4ca31294480d998036f31ab2e1ae
-#EXTINF:0,La légende de Zorro
+#EXTINF:0,La lÃ©gende de Zorro
 http://127.0.0.1:4001/f4c7185fab827e6aada0a0bb5d8c4805
 #EXTINF:0,Le masque de Zorro
 http://127.0.0.1:4001/a1dd06140e4103db500a31ef70f179cb
-#EXTINF:0,L’Assassinat de Jesse James par le lâche Robert Ford
+#EXTINF:0,Lâ€™Assassinat de Jesse James par le lÃ¢che Robert Ford
 http://127.0.0.1:4001/7ee420f09a9fb5fce96c91caf7f1cc95
 #EXTINF:0,Et pour quelques dollars de plus
 http://127.0.0.1:4001/4b13ca6a443ad10f4f2cc5be7166a4b3
-#EXTINF:0,Pour une poignée de dollars
+#EXTINF:0,Pour une poignÃ©e de dollars
 http://127.0.0.1:4001/92ad831832a9e8b82949ec0c1b491737
 #EXTINF:0,Les Sept mercenaires
 http://127.0.0.1:4001/08450e10baa6da156e20c00fa0f4f811
@@ -34,15 +34,15 @@ http://127.0.0.1:4001/7ea5734050e632a65c96483c16cf0fe0
 http://127.0.0.1:4001/493b20a3f50019dbfdba3baba7d71183
 #EXTINF:0,Chantons sous la pluie
 http://127.0.0.1:4001/fe1705066bef5ada7fe951913273a42d
-#EXTINF:0,La môme
+#EXTINF:0,La mÃ´me
 http://127.0.0.1:4001/cd2aaa3015be618cc7d3cf987284efbe
 #EXTINF:0,Notre-Dame de Paris
 http://127.0.0.1:4001/38969c4b0784f3845bfc5fe55179b594
 #EXTINF:0,Podium
 http://127.0.0.1:4001/2591e4fb794ce52f3c84f468a64e0f85
-#EXTINF:0,Le Fantôme de l’Opéra
+#EXTINF:0,Le FantÃ´me de lâ€™OpÃ©ra
 http://127.0.0.1:4001/c9c5e15ae2936a9f252386dbc850e44d
-#EXTINF:0,La fièvre du samedi soir
+#EXTINF:0,La fiÃ¨vre du samedi soir
 http://127.0.0.1:4001/f106f6dbc5f176148d836027e5093903
 #EXTINF:0,West Side Story
 http://127.0.0.1:4001/b55c4c1194a25b33c4b11e09e353986a
@@ -50,13 +50,13 @@ http://127.0.0.1:4001/b55c4c1194a25b33c4b11e09e353986a
 http://127.0.0.1:4001/58dc2124d5ef0fe8c3940dea55de0ac2
 #EXTINF:0,Staying Alive
 http://127.0.0.1:4001/3f5608619b6afeed44230a95b5e1d926
-#EXTINF:0,Gad Elmaleh – Sans tambour
+#EXTINF:0,Gad Elmaleh â€“ Sans tambour
 http://127.0.0.1:4001/4d81ff72da5a63ac19121857254ee9e5
 #EXTINF:0,Saturday Night Live
 http://127.0.0.1:4001/8fddc4461ac6af28654227d9268e772a
-#EXTINF:0,Gad Elmaleh – L’Autre c’est moi
+#EXTINF:0,Gad Elmaleh â€“ Lâ€™Autre câ€™est moi
 http://127.0.0.1:4001/c0848f7129ce54f170578d15b9839d3b
-#EXTINF:0,Gad Elmaleh : 20 ans de scène !
+#EXTINF:0,Gad Elmaleh : 20 ans de scÃ¨ne !
 http://127.0.0.1:4001/cdb19b7d32c628d2bd329ee583d576a0
 #EXTINF:0,Gad Elmaleh: American Dream
 http://127.0.0.1:4001/fa12d9ebef970d1651f8fa9054a9e3d1
@@ -66,7 +66,7 @@ http://127.0.0.1:4001/a33040f84094c4137c29371fbb89b156
 http://127.0.0.1:4001/514725439af7e9a0fc1aba378793cc77
 #EXTINF:0,Le parrain 3
 http://127.0.0.1:4001/88e50241cd030930e67617fd9c94bf57
-#EXTINF:0,Il était une fois en Amérique
+#EXTINF:0,Il Ã©tait une fois en AmÃ©rique
 http://127.0.0.1:4001/71df25e906a041260f1c69b58a8b2cf8
 #EXTINF:0,Braveheart
 http://127.0.0.1:4001/28911491093390233795403012ae01a8
@@ -78,11 +78,11 @@ http://127.0.0.1:4001/f62675d81ed99a20de87d829b632f2241
 http://127.0.0.1:4001/569ee5f52fe81238400e37bec939b83c
 #EXTINF:0,La Fureur De Vivre
 http://127.0.0.1:4001/1dbd7446d6440185207317f1987dee0d
-#EXTINF:0,Les Misérables
+#EXTINF:0,Les MisÃ©rables
 http://127.0.0.1:4001/bee439c50558c2f8dc33dde274f29f23
 #EXTINF:0,Ali
 http://127.0.0.1:4001/1545097c76f46cc79e30c92a022bf454
-#EXTINF:0,Creed : L’Héritage de Rocky Balboa
+#EXTINF:0,Creed : Lâ€™HÃ©ritage de Rocky Balboa
 http://127.0.0.1:4001/a2a281854933aa241c946698c86495e8
 #EXTINF:0,Creed 2
 https://xuzhwijetn.mstreamcdn.com/t/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjE5Ni4yMzQuMTU4LjIzNSIsIjZubTJubGR5Mm05MCIsIm4iXSwiZXhwIjoxNTg2ODM4ODM1fQ.pE8Na9ONVN6PVy-Mdv4c5QhTiv_T8-HS3jgRcUa676I.mp4

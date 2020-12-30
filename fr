@@ -231,9 +231,9 @@ http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22345
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12862
 #EXTINF:0,FR:Arte FHD FR
 http://51.104.147.231:8080/Amanda1/Nosa2255/12862
-#EXTINF:0,FR:Arte Français
+#EXTINF:0,FR:Arte FranÃ§ais
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
-#EXTINF:0,FR:Arte Français
+#EXTINF:0,FR:Arte FranÃ§ais
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8
 #EXTINF:0,FR:ARTE HD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22344
@@ -511,9 +511,9 @@ http://51.104.147.231:8080/Amanda1/Nosa2255/5706
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5706
 #EXTINF:0,FR:Boing
 http://yourdnshere.xyz:83/live/Julievarin/8025829493/376272.ts
-#EXTINF:0,FR:BOING Français
+#EXTINF:0,FR:BOING FranÃ§ais
 http://178.132.3.162:88/boing/index.m3u8?token=test
-#EXTINF:0,FR:BOING Français
+#EXTINF:0,FR:BOING FranÃ§ais
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 #EXTINF:0,FR:BOING HD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22039
@@ -759,7 +759,7 @@ http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22055
 http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/2001.ts
 #EXTINF:0,FR:CCTV French
 http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2001.ts
-#EXTINF:0,FR:CGTN Français
+#EXTINF:0,FR:CGTN FranÃ§ais
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0,FR:Chasse  Peche
 http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2138.ts
@@ -1287,7 +1287,7 @@ http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22341
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22182
 #EXTINF:0,FR:FR4K: TELEFOOT STADIUM HD*
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22181
-#EXTINF:0,FR:FR4K: WÉO HD
+#EXTINF:0,FR:FR4K: WÃ‰O HD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22320
 #EXTINF:80,FR:France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
@@ -1359,7 +1359,7 @@ http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22362
 http://51.104.147.231:8080/Amanda1/Nosa2255/5668
 #EXTINF:0,FR:France 3 HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5668
-#EXTINF:0,FR:France 3 Rhône-Alpes
+#EXTINF:0,FR:France 3 RhÃ´ne-Alpes
 https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
 #EXTINF:0,FR:FRANCE 3 SD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22361
@@ -1431,7 +1431,7 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5664
 http://51.104.147.231:8080/Amanda1/Nosa2255/5664
 #EXTINF:0,FR:FRANCE O SD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22350
-#EXTINF:0,FR:France Ô
+#EXTINF:0,FR:France Ã”
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:0,FR:Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
@@ -2223,11 +2223,11 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8572
 http://51.104.147.231:8080/Amanda1/Nosa2255/8572
 #EXTINF:0,FR:PLANETE+ HD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22028
-#EXTINF:0,FR:Planète+ Crime Investigation FHD FR
+#EXTINF:0,FR:PlanÃ¨te+ Crime Investigation FHD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12942
-#EXTINF:0,FR:Planète+ Crime Investigation FHD FR
+#EXTINF:0,FR:PlanÃ¨te+ Crime Investigation FHD FR
 http://51.104.147.231:8080/Amanda1/Nosa2255/12942
-#EXTINF:0,FR:Public Sénat
+#EXTINF:0,FR:Public SÃ©nat
 https://exodiver.github.io/IPTV/M3U8/M3U8/Token/PSenat.m3u8
 #EXTINF:0,FR:RFM TV
 http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2123.ts
@@ -2425,7 +2425,7 @@ http://51.104.147.231:8080/Amanda1/Nosa2255/643095
 http://51.104.147.231:8080/Amanda1/Nosa2255/648935
 #EXTINF:0,FR:RT France HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/648935
-#EXTINF:0,FR:RT Français
+#EXTINF:0,FR:RT FranÃ§ais
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 #EXTINF:0,FR:RTL 9
 http://bb123.pro:1453/kingdiablo/x7Hf1psD4R/526
@@ -2717,7 +2717,7 @@ http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2060.ts
 http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/2060.ts
 #EXTINF:0,FR:TF1 SERIES-FILMS SD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22333
-#EXTINF:0,FR:TF1 Séries Films
+#EXTINF:0,FR:TF1 SÃ©ries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:100,FR:TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
@@ -2755,7 +2755,7 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5609
 http://51.104.147.231:8080/Amanda1/Nosa2255/5609
 #EXTINF:0,FR:TIJI SD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/22066
-#EXTINF:0,FR:TMA Caraïbes
+#EXTINF:0,FR:TMA CaraÃ¯bes
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:0,FR:TMC
 http://bb123.pro:1453/kingdiablo/x7Hf1psD4R/530
@@ -2933,11 +2933,11 @@ https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
 #EXTINF:0,FR:TVR Bretagne
 https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
-#EXTINF:0,FR:Téva
+#EXTINF:0,FR:TÃ©va
 http://178.132.3.162:88/Teva/index.m3u8?token=test
-#EXTINF:0,FR:Téva HD FR
+#EXTINF:0,FR:TÃ©va HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12949
-#EXTINF:0,FR:Téva HD FR
+#EXTINF:0,FR:TÃ©va HD FR
 http://51.104.147.231:8080/Amanda1/Nosa2255/12949
 #EXTINF:0,FR:USHUAIA HD
 http://yourdnshere.xyz:83/live/Julievarin/8025829493/376388.ts
@@ -2963,9 +2963,9 @@ http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2128.ts
 http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/2128.ts
 #EXTINF:0,FR:VH1 CLASSIC SD
 http://worldteam.io:8080/lLlfw4JjgH/NZhZODcpKZ/21951
-#EXTINF:0,FR:Vosges Télévision HD FR
+#EXTINF:0,FR:Vosges TÃ©lÃ©vision HD FR
 http://51.104.147.231:8080/Amanda1/Nosa2255/12932
-#EXTINF:0,FR:Vosges Télévision HD FR
+#EXTINF:0,FR:Vosges TÃ©lÃ©vision HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12932
 #EXTINF:0,FR:Voyage
 http://89.187.191.137:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2142.ts

@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:0,FR:6ter
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:0,FR:AB1
+http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
+#EXTINF:0,FR:Aerostar TV
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
+#EXTINF:0,FR:Animaux
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
+#EXTINF:0,FR:Arte Français
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
+#EXTINF:0,FR:Arte Français
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8
+#EXTINF:0,FR:ArtPla TV
+http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
+#EXTINF:0,FR:BFM 
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF:0,FR:BFM Business
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,FR:BFM Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8
+#EXTINF:0,FR:BFM Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w1683899868_b1464000.m3u8
+#EXTINF:0,FR:BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:0,FR:BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:0,FR:BOING Français
+http://178.132.3.162:88/boing/index.m3u8?token=test
+#EXTINF:0,FR:BOING Français
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
+#EXTINF:0,FR:Boomerang France
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:0,FR:C8
+https://exodiver.github.io/IPTV/M3U8/M3U8/Token/C8.m3u8
+#EXTINF:0,FR:Canal J
+http://178.132.3.162:88/CanalJ/video.m3u8?token=test
+#EXTINF:0,FR:Canal+ 
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/tech_canalplus_ott_mobile-655617/hls/index.m3u8
+#EXTINF:0,FR:CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:0,FR:Chasse & Peche 
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
+#EXTINF:0,FR:Cherie25
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?%7CX-Forwarded-For=217.70.184.38
+#EXTINF:0,FR:CNews
+https://exodiver.github.io/IPTV/M3U8/M3U8/Token/CNews.m3u8
+#EXTINF:0,FR:DBM
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:0,FR:EMCI TV Paris
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+#EXTINF:23,FR:France 2
+http://178.132.3.162:88/france2/index.m3u8?token=test
+#EXTINF:80,FR:France 2
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+#EXTINF:0,FR:France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:0,FR:France 3
+http://178.132.3.162:88/france3/index.m3u8?token=test
+#EXTINF:0,FR:France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:0,FR:France 3 Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+#EXTINF:0,FR:France 4
+http://178.132.3.162:88/france4/index.m3u8?token=test
+#EXTINF:0,FR:France 5
+http://178.132.3.162:88/france5/index.m3u8?token=test
+#EXTINF:0,FR:France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:0,FR:France Ô
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
+#EXTINF:0,FR:Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0,FR:Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:0,FR:Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0,FR:Grand Lille TV 
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+#EXTINF:0,FR:Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:0,FR:Gulli
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
+#EXTINF:0,FR:KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0,FR:L'Equipe 21
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:0,FR:La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,FR:LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:0,FR:LCP
+https://exodiver.github.io/IPTV/M3U8/M3U8/Token/LCP.m3u8
+#EXTINF:0,FR:M6
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:0,FR:M6
+http://178.132.3.162:88/M6/index.m3u8?token=test
+#EXTINF:0,FR:MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:0,FR:NRJ 12
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
+#EXTINF:0,FR:NRJ Hits
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
+#EXTINF:0,FR:NRJ12
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?%7CX-Forwarded-For=217.70.184.38
+#EXTINF:0,FR:Piwi
+http://178.132.3.162:88/Piwi/index.m3u8?token=test
+#EXTINF:0,FR:Public Sénat
+https://exodiver.github.io/IPTV/M3U8/M3U8/Token/PSenat.m3u8
+#EXTINF:0,FR:RMC Decouverte
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:0,FR:RT Français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:0,FR:RTL9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
+#EXTINF:0,FR:Star21
+http://stream4.swecom.cm/star21/chunklist_b2038272.m3u8
+#EXTINF:1780,FR:TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:0,FR:TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:100,FR:TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0,FR:TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0,FR:TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0,FR:TV5 Europe
+http://51.52.156.23:8888/http/005
+#EXTINF:0,FR:TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:100,FR:TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+#EXTINF:0,FR:TV5 Monde Asie (English)
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:0,FR:TV5 Monde Info
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:0,FR:TV5 Monde Info
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:0,FR:TV5 Monde Pacifique 
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8
+#EXTINF:0,FR:TV5 Monde Pacifique 
+https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8
+#EXTINF:0,FR:TV5 Monde Pacifique (Japan)
+https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8
+#EXTINF:0,FR:TV5 Monde Style
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:0,FR:TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:0,FR:TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:0,FR:TVM Est parisien
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:0,FR:TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:0,FR:TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
+#EXTINF:0,FR:Téva
+http://178.132.3.162:88/Teva/index.m3u8?token=test
+#EXTINF:0,FR:W9
+http://178.132.3.162:88/W9/index.m3u8?token=test
+#EXTINF:0,FR:W9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8

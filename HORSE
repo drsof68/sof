@@ -1,5 +1,73 @@
 #EXTM3U
-#EXTINF:60,Dubai Racing
+
+#EXTINF:0,TVG 2 NETWORK | HD |
+http://ky-iptv.com:25461/live/newyear1/newyear1/220449.ts
+#EXTINF:0,US: TVG NETWORK | SD | 
+http://ky-iptv.com:25461/live/newyear1/newyear1/220450.ts
+#EXTINF:0,US: TYC SPORTS | HD | 
+http://ky-iptv.com:25461/live/newyear1/newyear1/220450.ts
+
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/309344.ts
+#EXTINF:0,VIP HD : Sky Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/363773.ts
+#EXTINF:0,VIP HD : New Sky Sports Racing 
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/382939.ts
+#EXTINF:0,VIP FHD : New Sky Sports Racing 
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/382940.ts
+#EXTINF:0,VIP SD : Sky Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/382517.ts
+#EXTINF:0,VIP SD : New Sky Sports Racing 
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/382938.ts
+#EXTINF:0,VIP FHD : Sky Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/331503.ts
+#EXTINF:0,VIP FHD : Racing TV
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/374121.ts
+#EXTINF:0,VIP FHD : Racing TV
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/374207.ts
+#EXTINF:0,AU SD : Racing.Com 
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/377280.ts
+#EXTINF:0,AU SD : Racing.Com Victoria	
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/377281.ts
+#EXTINF:0,IRE: RACING TV
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/321979.ts
+#EXTINF:0, Dubai Racing 1
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/381832.ts
+#EXTINF:0, Dubai Racing 3
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/381831.ts
+#EXTINF:0,AU | SKY RACING 1
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/349459.ts
+#EXTINF:0,Racing.Com
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/385724.ts
+#EXTINF:0,SIS Racing
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/385727.ts
+#EXTINF:0,AU 04: RACING.COM
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/385734.ts
+#EXTINF:0,UK FHD : Sky Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/366914.ts
+
+
+
+
+#EXTINF:0,Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0,Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
@@ -31,6 +99,8 @@ http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56376
 http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56374
 #EXTINF:1,Equidia Live
 http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56376
+#EXTINF:0,Equidia Live FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5675
 #EXTINF:1,Equidia Live HD
 http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56373
 #EXTINF:1,Equidia Live HD
@@ -39,3 +109,31 @@ http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56375
 http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56373
 #EXTINF:1,Equidia Live HD
 http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/56375
+#EXTINF:0,Equidia Life HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12950
+#EXTINF:-1,Equidia Live
+http://89.187.191.137:88/live/MuMlvH9XvO/RtZFXVlsEC/2042.ts
+#EXTINF:-1,Equidia Live
+http://89.187.191.134:88/live/XiiLxuHczK/usZ9WRVNOt/2042.ts
+#EXTINF:-1,Equidia Live
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/2042.ts
+#EXTINF:-1,Equidia Live
+http://185.180.14.120:88/live/MuMlvH9VvO/RtZFXVlsEC/2042.ts
+#EXTINF:-1,Equidia Live
+http://185.180.14.122:88/live/MuMlvH9VvO/RtZFXVlsEC/2042.ts
+#EXTINF:-1,Equidia Live
+http://185.180.14.123:88/live/MuMlvH9VvO/RtZFXVlsEC/2042.ts
+#EXTINF:0,TVG | USA
+http://r7.geotvplus.com:2082/6056744/785500/54838
+#EXTINF:0,USA | TVG
+http://r7.geotvplus.com:2082/6056744/785500/64637
+#EXTINF:0,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0,Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:1808,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:1808,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:0,TVG Network
+

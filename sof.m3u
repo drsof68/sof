@@ -1,38 +1,89 @@
 #EXTM3U
-#EXTINF:0,------- Tunisia -------
-http://51.104.147.231:8080/Amanda1/Nosa2255/685755
-#EXTINF:0,Tunisia National 1 TUN
-http://51.104.147.231:8080/Amanda1/Nosa2255/5785
-#EXTINF:0,Tunisia National 2 TUN
-http://51.104.147.231:8080/Amanda1/Nosa2255/5784
-#EXTINF:0,Tunisna TUN
-http://51.104.147.231:8080/Amanda1/Nosa2255/14888
-#EXTINF:0,AL Hiwar Tunisia TUN
-http://51.104.147.231:8080/Amanda1/Nosa2255/8922
-#EXTINF:0,Al Hiwar Ettounsi TUN
+#EXTINF:0,AR Al Hiwar Ettounsi
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/203.ts
+#EXTINF:0,AR Al Hiwar Ettounsi
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/203.m3u8
+#EXTINF:0,AR Al Hiwar Ettounsi 
 http://51.104.147.231:8080/Amanda1/Nosa2255/8893
-#EXTINF:0,Al Insen TV TUN
+#EXTINF:0,AR AL Hiwar Tunisia  
+http://51.104.147.231:8080/Amanda1/Nosa2255/8922
+#EXTINF:0,AR Al Insen TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/14887
-#EXTINF:0,Al Moutawaset TV TUN
+#EXTINF:21,AR Al Janoubia
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/211.ts
+#EXTINF:0,AR Al Janoubia
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/211.m3u8
+#EXTINF:0,AR Al Moutawaset TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/8901
-#EXTINF:0,Al Mustakillah TUN
+#EXTINF:0,AR Al Mustakillah  
 http://51.104.147.231:8080/Amanda1/Nosa2255/14886
-#EXTINF:0,Attessia TV TUN
+#EXTINF:0,AR Attessia TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/205.m3u8
+#EXTINF:0,AR Attessia TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/205.ts
+#EXTINF:0,AR Attessia TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/8909
-#EXTINF:0,Beur TV TUN
+#EXTINF:0,AR Beur TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/14882
-#EXTINF:0,Carthage TV TUN
+#EXTINF:0,AR Carthage TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/14889
-#EXTINF:0,Hannibal TV TUN
+#EXTINF:0,AR Carthage+
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/212.ts
+#EXTINF:0,AR Carthage+
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/212.m3u8
+#EXTINF:0,AR Hannibal TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/208.ts
+#EXTINF:0,AR Hannibal TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/208.m3u8
+#EXTINF:0,AR Hannibal TV  
 http://51.104.147.231:8080/Amanda1/Nosa2255/8924
-#EXTINF:0,M Tunisia TUN
+#EXTINF:0,AR M Tunisia
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/210.m3u8
+#EXTINF:0,AR M Tunisia
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/210.ts
+#EXTINF:0,AR M Tunisia  
 http://51.104.147.231:8080/Amanda1/Nosa2255/5783
-#EXTINF:0,Nessma TUN
+#EXTINF:0,AR Nessma TUN
 http://51.104.147.231:8080/Amanda1/Nosa2255/8940
-#EXTINF:0,Telvza TV TUN
-http://51.104.147.231:8080/Amanda1/Nosa2255/14890
-#EXTINF:0,Sahel TV HD TUN
+#EXTINF:0,AR Nessma TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/207.m3u8
+#EXTINF:0,AR Nessma TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/207.ts
+#EXTINF:0,AR Sahel TV HD TUN
 http://51.104.147.231:8080/Amanda1/Nosa2255/18651
+#EXTINF:0,AR Telvza TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/204.m3u8
+#EXTINF:0,AR Telvza TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/204.ts
+#EXTINF:0,AR Telvza TV  
+http://51.104.147.231:8080/Amanda1/Nosa2255/14890
+#EXTINF:0,AR Tunisia Nat 1
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/201.ts
+#EXTINF:0,AR Tunisia Nat 1
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/201.m3u8
+#EXTINF:0,AR Tunisia Nat 2
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/202.ts
+#EXTINF:0,AR Tunisia Nat 2
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/202.m3u8
+#EXTINF:0,AR Tunisia National 1  
+http://51.104.147.231:8080/Amanda1/Nosa2255/5785
+#EXTINF:0,AR Tunisia National 2  
+http://51.104.147.231:8080/Amanda1/Nosa2255/5784
+#EXTINF:0,AR Tunisna  
+http://51.104.147.231:8080/Amanda1/Nosa2255/14888
+#EXTINF:0,AR Tunisna TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/206.ts
+#EXTINF:0,AR Tunisna TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/206.m3u8
+#EXTINF:0,AR Zaytouna TV
+http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/209.ts
+#EXTINF:0,AR Zaytouna TV
+http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/209.m3u8
+
+
+
+
+
 #EXTINF:0,########## France ##########
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5718
 #EXTINF:0,------- Main & Regional -------
@@ -89,11 +140,11 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5657
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7945
 #EXTINF:0,Teva FHD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13002
-#EXTINF:0,TÃ©va HD FR
+#EXTINF:0,Téva HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12949
 #EXTINF:0,Teva FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5611
-#EXTINF:0,Vosges TÃ©lÃ©vision HD FR
+#EXTINF:0,Vosges Télévision HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12932
 #EXTINF:0,OL TV HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16900
@@ -425,7 +476,7 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5622
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12998
 #EXTINF:0,Chasse E Peche HD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5694
-#EXTINF:0,PlanÃ¨te+ Crime Investigation FHD FR
+#EXTINF:0,Planète+ Crime Investigation FHD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12942
 #EXTINF:0,KTO FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5659
@@ -12199,7 +12250,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/6935.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/6936.mp4
 #EXTINF:0,Captain Fantastic - 2016
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/6937.mp4
-#EXTINF:0,CafÃ© Society - 2016
+#EXTINF:0,Café Society - 2016
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/6938.mp4
 #EXTINF:0,The Good Dinosaur - 2015
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/6939.mp4
@@ -13223,7 +13274,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/7447.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/7448.mp4
 #EXTINF:0,The Infiltrator - 2016
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/7449.mp4
-#EXTINF:0,CafÃ© Society - 2016
+#EXTINF:0,Café Society - 2016
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/7450.mp4
 #EXTINF:0,Death Race 2 - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/7451.mp4
@@ -14501,7 +14552,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8124.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8125.mp4
 #EXTINF:0,BEKO-Nizamettin-aric
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8126.mp4
-#EXTINF:0,Buka BaranÃª - 2019
+#EXTINF:0,Buka Baranê - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8127.mp4
 #EXTINF:0,Cigerxwin
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8128.mp4
@@ -14725,7 +14776,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8239.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8240.mp4
 #EXTINF:0,The Guilty - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8241.mp4
-#EXTINF:0,Ã–zgÃ¼r DÃ¼nya - 2019
+#EXTINF:0,Özgür Dünya - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8242.mp4
 #EXTINF:0,Mammamia - 1998
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8243.mp4
@@ -14957,7 +15008,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8362.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8363.mp4g
 #EXTINF:0,Signs - 2002
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8364.mp4
-#EXTINF:0,SÃ¼per Ayi | Super Bear
+#EXTINF:0,Süper Ayi | Super Bear
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8365.mp4
 #EXTINF:0,Godzilla: King of the Monsters - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8366.mp4
@@ -15021,7 +15072,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8394.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8395.mp4
 #EXTINF:0,Acemi Kasifler Gorevimiz Kocaayak
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8396.jpg
-#EXTINF:0,Enes Batur: Hayal mi GerÃ§ek mi? - 2018
+#EXTINF:0,Enes Batur: Hayal mi Gerçek mi? - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8397.mp4
 #EXTINF:0,Alpha - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8398.mp4
@@ -15077,7 +15128,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8422.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8423.mp4
 #EXTINF:0,9 - 2002
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8424.mp4
-#EXTINF:0,UtÃ¸ya: July 22 - 2018
+#EXTINF:0,Utøya: July 22 - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8425.mp4
 #EXTINF:0,And Breathe Normally - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8426.mp4
@@ -15341,21 +15392,21 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8554.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8555.mp4
 #EXTINF:0,Sahilde
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8556.mp4
-#EXTINF:0,MÃ¼slÃ¼m - 2018
+#EXTINF:0,Müslüm - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8557.mp4
 #EXTINF:0,Someone Great - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8558.mp4
 #EXTINF:0,Miss Bala - 2011
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8559.mp4
-#EXTINF:0,Kral Olacak Ã‡ocuk - 2019
+#EXTINF:0,Kral Olacak Çocuk - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8560.mp4
 #EXTINF:0,Kaptan Dandun - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8562.mp4
 #EXTINF:0,Hesaplasma
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8563.mp4
-#EXTINF:0,BÃ¶rÃ¼ - 2018
+#EXTINF:0,Börü - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8566.mp4
-#EXTINF:0,Ã‡iÃ§ero - 2019
+#EXTINF:0,Çiçero - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8567.mp4
 #EXTINF:0,Tombiruo - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8568.mp4
@@ -15379,7 +15430,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8580.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8581.mp4
 #EXTINF:0,Suyun Cocuklari
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8582.mp4
-#EXTINF:0,Ã–rÃ¼mcek-Adam: Ã–rÃ¼mcek Evreninde - 2018
+#EXTINF:0,Örümcek-Adam: Örümcek Evreninde - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8583.mp4
 #EXTINF:0,Puzzle
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8584.mp4
@@ -15401,7 +15452,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8594.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8595.mp4
 #EXTINF:0,Euphoria - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8596.mp4
-#EXTINF:0,Durumunu GÃ¼ncelle - 2018
+#EXTINF:0,Durumunu Güncelle - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8597.mp4
 #EXTINF:0,Mavi Iguana - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8598.mp4
@@ -15419,7 +15470,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8606.mp4g
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8607.mp4
 #EXTINF:0,Mafya Oyunlari
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8608.mp4
-#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli DÃ¼nya
+#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli Dünya
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8610.mp4
 #EXTINF:0,Karlar Prensi Elliot - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8611.mp4
@@ -15445,7 +15496,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8627.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8628.mp4
 #EXTINF:0,Kadin Onde Yurur
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8630.mp4
-#EXTINF:0,SÃ¼kunet - 2018
+#EXTINF:0,Sükunet - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8632.mp4
 #EXTINF:0,Gorumceler
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8633.mp4
@@ -15477,7 +15528,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8649.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8650.mp4
 #EXTINF:0,Hashima Komur Madeni
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8652.mp4
-#EXTINF:0,TÃ¼m Kalbimle 2 - 2017
+#EXTINF:0,Tüm Kalbimle 2 - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8653.mp4
 #EXTINF:0,Ruzgari Dizginleyen Cocuk
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8654.mp4
@@ -15499,11 +15550,11 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8665.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8666.mp4
 #EXTINF:0,Mandy - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8668.mp4
-#EXTINF:0,GÃ¶rÃ¼mce - 2016
+#EXTINF:0,Görümce - 2016
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8670.mp4
 #EXTINF:0,Ayin - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8673.mp4
-#EXTINF:0,GÃ¼zel Ãœlke - 2018
+#EXTINF:0,Güzel Ülke - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8674.mp4
 #EXTINF:0,Kara Gol: Miras
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8675.mp4
@@ -15513,13 +15564,13 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8676.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8678.mp4
 #EXTINF:0,Corbo - 2014
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8679.mp4
-#EXTINF:0,YucatÃ¡n - 2018
+#EXTINF:0,Yucatán - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8681.mp4
 #EXTINF:0,UFO - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8682.mp4
 #EXTINF:0,Gemini - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8683.mp4
-#EXTINF:0,KÃ¼Ã§Ã¼k Kahramanlar - 2017
+#EXTINF:0,Küçük Kahramanlar - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8684.mp4
 #EXTINF:0,Mutlu Canavar Ailesi - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8685.mp4
@@ -15537,9 +15588,9 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8694.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8696.mp4
 #EXTINF:0,Soguk Savas
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8698.mp4
-#EXTINF:0,Mekanlar ve YÃ¼zler - 2017
+#EXTINF:0,Mekanlar ve Yüzler - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8699.mp4
-#EXTINF:0,GrinÃ§ - 2018
+#EXTINF:0,Grinç - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8701.mp4
 #EXTINF:0,Polar - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8702.mp4
@@ -15547,7 +15598,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8702.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8703.mp4
 #EXTINF:0,Hugo - 2011
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8706.mp4
-#EXTINF:0,KÃ¼l Yutmaz - 2018
+#EXTINF:0,Kül Yutmaz - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8707.mp4
 #EXTINF:0,Cadilar Balosu
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8708.mp4
@@ -15597,7 +15648,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8733.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8734.mp4
 #EXTINF:0,Scooby Doo: Sirk Macerasi
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8735.mp4
-#EXTINF:0,Tehlike ReÃ§etesi - 2018
+#EXTINF:0,Tehlike Reçetesi - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8736.mp4
 #EXTINF:0,Patient Zero - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8738.mp4
@@ -15615,23 +15666,23 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8744.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8745.mp4
 #EXTINF:0,Kral Lear
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8746.mp4
-#EXTINF:0,Pokemon Filmi: Seni SeÃ§tim - 2017
+#EXTINF:0,Pokemon Filmi: Seni Seçtim - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8747.mp4
 #EXTINF:0,The Christmas Chronicles - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8750.mp4
 #EXTINF:0,Scott ve Sid
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8751.mp4
-#EXTINF:0,Entebbe'de 7 GÃ¼n - 2018
+#EXTINF:0,Entebbe'de 7 Gün - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8752.mp4
 #EXTINF:0,Yuk Hayvani
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8753.mp4
-#EXTINF:0,Ani Ã–lÃ¼m - 1995
+#EXTINF:0,Ani Ölüm - 1995
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8754.mp4
 #EXTINF:0,El Royalde Zor Zamanlar
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8755.mp4
 #EXTINF:0,Biz Yeniden Tanisana Dek
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8758.mp4
-#EXTINF:0,GÃ¶kdelen - 2018
+#EXTINF:0,Gökdelen - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8759.mp4
 #EXTINF:0,Siddet Eylemleri
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8760.mp4
@@ -15659,9 +15710,9 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8772.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8774.mp4
 #EXTINF:0,Spartan - 2004
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8775.mp4
-#EXTINF:0,Ã–zel Hayat - 2018
+#EXTINF:0,Özel Hayat - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8776.mp4
-#EXTINF:0,KÃ¼Ã§Ã¼k Ayak - 2018
+#EXTINF:0,Küçük Ayak - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8777.mp4
 #EXTINF:0,Aska Guven
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8778.mp4
@@ -15767,7 +15818,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8851.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8852.mp4
 #EXTINF:0,Errementari - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8853.mp4
-#EXTINF:0,Superman'in Ã–lÃ¼mÃ¼ - 2018
+#EXTINF:0,Superman'in Ölümü - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8854.mp4
 #EXTINF:0,Incredibles 2 - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8855.mp4
@@ -15785,7 +15836,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8860.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8861.mp4
 #EXTINF:0,The Guilty - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8862.mp4
-#EXTINF:0,Ã–zgÃ¼r DÃ¼nya - 2019
+#EXTINF:0,Özgür Dünya - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8863.mp4
 #EXTINF:0,Mammamia - 1998
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8864.mp4
@@ -15945,7 +15996,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8945.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8946.mp4
 #EXTINF:0,Global Meltdown - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8947.mp4
-#EXTINF:0,SÃ¼per Ayi | Super Bear
+#EXTINF:0,Süper Ayi | Super Bear
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8948.mp4
 #EXTINF:0,Godzilla: King of the Monsters - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8949.mp4
@@ -15995,7 +16046,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8970.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8971.mp4
 #EXTINF:0,Aladdin - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8972.mp4
-#EXTINF:0,Enes Batur: Hayal mi GerÃ§ek mi? - 2018
+#EXTINF:0,Enes Batur: Hayal mi Gerçek mi? - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8973.mp4
 #EXTINF:0,Alpha - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8974.mp4
@@ -16029,7 +16080,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8987.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8988.mp4
 #EXTINF:0,The Vanishing - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8989.mp4
-#EXTINF:0,UtÃ¸ya: July 22 - 2018
+#EXTINF:0,Utøya: July 22 - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8990.mp4
 #EXTINF:0,And Breathe Normally - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/8991.mp4
@@ -16149,7 +16200,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9047.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9048.mp4
 #EXTINF:0,Boru
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9049.mp4
-#EXTINF:0,Ã‡iÃ§ero - 2019
+#EXTINF:0,Çiçero - 2019
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9050.mp4
 #EXTINF:0,Whitney - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9051.mp4
@@ -16207,7 +16258,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9076.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9077.mp4
 #EXTINF:0,Sarayin Gozdesi
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9078.mp4
-#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli DÃ¼nya
+#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli Dünya
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9079.mp4
 #EXTINF:0,Elliot: The Littlest Reindeer - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9080.mp4
@@ -16293,7 +16344,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9119.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9120.mp4
 #EXTINF:0,Garantili Olum: Yoksa Paran Iade
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9121.mp4
-#EXTINF:0,YucatÃ¡n - 2018
+#EXTINF:0,Yucatán - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9122.mp4
 #EXTINF:0,UFO - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9123.mp4
@@ -16419,7 +16470,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9183.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9184.mp4
 #EXTINF:0,Ploey: You Never Fly Alone - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9185.mp4
-#EXTINF:0,My Dinner with HervÃ© - 2018
+#EXTINF:0,My Dinner with Hervé - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9186.mp4
 #EXTINF:0,Nothing to Hide - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9187.mp4
@@ -17513,7 +17564,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9735.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9736.mp4
 #EXTINF:0,Zorlu Ikili
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9737.mp4
-#EXTINF:0,Ã‡anakkale: Yolun Sonu - 2013
+#EXTINF:0,Çanakkale: Yolun Sonu - 2013
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9738.mp4
 #EXTINF:0,Acil Arama
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9739.mp4
@@ -17533,7 +17584,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9745.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9746.mp4
 #EXTINF:0,Cehennem
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9747.mp4
-#EXTINF:0,Ã‡akal - 2010
+#EXTINF:0,Çakal - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9748.mp4
 #EXTINF:0,Nefes Vatan Sagolsun
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9750.mp4
@@ -17551,7 +17602,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9755.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9756.mp4
 #EXTINF:0,Olumle Dans
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9757.mp4
-#EXTINF:0,BÃ¼yÃ¼ - 2004
+#EXTINF:0,Büyü - 2004
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9758.mp4
 #EXTINF:0,Jurassic World - 2015
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/9759.mp4
@@ -18125,7 +18176,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10055.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10056.mp4
 #EXTINF:0,Garantili Olum: Yoksa Paran Iade
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10057.mp4
-#EXTINF:0,YucatÃ¡n - 2018
+#EXTINF:0,Yucatán - 2018
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10058.mp4
 #EXTINF:0,Organize Isler 2: Sazan Sarmali
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10059.mp4
@@ -18311,7 +18362,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10150.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10151.mp4
 #EXTINF:0,Felekten Bir Gece 3
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10152.mp4
-#EXTINF:0,Ã‡akallarla Dans - 2010
+#EXTINF:0,Çakallarla Dans - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10153.mp4
 #EXTINF:0,Guvercin Ucuverdi
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10154.mp4
@@ -18467,9 +18518,9 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10235.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10236.mp4
 #EXTINF:0,Cok Filim Hareketler
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10237.mp4
-#EXTINF:0,Ã‡inliler Geliyor - 2006
+#EXTINF:0,Çinliler Geliyor - 2006
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10238.mp4
-#EXTINF:0,Ã‡akallarla Dans - 2010
+#EXTINF:0,Çakallarla Dans - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10239.mp4
 #EXTINF:0,Bayrampasa Ben Fazla Kalmayacagim
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10240.mp4
@@ -19663,7 +19714,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10838.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10839.mp4
 #EXTINF:0,Eadweard - 2015
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10840.mp4
-#EXTINF:0,ParamparÃ§a
+#EXTINF:0,Paramparça
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10841.mp4
 #EXTINF:0,Outside In
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10842.mp4
@@ -19965,7 +20016,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10992.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10993.mp4
 #EXTINF:0,Zorlu Ikili
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10994.mp4
-#EXTINF:0,Ã‡anakkale: Yolun Sonu - 2013
+#EXTINF:0,Çanakkale: Yolun Sonu - 2013
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10995.mp4
 #EXTINF:0,Bendeyar - 2011
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/10996.mp4
@@ -21009,7 +21060,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11523.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11524.mp4
 #EXTINF:0,Sira Disi Canlilar Zeki Hayvanlar
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11525.mp4
-#EXTINF:0,Dersimiz: AtatÃ¼rk - 2010
+#EXTINF:0,Dersimiz: Atatürk - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11526.mp4
 #EXTINF:0,Ataturkun Fedaisi Topal Osman
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11527.mp4
@@ -21207,7 +21258,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11623.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11624.mp4
 #EXTINF:0,Adalet Birligi Olumcum Besliye Karsi
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11625.mp4
-#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli DÃ¼nya
+#EXTINF:0,Ejderhani Nasil Egitirsin 3: Gizli Dünya
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11626.mp4
 #EXTINF:0,Karlar Prensi Elliot
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/11627.mp4
@@ -22033,7 +22084,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12037.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12038.mp4
 #EXTINF:0,Vahsi Amerika 6
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12039.mp4
-#EXTINF:0,Dersimiz: AtatÃ¼rk - 2010
+#EXTINF:0,Dersimiz: Atatürk - 2010
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12040.mp4
 #EXTINF:0,Ataturkun Fedaisi Topal Osman
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12041.mp4
@@ -23211,7 +23262,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12626.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12627.mp4
 #EXTINF:0,Z-Office - 2017
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12628.mp4
-#EXTINF:0,ChimÃ¨res - 2013
+#EXTINF:0,Chimères - 2013
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12629.mp4
 #EXTINF:0,Les Fantomes DIsmael
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12630.mp4
@@ -23871,7 +23922,7 @@ http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12956.mp4
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12957.mp4
 #EXTINF:0,The Little Death
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12958.mp4
-#EXTINF:0,ChimÃ¨res - 2013
+#EXTINF:0,Chimères - 2013
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12959.mp4
 #EXTINF:0,Les Fantomes DIsmael
 http://185.180.14.120:8889/movie/MuMlvH9VvO/RtZFXVlsEC/12960.mp4
@@ -27953,53 +28004,53 @@ http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14076.mp4
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14077.mp4
 #EXTINF:0,La Casa de papel S02 E09
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14078.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E01
+#EXTINF:0,Bir Zamanlar Çukurova S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14079.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E02
+#EXTINF:0,Bir Zamanlar Çukurova S01 E02
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14080.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E03
+#EXTINF:0,Bir Zamanlar Çukurova S01 E03
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14081.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E04
+#EXTINF:0,Bir Zamanlar Çukurova S01 E04
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14082.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E05
+#EXTINF:0,Bir Zamanlar Çukurova S01 E05
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14083.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E06
+#EXTINF:0,Bir Zamanlar Çukurova S01 E06
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14084.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E07
+#EXTINF:0,Bir Zamanlar Çukurova S01 E07
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14085.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E08
+#EXTINF:0,Bir Zamanlar Çukurova S01 E08
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14086.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E09
+#EXTINF:0,Bir Zamanlar Çukurova S01 E09
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14087.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E10
+#EXTINF:0,Bir Zamanlar Çukurova S01 E10
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14088.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E11
+#EXTINF:0,Bir Zamanlar Çukurova S01 E11
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14089.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E12
+#EXTINF:0,Bir Zamanlar Çukurova S01 E12
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14090.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E13
+#EXTINF:0,Bir Zamanlar Çukurova S01 E13
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14091.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E14
+#EXTINF:0,Bir Zamanlar Çukurova S01 E14
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14092.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E15
+#EXTINF:0,Bir Zamanlar Çukurova S01 E15
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14093.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E16
+#EXTINF:0,Bir Zamanlar Çukurova S01 E16
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14094.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E17
+#EXTINF:0,Bir Zamanlar Çukurova S01 E17
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14095.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E18
+#EXTINF:0,Bir Zamanlar Çukurova S01 E18
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14096.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E19
+#EXTINF:0,Bir Zamanlar Çukurova S01 E19
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14097.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E20
+#EXTINF:0,Bir Zamanlar Çukurova S01 E20
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14098.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E21
+#EXTINF:0,Bir Zamanlar Çukurova S01 E21
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14099.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E22
+#EXTINF:0,Bir Zamanlar Çukurova S01 E22
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14100.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E23
+#EXTINF:0,Bir Zamanlar Çukurova S01 E23
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14101.mp4
-#EXTINF:0,Bir Zamanlar Ã‡ukurova S01 E24
+#EXTINF:0,Bir Zamanlar Çukurova S01 E24
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14102.mp4
 #EXTINF:0,Mucize Doktor S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14103.mp4
@@ -29237,65 +29288,65 @@ http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14799.mp4
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14800.mp4
 #EXTINF:0,Leke S01 E09
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14801.mp4
-#EXTINF:0,GÃ¼lperi S01 E01
+#EXTINF:0,Gülperi S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14802.mp4
-#EXTINF:0,GÃ¼lperi S01 E02
+#EXTINF:0,Gülperi S01 E02
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14803.mp4
-#EXTINF:0,GÃ¼lperi S01 E03
+#EXTINF:0,Gülperi S01 E03
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14804.mp4
-#EXTINF:0,GÃ¼lperi S01 E04
+#EXTINF:0,Gülperi S01 E04
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14805.mp4
-#EXTINF:0,GÃ¼lperi S01 E05
+#EXTINF:0,Gülperi S01 E05
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14806.mp4
-#EXTINF:0,GÃ¼lperi S01 E06
+#EXTINF:0,Gülperi S01 E06
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14807.mp4
-#EXTINF:0,GÃ¼lperi S01 E07
+#EXTINF:0,Gülperi S01 E07
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14808.mp4
-#EXTINF:0,GÃ¼lperi S01 E08
+#EXTINF:0,Gülperi S01 E08
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14809.mp4
-#EXTINF:0,GÃ¼lperi S01 E09
+#EXTINF:0,Gülperi S01 E09
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14810.mp4
-#EXTINF:0,GÃ¼lperi S01 E10
+#EXTINF:0,Gülperi S01 E10
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14811.mp4
-#EXTINF:0,GÃ¼lperi S01 E11
+#EXTINF:0,Gülperi S01 E11
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14812.mp4
-#EXTINF:0,GÃ¼lperi S01 E12
+#EXTINF:0,Gülperi S01 E12
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14813.mp4
-#EXTINF:0,GÃ¼lperi S01 E13
+#EXTINF:0,Gülperi S01 E13
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14814.mp4
-#EXTINF:0,GÃ¼lperi S01 E14
+#EXTINF:0,Gülperi S01 E14
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14815.mp4
-#EXTINF:0,GÃ¼lperi S01 E15
+#EXTINF:0,Gülperi S01 E15
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14816.mp4
-#EXTINF:0,GÃ¼lperi S01 E16
+#EXTINF:0,Gülperi S01 E16
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14817.mp4
-#EXTINF:0,GÃ¼lperi S01 E17
+#EXTINF:0,Gülperi S01 E17
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14818.mp4
-#EXTINF:0,GÃ¼lperi S01 E18
+#EXTINF:0,Gülperi S01 E18
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14819.mp4
-#EXTINF:0,GÃ¼lperi S01 E19
+#EXTINF:0,Gülperi S01 E19
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14820.mp4
-#EXTINF:0,GÃ¼lperi S01 E20
+#EXTINF:0,Gülperi S01 E20
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14821.mp4
-#EXTINF:0,GÃ¼lperi S01 E21
+#EXTINF:0,Gülperi S01 E21
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14822.mp4
-#EXTINF:0,GÃ¼lperi S01 E22
+#EXTINF:0,Gülperi S01 E22
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14823.mp4
-#EXTINF:0,GÃ¼lperi S01 E23
+#EXTINF:0,Gülperi S01 E23
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14824.mp4
-#EXTINF:0,GÃ¼lperi S01 E24
+#EXTINF:0,Gülperi S01 E24
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14825.mp4
-#EXTINF:0,GÃ¼lperi S01 E25
+#EXTINF:0,Gülperi S01 E25
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14826.mp4
-#EXTINF:0,GÃ¼lperi S01 E26
+#EXTINF:0,Gülperi S01 E26
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14827.mp4
-#EXTINF:0,GÃ¼lperi S01 E27
+#EXTINF:0,Gülperi S01 E27
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14828.mp4
-#EXTINF:0,GÃ¼lperi S01 E28
+#EXTINF:0,Gülperi S01 E28
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14829.mp4
-#EXTINF:0,GÃ¼lperi S01 E29
+#EXTINF:0,Gülperi S01 E29
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14830.mp4
-#EXTINF:0,GÃ¼lperi S01 E30
+#EXTINF:0,Gülperi S01 E30
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14831.mp4
 #EXTINF:0,This Is Us S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14838.mp4
@@ -29659,7 +29710,7 @@ http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/15025.mp4
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/15026.mp4
 #EXTINF:0,Pretty Little Liars S05 E25
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/15027.mp4
-#EXTINF:0,GÃ¼ldÃ¼r GÃ¼ldÃ¼r Show S01 E01
+#EXTINF:0,Güldür Güldür Show S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/14950.mp4
 #EXTINF:0,Friends S01 E01
 http://185.180.14.120:8889/series/MuMlvH9VvO/RtZFXVlsEC/15028.mp4

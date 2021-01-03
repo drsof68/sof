@@ -3,18 +3,26 @@
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186255
 #EXTINF:-1 ,FR 13eme RUE
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2082.m3u8
+#EXTINF:-1 ,FR 13Eme Rue FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5717
 #EXTINF:-1 ,FR 13eme RUE HD
 http://ky-iptv.com:25461/coolman/coolman/182409
 #EXTINF:-1 ,FR 13eme RUE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182409
+#EXTINF:-1 ,FR 13Eme Rue HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12973
 #EXTINF:-1 ,FR 6Ter
 http://ky-iptv.com:25461/coolman/coolman/182257
 #EXTINF:-1 ,FR 6Ter
 http://ky-iptv.com:25461/newyear1/newyear1/182257
 #EXTINF:-1 ,FR 6ter FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186256
+#EXTINF:-1 ,FR 6Ter FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13004
 #EXTINF:-1 ,FR 6ter HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1994.m3u8
+#EXTINF:-1 ,FR 6Ter HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5716
 #EXTINF:-1 ,FR A LA CARTE 01
 http://ky-iptv.com:25461/coolman/coolman/182343
 #EXTINF:-1 ,FR A LA CARTE 01
@@ -47,6 +55,8 @@ http://ky-iptv.com:25461/newyear1/newyear1/182349
 http://ky-iptv.com:25461/coolman/coolman/182350
 #EXTINF:-1 ,FR A LA CARTE 08
 http://ky-iptv.com:25461/newyear1/newyear1/182350
+#EXTINF:-1 ,FR A La Carte 1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12930
 #EXTINF:-1 ,FR A LA CARTE 1 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186257
 #EXTINF:-1 ,FR A LA CARTE 10
@@ -73,22 +83,36 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186273
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186274
 #EXTINF:-1 ,FR A LA CARTE 19
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186275
+#EXTINF:-1 ,FR A La Carte 2 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12929
 #EXTINF:-1 ,FR A LA CARTE 2 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186258
 #EXTINF:-1 ,FR A LA CARTE 20
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186276
+#EXTINF:-1 ,FR A La Carte 3 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12928
 #EXTINF:-1 ,FR A LA CARTE 3 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186259
 #EXTINF:-1 ,FR A LA CARTE 4 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186260
+#EXTINF:-1 ,FR A La Carte 4 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12927
 #EXTINF:-1 ,FR A LA CARTE 5 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186261
+#EXTINF:-1 ,FR A La Carte 5 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12926
 #EXTINF:-1 ,FR A LA CARTE 6 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186262
+#EXTINF:-1 ,FR A La Carte 6 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12925
 #EXTINF:-1 ,FR A LA CARTE 7 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186263
+#EXTINF:-1 ,FR A La Carte 7 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12924
 #EXTINF:-1 ,FR A LA CARTE 8 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186264
+#EXTINF:-1 ,FR A La Carte 8 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12923
 #EXTINF:-1 ,FR A LA CARTE 9
 http://ky-iptv.com:25461/coolman/coolman/182342
 #EXTINF:-1 ,FR A LA CARTE 9
@@ -119,10 +143,16 @@ http://ky-iptv.com:25461/newyear1/newyear1/182514
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2068.m3u8
 #EXTINF:-1 ,FR AB3 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186281
+#EXTINF:-1 ,FR AB3 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5714
 #EXTINF:-1 ,FR ABXplore HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186282
 #EXTINF:-1 ,FR ACTION FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186283
+#EXTINF:-1 ,FR Action FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13003
+#EXTINF:-1 ,FR Action FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8629
 #EXTINF:-1 ,FR Action HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2063.m3u8
 #EXTINF:-1 ,FR ACTION HD
@@ -131,12 +161,18 @@ http://ky-iptv.com:25461/coolman/coolman/182411
 http://ky-iptv.com:25461/newyear1/newyear1/182411
 #EXTINF:-1 ,FR AEROSTAR TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186284
+#EXTINF:-1 ,FR Alsace 20 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12941
 #EXTINF:-1 ,FR ALSACE 20 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186285
 #EXTINF:-1 ,FR ALTICE STUDIO FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186286
+#EXTINF:-1 ,FR Altice Studio HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/50064
 #EXTINF:-1 ,FR ANIMAUX FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186287
+#EXTINF:-1 ,FR Animaux FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5712
 #EXTINF:-1 ,FR Animaux HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2137.m3u8
 #EXTINF:-1 ,FR ANIMAUX HD
@@ -153,6 +189,10 @@ http://ky-iptv.com:25461/coolman/coolman/182258
 http://ky-iptv.com:25461/newyear1/newyear1/182258
 #EXTINF:-1 ,FR ARTE FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186290
+#EXTINF:-1 ,FR Arte FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12862
+#EXTINF:-1 ,FR Arte HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5711
 #EXTINF:-1 ,FR Auto Moto HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186291
 #EXTINF:-1 ,FR AUTOMOTO LA CHAINE HD
@@ -171,12 +211,18 @@ http://ky-iptv.com:25461/newyear1/newyear1/182316
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186296
 #EXTINF:-1 ,FR beIN SPORTS 1 FHD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2023.m3u8
+#EXTINF:-1 ,FR beIN Sports 1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5710
 #EXTINF:-1 ,FR beIN Sports 1 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186299
 #EXTINF:-1 ,FR beIN SPORTS 1 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2020.m3u8
+#EXTINF:-1 ,FR beIN Sports 1 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12961
 #EXTINF:-1 ,FR beIN Sports 10 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186314
+#EXTINF:-1 ,FR beIN Sports 10 Max FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12953
 #EXTINF:-1 ,FR beIN Sports 16 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186315
 #EXTINF:-1 ,FR beIN Sports 2 FHD
@@ -187,24 +233,34 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2024.m3u8
 http://ky-iptv.com:25461/coolman/coolman/182319
 #EXTINF:-1 ,FR beIN SPORTS 2 FHD
 http://ky-iptv.com:25461/newyear1/newyear1/182319
+#EXTINF:-1 ,FR beIN Sports 2 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12958
 #EXTINF:-1 ,FR beIN Sports 2 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186300
 #EXTINF:-1 ,FR beIN SPORTS 2 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2021.m3u8
+#EXTINF:-1 ,FR beIN Sports 2 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5709
 #EXTINF:-1 ,FR beIN Sports 3 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186298
 #EXTINF:-1 ,FR beIN SPORTS 3 FHD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2025.m3u8
+#EXTINF:-1 ,FR beIN Sports 3 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5708
 #EXTINF:-1 ,FR beIN Sports 3 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186301
 #EXTINF:-1 ,FR beIN SPORTS 3 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2022.m3u8
+#EXTINF:-1 ,FR beIN Sports 3 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12957
 #EXTINF:-1 ,FR beIN Sports 4 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186302
 #EXTINF:-1 ,FR beIN Sports 4 HD
 http://ky-iptv.com:25461/coolman/coolman/819492
 #EXTINF:-1 ,FR beIN Sports 4 HD
 http://ky-iptv.com:25461/newyear1/newyear1/819492
+#EXTINF:-1 ,FR beIN Sports 4 Max FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8562
 #EXTINF:-1 ,FR beIN Sports 5
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186303
 #EXTINF:-1 ,FR beIN Sports 5
@@ -217,24 +273,32 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186304
 http://ky-iptv.com:25461/coolman/coolman/819493
 #EXTINF:-1 ,FR beIN Sports 6 HD
 http://ky-iptv.com:25461/newyear1/newyear1/819493
+#EXTINF:-1 ,FR beIN Sports 6 Max FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8538
 #EXTINF:-1 ,FR beIN Sports 7 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186305
 #EXTINF:-1 ,FR beIN Sports 7 HD
 http://ky-iptv.com:25461/coolman/coolman/819495
 #EXTINF:-1 ,FR beIN Sports 7 HD
 http://ky-iptv.com:25461/newyear1/newyear1/819495
+#EXTINF:-1 ,FR beIN Sports 7 Max FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8537
 #EXTINF:-1 ,FR beIN Sports 8 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186306
 #EXTINF:-1 ,FR beIN Sports 8 HD
 http://ky-iptv.com:25461/coolman/coolman/819496
 #EXTINF:-1 ,FR beIN Sports 8 HD
 http://ky-iptv.com:25461/newyear1/newyear1/819496
+#EXTINF:-1 ,FR beIN Sports 8 Max HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12956
 #EXTINF:-1 ,FR beIN Sports 9 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186307
 #EXTINF:-1 ,FR beIN Sports 9 HD
 http://ky-iptv.com:25461/coolman/coolman/819497
 #EXTINF:-1 ,FR beIN Sports 9 HD
 http://ky-iptv.com:25461/newyear1/newyear1/819497
+#EXTINF:-1 ,FR beIN Sports 9 Max HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12954
 #EXTINF:-1 ,FR beIN Sports Max 10 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186322
 #EXTINF:-1 ,FR beIN SPORTS Max 10 HD
@@ -293,6 +357,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186328
 http://ky-iptv.com:25461/coolman/coolman/182515
 #EXTINF:-1 ,FR BET HD
 http://ky-iptv.com:25461/newyear1/newyear1/182515
+#EXTINF:-1 ,FR Bet HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7941
 #EXTINF:-1 ,FR BFM Business HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186329
 #EXTINF:-1 ,FR BFM Business HD
@@ -309,12 +375,16 @@ http://ky-iptv.com:25461/newyear1/newyear1/182307
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186331
 #EXTINF:-1 ,FR BFM PARIS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186332
+#EXTINF:-1 ,FR BFM Sport FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8560
 #EXTINF:-1 ,FR BFM sport HD
 http://ky-iptv.com:25461/coolman/coolman/182363
 #EXTINF:-1 ,FR BFM sport HD
 http://ky-iptv.com:25461/newyear1/newyear1/182363
 #EXTINF:-1 ,FR BFM Sport HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186333
+#EXTINF:-1 ,FR BFM TV FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5706
 #EXTINF:-1 ,FR BIP TV
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186334
 #EXTINF:-1 ,FR Blaze FHD
@@ -327,6 +397,8 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2103.m3u8
 http://ky-iptv.com:25461/coolman/coolman/182537
 #EXTINF:-1 ,FR BOING HD
 http://ky-iptv.com:25461/newyear1/newyear1/182537
+#EXTINF:-1 ,FR Boing HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5705
 #EXTINF:-1 ,FR Boomerang
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2094.m3u8
 #EXTINF:-1 ,FR BOOMERANG +1 HD
@@ -339,6 +411,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186339
 http://ky-iptv.com:25461/coolman/coolman/182540
 #EXTINF:-1 ,FR BOOMERANG HD
 http://ky-iptv.com:25461/newyear1/newyear1/182540
+#EXTINF:-1 ,FR Boomerang HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5704
 #EXTINF:-1 ,FR BOOMRANG
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186340
 #EXTINF:-1 ,FR BOSS CINEMA 3 HD
@@ -449,6 +523,10 @@ http://ky-iptv.com:25461/coolman/coolman/182262
 http://ky-iptv.com:25461/newyear1/newyear1/182262
 #EXTINF:-1 ,FR C8 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186385
+#EXTINF:-1 ,FR C8 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13006
+#EXTINF:-1 ,FR C8 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5703
 #EXTINF:-1 ,FR CA SUPER ECRAN 1
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186386
 #EXTINF:-1 ,FR CA SUPER ECRAN 2
@@ -459,8 +537,12 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186388
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186389
 #EXTINF:-1 ,FR CANAL CINEMA
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186390
+#EXTINF:-1 ,FR Canal Cinema FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12996
 #EXTINF:-1 ,FR CANAL DECALE
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186391
+#EXTINF:-1 ,FR Canal Decale HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5699
 #EXTINF:-1 ,FR CANAL Fl HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186392
 #EXTINF:-1 ,FR Canal HD
@@ -471,6 +553,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186394
 http://ky-iptv.com:25461/coolman/coolman/182542
 #EXTINF:-1 ,FR CANAL J HD
 http://ky-iptv.com:25461/newyear1/newyear1/182542
+#EXTINF:-1 ,FR Canal J HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5702
 #EXTINF:-1 ,FR CANAL NEWS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186395
 #EXTINF:-1 ,FR CANAL PLAY 01
@@ -565,18 +649,28 @@ http://ky-iptv.com:25461/coolman/coolman/182428
 http://ky-iptv.com:25461/newyear1/newyear1/182428
 #EXTINF:-1 ,FR CANAL Series
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186413
+#EXTINF:-1 ,FR Canal Series HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12995
 #EXTINF:-1 ,FR CANAL SPORT
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186414
 #EXTINF:-1 ,FR CANAL ZOOM
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186415
 #EXTINF:-1 ,FR CANAL+ Cinema FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186416
+#EXTINF:-1 ,FR Canal+ Cinema HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5700
 #EXTINF:-1 ,FR CANAL+ Decale FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186417
 #EXTINF:-1 ,FR CANAL+ Family FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186418
+#EXTINF:-1 ,FR Canal+ Family HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8628
 #EXTINF:-1 ,FR CANAL+ FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186419
+#EXTINF:-1 ,FR Canal+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12860
+#EXTINF:-1 ,FR Canal+ HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/57012
 #EXTINF:-1 ,FR CANAL+ J HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186420
 #EXTINF:-1 ,FR CANAL+ M6 HD
@@ -591,14 +685,24 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186424
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186425
 #EXTINF:-1 ,FR CANAL+ Series FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186426
+#EXTINF:-1 ,FR Canal+ Series HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5697
 #EXTINF:-1 ,FR CANAL+ Sport FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186427
+#EXTINF:-1 ,FR Canal+ Sport FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16926
 #EXTINF:-1 ,FR CANAL+ Sport FI HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186428
+#EXTINF:-1 ,FR Canal+ Sport HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5696
 #EXTINF:-1 ,FR Cartoon Network
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2097.m3u8
 #EXTINF:-1 ,FR CARTOON NETWORK FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186429
+#EXTINF:-1 ,FR Cartoon Network FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12943
+#EXTINF:-1 ,FR Cartoon Network FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5695
 #EXTINF:-1 ,FR CartoonNetwork HD
 http://ky-iptv.com:25461/coolman/coolman/182544
 #EXTINF:-1 ,FR CartoonNetwork HD
@@ -613,6 +717,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186431
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186432
 #EXTINF:-1 ,FR Chasse & Peche HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186433
+#EXTINF:-1 ,FR Chasse E Peche HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5694
 #EXTINF:-1 ,FR Chasse Peche
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2138.m3u8
 #EXTINF:-1 ,FR CHASSE&PECHE
@@ -621,6 +727,8 @@ http://ky-iptv.com:25461/coolman/coolman/182472
 http://ky-iptv.com:25461/newyear1/newyear1/182472
 #EXTINF:-1 ,FR Cherie 25 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186434
+#EXTINF:-1 ,FR Cherie 25 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5693
 #EXTINF:-1 ,FR Cherie 25 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1998.m3u8
 #EXTINF:-1 ,FR Cherie25
@@ -637,6 +745,10 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186437
 http://ky-iptv.com:25461/coolman/coolman/182431
 #EXTINF:-1 ,FR CINE CLASSIC
 http://ky-iptv.com:25461/newyear1/newyear1/182431
+#EXTINF:-1 ,FR Cine Classic HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7943
+#EXTINF:-1 ,FR Cine Club FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12994
 #EXTINF:-1 ,FR CINE CLUB HD
 http://ky-iptv.com:25461/coolman/coolman/182434
 #EXTINF:-1 ,FR CINE CLUB HD
@@ -645,6 +757,8 @@ http://ky-iptv.com:25461/newyear1/newyear1/182434
 http://ky-iptv.com:25461/coolman/coolman/182436
 #EXTINF:-1 ,FR CINE EMOTION HD
 http://ky-iptv.com:25461/newyear1/newyear1/182436
+#EXTINF:-1 ,FR Cine Famiz FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8624
 #EXTINF:-1 ,FR CINE FAMIZ HD
 http://ky-iptv.com:25461/coolman/coolman/182438
 #EXTINF:-1 ,FR CINE FAMIZ HD
@@ -665,28 +779,42 @@ http://ky-iptv.com:25461/newyear1/newyear1/182442
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2075.m3u8
 #EXTINF:-1 ,FR CINE+ CLASSIC FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186438
+#EXTINF:-1 ,FR Cine+ Classic FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12969
 #EXTINF:-1 ,FR Cine+ Club
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2078.m3u8
 #EXTINF:-1 ,FR CINE+ Club FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186439
+#EXTINF:-1 ,FR Cine+ Club FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16925
 #EXTINF:-1 ,FR Cine+ Emotion
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2074.m3u8
 #EXTINF:-1 ,FR CINE+ EMOTION FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186440
+#EXTINF:-1 ,FR Cine+ Emotion FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5691
 #EXTINF:-1 ,FR Cine+ Famiz
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2079.m3u8
 #EXTINF:-1 ,FR CINE+ FAMIZ FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186441
+#EXTINF:-1 ,FR Cine+ Famiz FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12859
 #EXTINF:-1 ,FR Cine+ Frisson
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2077.m3u8
 #EXTINF:-1 ,FR CINE+ FRISSON FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186442
+#EXTINF:-1 ,FR Cine+ Frisson HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5690
 #EXTINF:-1 ,FR CINE+ FX HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186443
 #EXTINF:-1 ,FR CINE+ Plus Frisson
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186444
+#EXTINF:-1 ,FR Cine+ Polar FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5689
 #EXTINF:-1 ,FR CINE+ Premier FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186445
+#EXTINF:-1 ,FR Cine+ Premier FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5688
 #EXTINF:-1 ,FR Cine+ Premiere
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2076.m3u8
 #EXTINF:-1 ,FR CINEFX
@@ -715,6 +843,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186456
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186457
 #EXTINF:-1 ,FR Club RTL HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186458
+#EXTINF:-1 ,FR Cnews HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16924
 #EXTINF:-1 ,FR Comedie + HD
 http://ky-iptv.com:25461/coolman/coolman/182475
 #EXTINF:-1 ,FR Comedie + HD
@@ -725,6 +855,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186459
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2002.m3u8
 #EXTINF:-1 ,FR Comedie+ FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186460
+#EXTINF:-1 ,FR Comedie+ HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5687
 #EXTINF:-1 ,FR COMEDY CENTRAL
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2088.m3u8
 #EXTINF:-1 ,FR COMEDY CENTRAL FHD
@@ -737,12 +869,16 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186462
 http://ky-iptv.com:25461/coolman/coolman/182477
 #EXTINF:-1 ,FR CRIME DISTRICT HD
 http://ky-iptv.com:25461/newyear1/newyear1/182477
+#EXTINF:-1 ,FR Crime District HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16923
 #EXTINF:-1 ,FR Crime+ Investigation HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186463
 #EXTINF:-1 ,FR CStar
 http://ky-iptv.com:25461/coolman/coolman/182267
 #EXTINF:-1 ,FR CStar
 http://ky-iptv.com:25461/newyear1/newyear1/182267
+#EXTINF:-1 ,FR CStar FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5686
 #EXTINF:-1 ,FR CSTAR HITS
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186464
 #EXTINF:-1 ,FR D!ci TV HD
@@ -765,18 +901,26 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186471
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2149.m3u8
 #EXTINF:-1 ,FR Discovery Family FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186472
+#EXTINF:-1 ,FR Discovery Family FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16921
 #EXTINF:-1 ,FR Discovery Family HD
 http://ky-iptv.com:25461/coolman/coolman/182520
 #EXTINF:-1 ,FR Discovery Family HD
 http://ky-iptv.com:25461/newyear1/newyear1/182520
 #EXTINF:-1 ,FR Discovery FAMLIY HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186473
+#EXTINF:-1 ,FR Discovery FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12997
 #EXTINF:-1 ,FR Discovery France HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186474
 #EXTINF:-1 ,FR DISCOVERY HD
 http://ky-iptv.com:25461/coolman/coolman/182479
 #EXTINF:-1 ,FR DISCOVERY HD
 http://ky-iptv.com:25461/newyear1/newyear1/182479
+#EXTINF:-1 ,FR Discovery HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5683
+#EXTINF:-1 ,FR Discovery Investigation FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/9034
 #EXTINF:-1 ,FR Discovery Investigation HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2150.m3u8
 #EXTINF:-1 ,FR DISCOVERY INVESTIGATION HD
@@ -791,6 +935,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186476
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2148.m3u8
 #EXTINF:-1 ,FR Discovery Science FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186477
+#EXTINF:-1 ,FR Discovery Science FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5682
 #EXTINF:-1 ,FR DISCOVERY SCIENCE HD
 http://ky-iptv.com:25461/coolman/coolman/182483
 #EXTINF:-1 ,FR DISCOVERY SCIENCE HD
@@ -801,10 +947,14 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2098.m3u8
 http://ky-iptv.com:25461/coolman/coolman/182545
 #EXTINF:-1 ,FR DISNEY CHANNEL
 http://ky-iptv.com:25461/newyear1/newyear1/182545
+#EXTINF:-1 ,FR Disney Channel +1 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12947
 #EXTINF:-1 ,FR Disney Channel +1 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186478
 #EXTINF:-1 ,FR Disney Channel 1
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186479
+#EXTINF:-1 ,FR Disney Channel FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5681
 #EXTINF:-1 ,FR Disney Channel HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186480
 #EXTINF:-1 ,FR DISNEY CHANNEL HD
@@ -819,10 +969,14 @@ http://ky-iptv.com:25461/coolman/coolman/182547
 http://ky-iptv.com:25461/newyear1/newyear1/182547
 #EXTINF:-1 ,FR Disney CINEMA FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186481
+#EXTINF:-1 ,FR Disney Cinema FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12946
 #EXTINF:-1 ,FR DISNEY CINEMA HD
 http://ky-iptv.com:25461/coolman/coolman/182548
 #EXTINF:-1 ,FR DISNEY CINEMA HD
 http://ky-iptv.com:25461/newyear1/newyear1/182548
+#EXTINF:-1 ,FR Disney Cinema HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8617
 #EXTINF:-1 ,FR Disney CINEMAGIC HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186482
 #EXTINF:-1 ,FR Disney CINEMAGIE
@@ -831,14 +985,20 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186483
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2101.m3u8
 #EXTINF:-1 ,FR Disney JUNIOR FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186484
+#EXTINF:-1 ,FR Disney Junior FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5679
 #EXTINF:-1 ,FR DISNEY JUNIOR HD
 http://ky-iptv.com:25461/coolman/coolman/182550
 #EXTINF:-1 ,FR DISNEY JUNIOR HD
 http://ky-iptv.com:25461/newyear1/newyear1/182550
+#EXTINF:-1 ,FR Disney Junior HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12945
 #EXTINF:-1 ,FR Disney XD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2099.m3u8
 #EXTINF:-1 ,FR Disney XD FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186485
+#EXTINF:-1 ,FR Disney XD FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16920
 #EXTINF:-1 ,FR DISNEY XD HD
 http://ky-iptv.com:25461/coolman/coolman/182552
 #EXTINF:-1 ,FR DISNEY XD HD
@@ -849,6 +1009,8 @@ http://ky-iptv.com:25461/coolman/coolman/182325
 http://ky-iptv.com:25461/newyear1/newyear1/182325
 #EXTINF:-1 ,FR Disney+ HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186486
+#EXTINF:-1 ,FR Djazz TV FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7939
 #EXTINF:-1 ,FR DJAZZ TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186487
 #EXTINF:-1 ,FR DRAGON BALL Z TV FHD
@@ -857,6 +1019,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186488
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186489
 #EXTINF:-1 ,FR E! Entertainment
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2008.m3u8
+#EXTINF:-1 ,FR E! Entertainment FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5678
 #EXTINF:-1 ,FR E! Entertainment HD
 http://ky-iptv.com:25461/coolman/coolman/182522
 #EXTINF:-1 ,FR E! Entertainment HD
@@ -865,6 +1029,8 @@ http://ky-iptv.com:25461/newyear1/newyear1/182522
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186490
 #EXTINF:-1 ,FR Egypte des Pharaons
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186491
+#EXTINF:-1 ,FR Elle Girl FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12856
 #EXTINF:-1 ,FR ELLE GIRL HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186492
 #EXTINF:-1 ,FR ELLE GIRL HD
@@ -889,12 +1055,18 @@ http://ky-iptv.com:25461/coolman/coolman/182366
 http://ky-iptv.com:25461/newyear1/newyear1/182366
 #EXTINF:-1 ,FR EQUIDIA LIVE FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186496
+#EXTINF:-1 ,FR Equidia Live FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5675
 #EXTINF:-1 ,FR Equipe 21
 http://ky-iptv.com:25461/coolman/coolman/182368
 #EXTINF:-1 ,FR Equipe 21
 http://ky-iptv.com:25461/newyear1/newyear1/182368
 #EXTINF:-1 ,FR Equipe 21 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186497
+#EXTINF:-1 ,FR Equipe 21 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5674
+#EXTINF:-1 ,FR Equipe HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5676
 #EXTINF:-1 ,FR ES1
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2003.m3u8
 #EXTINF:-1 ,FR ES1 HD
@@ -909,22 +1081,32 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186500
 http://ky-iptv.com:25461/coolman/coolman/182311
 #EXTINF:-1 ,FR EURONEWS HD
 http://ky-iptv.com:25461/newyear1/newyear1/182311
+#EXTINF:-1 ,FR Euronews HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5673
 #EXTINF:-1 ,FR EuroSport 1
 http://ky-iptv.com:25461/coolman/coolman/182370
 #EXTINF:-1 ,FR EuroSport 1
 http://ky-iptv.com:25461/newyear1/newyear1/182370
 #EXTINF:-1 ,FR EUROSPORT 1 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186501
+#EXTINF:-1 ,FR Eurosport 1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5672
 #EXTINF:-1 ,FR Eurosport 1 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2035.m3u8
+#EXTINF:-1 ,FR Eurosport 1 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/682922
 #EXTINF:-1 ,FR EuroSport 2
 http://ky-iptv.com:25461/coolman/coolman/182372
 #EXTINF:-1 ,FR EuroSport 2
 http://ky-iptv.com:25461/newyear1/newyear1/182372
 #EXTINF:-1 ,FR EUROSPORT 2 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186502
+#EXTINF:-1 ,FR Eurosport 2 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5671
 #EXTINF:-1 ,FR Eurosport 2 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2036.m3u8
+#EXTINF:-1 ,FR Eurosport 2 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12951
 #EXTINF:-1 ,FR EUROSPORT FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186503
 #EXTINF:-1 ,FR EXTREME SPORT HD
@@ -945,6 +1127,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186507
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2034.m3u8
 #EXTINF:-1 ,FR Foot+ 24 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186508
+#EXTINF:-1 ,FR Foot+ 24 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5670
 #EXTINF:-1 ,FR Foot+ 24/24
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186509
 #EXTINF:-1 ,FR FOOT+ HD
@@ -969,22 +1153,34 @@ http://ky-iptv.com:25461/coolman/coolman/182269
 http://ky-iptv.com:25461/newyear1/newyear1/182269
 #EXTINF:-1 ,FR FRANCE 2 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186512
+#EXTINF:-1 ,FR France 2 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5669
 #EXTINF:-1 ,FR France 24
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2115.m3u8
 #EXTINF:-1 ,FR FRANCE 24 Arabic FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186517
 #EXTINF:-1 ,FR FRANCE 24 English
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186518
+#EXTINF:-1 ,FR France 24 English [B] FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5665
+#EXTINF:-1 ,FR France 24 English FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8559
 #EXTINF:-1 ,FR FRANCE 24 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186519
 #EXTINF:-1 ,FR FRANCE 24 NEWS
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186520
+#EXTINF:-1 ,FR France 24 News FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8630
 #EXTINF:-1 ,FR FRANCE 3
 http://ky-iptv.com:25461/coolman/coolman/182271
 #EXTINF:-1 ,FR FRANCE 3
 http://ky-iptv.com:25461/newyear1/newyear1/182271
 #EXTINF:-1 ,FR FRANCE 3 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186513
+#EXTINF:-1 ,FR France 3 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12858
+#EXTINF:-1 ,FR France 3 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5668
 #EXTINF:-1 ,FR FRANCE 3 NOA HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186514
 #EXTINF:-1 ,FR FRANCE 4
@@ -993,12 +1189,16 @@ http://ky-iptv.com:25461/coolman/coolman/182273
 http://ky-iptv.com:25461/newyear1/newyear1/182273
 #EXTINF:-1 ,FR FRANCE 4 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186515
+#EXTINF:-1 ,FR France 4 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5667
 #EXTINF:-1 ,FR FRANCE 5
 http://ky-iptv.com:25461/coolman/coolman/182275
 #EXTINF:-1 ,FR FRANCE 5
 http://ky-iptv.com:25461/newyear1/newyear1/182275
 #EXTINF:-1 ,FR FRANCE 5 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186516
+#EXTINF:-1 ,FR France 5 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5666
 #EXTINF:-1 ,FR France Info HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2118.m3u8
 #EXTINF:-1 ,FR FRANCE INFO HD
@@ -1007,10 +1207,14 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186521
 http://ky-iptv.com:25461/coolman/coolman/182276
 #EXTINF:-1 ,FR FRANCE INFO HD
 http://ky-iptv.com:25461/newyear1/newyear1/182276
+#EXTINF:-1 ,FR France Info HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12971
 #EXTINF:-1 ,FR FRANCE O
 http://ky-iptv.com:25461/coolman/coolman/182277
 #EXTINF:-1 ,FR FRANCE O
 http://ky-iptv.com:25461/newyear1/newyear1/182277
+#EXTINF:-1 ,FR France O HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5664
 #EXTINF:-1 ,FR FRANCE Ô HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186522
 #EXTINF:-1 ,FR FRANCE.24
@@ -1029,6 +1233,10 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186526
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2104.m3u8
 #EXTINF:-1 ,FR GAME ONE +1 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186527
+#EXTINF:-1 ,FR Game One FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16919
+#EXTINF:-1 ,FR Game One FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5663
 #EXTINF:-1 ,FR GAME ONE HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186528
 #EXTINF:-1 ,FR GAME ONE HD
@@ -1049,6 +1257,8 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2019.m3u8
 http://ky-iptv.com:25461/coolman/coolman/182377
 #EXTINF:-1 ,FR Golf Channel
 http://ky-iptv.com:25461/newyear1/newyear1/182377
+#EXTINF:-1 ,FR Golf Channel FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16918
 #EXTINF:-1 ,FR GOLF Channel HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186533
 #EXTINF:-1 ,FR Golf Plus
@@ -1057,6 +1267,8 @@ http://ky-iptv.com:25461/coolman/coolman/182379
 http://ky-iptv.com:25461/newyear1/newyear1/182379
 #EXTINF:-1 ,FR Golf+
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2059.m3u8
+#EXTINF:-1 ,FR Golf+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12948
 #EXTINF:-1 ,FR GOLF+ HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186534
 #EXTINF:-1 ,FR GONG FHD
@@ -1067,6 +1279,10 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186536
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186537
 #EXTINF:-1 ,FR Gulli FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186538
+#EXTINF:-1 ,FR Gulli FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16917
+#EXTINF:-1 ,FR Gulli FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8615
 #EXTINF:-1 ,FR Gulli HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2092.m3u8
 #EXTINF:-1 ,FR GULLI HD
@@ -1077,6 +1293,10 @@ http://ky-iptv.com:25461/newyear1/newyear1/182556
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186539
 #EXTINF:-1 ,FR HISTOIRE FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186540
+#EXTINF:-1 ,FR Histoire FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16916
+#EXTINF:-1 ,FR Histoire FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8570
 #EXTINF:-1 ,FR HISTOIRE HD
 http://ky-iptv.com:25461/coolman/coolman/182485
 #EXTINF:-1 ,FR HISTOIRE HD
@@ -1091,6 +1311,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186542
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186543
 #EXTINF:-1 ,FR I24 NEWS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186544
+#EXTINF:-1 ,FR i24News FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12931
 #EXTINF:-1 ,FR ICI TV
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186545
 #EXTINF:-1 ,FR IL TV
@@ -1107,8 +1329,14 @@ http://ky-iptv.com:25461/coolman/coolman/182382
 http://ky-iptv.com:25461/newyear1/newyear1/182382
 #EXTINF:-1 ,FR INFOSPORT HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186547
+#EXTINF:-1 ,FR InfoSport+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16915
+#EXTINF:-1 ,FR InfoSport+ FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5660
 #EXTINF:-1 ,FR INFOSPORT+ HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186548
+#EXTINF:-1 ,FR InfoSport+ HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12952
 #EXTINF:-1 ,FR Investigation Discovery FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186549
 #EXTINF:-1 ,FR iTELE HD
@@ -1119,6 +1347,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186551
 http://ky-iptv.com:25461/coolman/coolman/182557
 #EXTINF:-1 ,FR J-ONE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182557
+#EXTINF:-1 ,FR J-One HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/625364
 #EXTINF:-1 ,FR KOMBAT SPORT HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186552
 #EXTINF:-1 ,FR KOMBAT SPORT HD
@@ -1127,6 +1357,8 @@ http://ky-iptv.com:25461/coolman/coolman/182383
 http://ky-iptv.com:25461/newyear1/newyear1/182383
 #EXTINF:-1 ,FR KTO
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2010.m3u8
+#EXTINF:-1 ,FR KTO FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5659
 #EXTINF:-1 ,FR KTO HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186553
 #EXTINF:-1 ,FR KTO Tv France
@@ -1159,6 +1391,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186565
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186566
 #EXTINF:-1 ,FR La Une
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186567
+#EXTINF:-1 ,FR La Une HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5657
 #EXTINF:-1 ,FR LaLiga TV BAR HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186568
 #EXTINF:-1 ,FR LCI FHD
@@ -1169,10 +1403,14 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2113.m3u8
 http://ky-iptv.com:25461/coolman/coolman/182313
 #EXTINF:-1 ,FR LCI HD
 http://ky-iptv.com:25461/newyear1/newyear1/182313
+#EXTINF:-1 ,FR LCi HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5656
 #EXTINF:-1 ,FR LCP 24 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186570
 #EXTINF:-1 ,FR LCP ASSEMBLEE NATIONALE
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186571
+#EXTINF:-1 ,FR LCP FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5655
 #EXTINF:-1 ,FR LCP HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2112.m3u8
 #EXTINF:-1 ,FR LCP HD
@@ -1197,8 +1435,12 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186576
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186577
 #EXTINF:-1 ,FR LUXE / LUCKY HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186578
+#EXTINF:-1 ,FR Luxe TV FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12861
 #EXTINF:-1 ,FR LUXE TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186579
+#EXTINF:-1 ,FR Luxe TV HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16913
 #EXTINF:-1 ,FR m2o Tv
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186580
 #EXTINF:-1 ,FR M6
@@ -1207,6 +1449,10 @@ http://ky-iptv.com:25461/coolman/coolman/182288
 http://ky-iptv.com:25461/newyear1/newyear1/182288
 #EXTINF:-1 ,FR M6 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186581
+#EXTINF:-1 ,FR M6 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5653
+#EXTINF:-1 ,FR M6 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/683182
 #EXTINF:-1 ,FR M6 Music HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2134.m3u8
 #EXTINF:-1 ,FR M6 Music HD
@@ -1215,6 +1461,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186582
 http://ky-iptv.com:25461/coolman/coolman/182327
 #EXTINF:-1 ,FR M6 MUSIC HD
 http://ky-iptv.com:25461/newyear1/newyear1/182327
+#EXTINF:-1 ,FR M6 Music HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5654
 #EXTINF:-1 ,FR M6 MUSIC HIT HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186583
 #EXTINF:-1 ,FR Magico CINEMA ACTION 2 HD
@@ -1231,8 +1479,12 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186588
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186589
 #EXTINF:-1 ,FR Mangas
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2093.m3u8
+#EXTINF:-1 ,FR Mangas FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8616
 #EXTINF:-1 ,FR Mangas HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186590
+#EXTINF:-1 ,FR Mangas HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/625363
 #EXTINF:-1 ,FR MANGAS TV
 http://ky-iptv.com:25461/coolman/coolman/182559
 #EXTINF:-1 ,FR MANGAS TV
@@ -1253,6 +1505,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186594
 http://ky-iptv.com:25461/coolman/coolman/182329
 #EXTINF:-1 ,FR MCM HD
 http://ky-iptv.com:25461/newyear1/newyear1/182329
+#EXTINF:-1 ,FR MCM HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12967
 #EXTINF:-1 ,FR MCM POP
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186595
 #EXTINF:-1 ,FR MCM Top
@@ -1263,6 +1517,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186596
 http://ky-iptv.com:25461/coolman/coolman/182331
 #EXTINF:-1 ,FR MCM TOP FHD
 http://ky-iptv.com:25461/newyear1/newyear1/182331
+#EXTINF:-1 ,FR MCM Top FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16911
 #EXTINF:-1 ,FR MEDO Movies 2 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186597
 #EXTINF:-1 ,FR MEDO Movies 7 HD
@@ -1287,6 +1543,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186601
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2131.m3u8
 #EXTINF:-1 ,FR MEZZO LIVE FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186602
+#EXTINF:-1 ,FR Mezzo Live FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5652
 #EXTINF:-1 ,FR MEZZO LIVE HD
 http://ky-iptv.com:25461/coolman/coolman/182333
 #EXTINF:-1 ,FR MEZZO LIVE HD
@@ -1317,6 +1575,8 @@ http://ky-iptv.com:25461/coolman/coolman/182337
 http://ky-iptv.com:25461/newyear1/newyear1/182337
 #EXTINF:-1 ,FR MTV FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186609
+#EXTINF:-1 ,FR MTV FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7942
 #EXTINF:-1 ,FR MTV France
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2125.m3u8
 #EXTINF:-1 ,FR MTV France FHD
@@ -1329,6 +1589,10 @@ http://ky-iptv.com:25461/newyear1/newyear1/182339
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2127.m3u8
 #EXTINF:-1 ,FR MTV HITS FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186611
+#EXTINF:-1 ,FR MTV Hits FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8568
+#EXTINF:-1 ,FR MTV Hits FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16910
 #EXTINF:-1 ,FR MTV Hits HD
 http://ky-iptv.com:25461/coolman/coolman/182341
 #EXTINF:-1 ,FR MTV Hits HD
@@ -1337,18 +1601,24 @@ http://ky-iptv.com:25461/newyear1/newyear1/182341
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186612
 #EXTINF:-1 ,FR MTV Music
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186613
+#EXTINF:-1 ,FR MTV Music HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12965
 #EXTINF:-1 ,FR MTV ROCKS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186614
 #EXTINF:-1 ,FR MUSIC TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186615
 #EXTINF:-1 ,FR MY COMEDY HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186616
+#EXTINF:-1 ,FR My Cuisine FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16908
 #EXTINF:-1 ,FR My Cuisine HD
 http://ky-iptv.com:25461/coolman/coolman/182526
 #EXTINF:-1 ,FR My Cuisine HD
 http://ky-iptv.com:25461/newyear1/newyear1/182526
 #EXTINF:-1 ,FR MY CUISINE HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186617
+#EXTINF:-1 ,FR My Zen TV FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/676715
 #EXTINF:-1 ,FR MYZEN TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186618
 #EXTINF:-1 ,FR NAT GEO HD
@@ -1359,6 +1629,10 @@ http://ky-iptv.com:25461/coolman/coolman/182486
 http://ky-iptv.com:25461/newyear1/newyear1/182486
 #EXTINF:-1 ,FR NAT GEO Wild FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186620
+#EXTINF:-1 ,FR Nat Geo Wild FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16906
+#EXTINF:-1 ,FR Nat Geo Wild HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5645
 #EXTINF:-1 ,FR NAT GRO Wild FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186621
 #EXTINF:-1 ,FR NATIONAL GEO
@@ -1367,6 +1641,10 @@ http://ky-iptv.com:25461/coolman/coolman/182488
 http://ky-iptv.com:25461/newyear1/newyear1/182488
 #EXTINF:-1 ,FR National Geographic
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2145.m3u8
+#EXTINF:-1 ,FR National Geographic FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12999
+#EXTINF:-1 ,FR National Geographic FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8632
 #EXTINF:-1 ,FR National Geographic Wild
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2146.m3u8
 #EXTINF:-1 ,FR Nautical
@@ -1393,6 +1671,10 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186631
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2043.m3u8
 #EXTINF:-1 ,FR Nickelodeon
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2096.m3u8
+#EXTINF:-1 ,FR Nickelodeon +1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16904
+#EXTINF:-1 ,FR Nickelodeon 4 Teen FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16903
 #EXTINF:-1 ,FR nickelodeon 4Teen HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186632
 #EXTINF:-1 ,FR NICKELODEON 4TEEN HD
@@ -1405,10 +1687,14 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186633
 http://ky-iptv.com:25461/coolman/coolman/182561
 #EXTINF:-1 ,FR NICKELODEON HD
 http://ky-iptv.com:25461/newyear1/newyear1/182561
+#EXTINF:-1 ,FR Nickelodeon HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5643
 #EXTINF:-1 ,FR nickelodeon JUN HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186634
 #EXTINF:-1 ,FR Nickelodeon Junior
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2107.m3u8
+#EXTINF:-1 ,FR Nickelodeon Junior FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5642
 #EXTINF:-1 ,FR nickelodeon Junior HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186635
 #EXTINF:-1 ,FR NICKELODEON JUNIOR HD
@@ -1429,20 +1715,28 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186639
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186640
 #EXTINF:-1 ,FR NOLLYWOOD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186641
+#EXTINF:-1 ,FR Non Stop People FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16901
 #EXTINF:-1 ,FR NOTÉLÉ HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186642
 #EXTINF:-1 ,FR NOVELAS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186643
+#EXTINF:-1 ,FR Novelas TV FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/677836
 #EXTINF:-1 ,FR NRJ 12 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186644
 #EXTINF:-1 ,FR NRJ 12 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1991.m3u8
+#EXTINF:-1 ,FR NRJ 12 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5641
 #EXTINF:-1 ,FR NRJ 12 MUSIC
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186645
 #EXTINF:-1 ,FR NRJ Hits HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186646
 #EXTINF:-1 ,FR NRJ HITS HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2135.m3u8
+#EXTINF:-1 ,FR NRJ Hits HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5640
 #EXTINF:-1 ,FR NRJ TV
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1992.m3u8
 #EXTINF:-1 ,FR NRJ TV HD
@@ -1453,6 +1747,8 @@ http://ky-iptv.com:25461/coolman/coolman/182291
 http://ky-iptv.com:25461/newyear1/newyear1/182291
 #EXTINF:-1 ,FR NT1
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186648
+#EXTINF:-1 ,FR NT1 FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5639
 #EXTINF:-1 ,FR NUMERO 23 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186649
 #EXTINF:-1 ,FR Numero 23 HD
@@ -1461,26 +1757,38 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1997.m3u8
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2083.m3u8
 #EXTINF:-1 ,FR OCS Choc FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186650
+#EXTINF:-1 ,FR OCS Choc FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5637
 #EXTINF:-1 ,FR OCS CHOC HD
 http://ky-iptv.com:25461/coolman/coolman/182445
 #EXTINF:-1 ,FR OCS CHOC HD
 http://ky-iptv.com:25461/newyear1/newyear1/182445
+#EXTINF:-1 ,FR OCS Choc HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8618
 #EXTINF:-1 ,FR OCS City
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2084.m3u8
 #EXTINF:-1 ,FR OCS City FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186651
+#EXTINF:-1 ,FR OCS City FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5636
 #EXTINF:-1 ,FR OCS CITY HD
 http://ky-iptv.com:25461/coolman/coolman/182447
 #EXTINF:-1 ,FR OCS CITY HD
 http://ky-iptv.com:25461/newyear1/newyear1/182447
+#EXTINF:-1 ,FR OCS City HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8619
 #EXTINF:-1 ,FR OCS Geants
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2085.m3u8
+#EXTINF:-1 ,FR OCS Geants FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5635
 #EXTINF:-1 ,FR OCS Geants HD
 http://ky-iptv.com:25461/coolman/coolman/182449
 #EXTINF:-1 ,FR OCS Geants HD
 http://ky-iptv.com:25461/newyear1/newyear1/182449
 #EXTINF:-1 ,FR OCS GEANTS HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186652
+#EXTINF:-1 ,FR OCS Geants HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8620
 #EXTINF:-1 ,FR OCS GO CINE+ 2
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186653
 #EXTINF:-1 ,FR OCS GO CINE+ 3
@@ -1497,6 +1805,10 @@ http://ky-iptv.com:25461/coolman/coolman/182450
 http://ky-iptv.com:25461/newyear1/newyear1/182450
 #EXTINF:-1 ,FR OCS Max FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186657
+#EXTINF:-1 ,FR OCS Max FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5634
+#EXTINF:-1 ,FR OCS Max HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/38016
 #EXTINF:-1 ,FR OKLM TV FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186658
 #EXTINF:-1 ,FR OL TV HD
@@ -1545,8 +1857,18 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186675
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186676
 #EXTINF:-1 ,FR ORANGE CINEMA 5
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186677
+#EXTINF:-1 ,FR Orange Cinema [B] FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5632
+#EXTINF:-1 ,FR Orange Cinema Action HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5631
+#EXTINF:-1 ,FR Orange Cinema Aventure FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5630
 #EXTINF:-1 ,FR Orange Cinema Aventure HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186678
+#EXTINF:-1 ,FR Orange Cinema CEst Fait FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5629
+#EXTINF:-1 ,FR Orange Cinema FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13023
 #EXTINF:-1 ,FR Orange Cinema HORREUR
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186679
 #EXTINF:-1 ,FR Orange Documentaire HD
@@ -1559,14 +1881,22 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2065.m3u8
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186682
 #EXTINF:-1 ,FR Paramount Channel FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186683
+#EXTINF:-1 ,FR Paramount Channel FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16896
 #EXTINF:-1 ,FR PARAMOUNT CHANNEL HD
 http://ky-iptv.com:25461/coolman/coolman/182453
 #EXTINF:-1 ,FR PARAMOUNT CHANNEL HD
 http://ky-iptv.com:25461/newyear1/newyear1/182453
+#EXTINF:-1 ,FR Paramount Channel HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5627
+#EXTINF:-1 ,FR Paramount Decale FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16895
 #EXTINF:-1 ,FR Paramount Decale HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2064.m3u8
 #EXTINF:-1 ,FR Paris Premiere FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186684
+#EXTINF:-1 ,FR Paris Premiere FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5626
 #EXTINF:-1 ,FR Paris Premiere HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2089.m3u8
 #EXTINF:-1 ,FR PARIS PREMIERE HD
@@ -1593,10 +1923,14 @@ http://ky-iptv.com:25461/newyear1/newyear1/182567
 http://ky-iptv.com:25461/coolman/coolman/182568
 #EXTINF:-1 ,FR Piwi HD
 http://ky-iptv.com:25461/newyear1/newyear1/182568
+#EXTINF:-1 ,FR Piwi HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5625
 #EXTINF:-1 ,FR Piwi+
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2105.m3u8
 #EXTINF:-1 ,FR Piwi+ FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186691
+#EXTINF:-1 ,FR Piwi+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12944
 #EXTINF:-1 ,FR PLANET PLUS
 http://ky-iptv.com:25461/coolman/coolman/182490
 #EXTINF:-1 ,FR PLANET PLUS
@@ -1607,6 +1941,10 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186692
 http://ky-iptv.com:25461/coolman/coolman/182492
 #EXTINF:-1 ,FR PLANETE A&E
 http://ky-iptv.com:25461/newyear1/newyear1/182492
+#EXTINF:-1 ,FR Planete A&E FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12998
+#EXTINF:-1 ,FR Planete A&E HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8563
 #EXTINF:-1 ,FR Planete AE
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2143.m3u8
 #EXTINF:-1 ,FR Planete CI
@@ -1621,8 +1959,16 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2141.m3u8
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186693
 #EXTINF:-1 ,FR PLANETE+ CI FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186694
+#EXTINF:-1 ,FR Planete+ CI FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5622
 #EXTINF:-1 ,FR PLANETE+ FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186695
+#EXTINF:-1 ,FR Planete+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5624
+#EXTINF:-1 ,FR Planete+ FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8572
+#EXTINF:-1 ,FR Plan�te+ Crime Investigation FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12942
 #EXTINF:-1 ,FR PLAY TV KIDS 1
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186696
 #EXTINF:-1 ,FR PLAY TV KIDS 2
@@ -1655,6 +2001,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186706
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186707
 #EXTINF:-1 ,FR RMC Decouverte FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186708
+#EXTINF:-1 ,FR RMC Decouverte FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5621
 #EXTINF:-1 ,FR RMC Decouverte HD
 http://ky-iptv.com:25461/coolman/coolman/182498
 #EXTINF:-1 ,FR RMC Decouverte HD
@@ -1669,6 +2017,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186711
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186712
 #EXTINF:-1 ,FR RMC SPORT 1 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186713
+#EXTINF:-1 ,FR RMC Sport 1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/625254
 #EXTINF:-1 ,FR RMC SPORT 1 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186714
 #EXTINF:-1 ,FR RMC SPORT 10 HD
@@ -1691,12 +2041,18 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186715
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186716
 #EXTINF:-1 ,FR RMC SPORT 2 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186717
+#EXTINF:-1 ,FR RMC Sport 2 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/86352
 #EXTINF:-1 ,FR RMC SPORT 3 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186718
+#EXTINF:-1 ,FR RMC Sport 3 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/625250
 #EXTINF:-1 ,FR RMC SPORT 3 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186719
 #EXTINF:-1 ,FR RMC SPORT 4 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186720
+#EXTINF:-1 ,FR RMC Sport 4 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/625253
 #EXTINF:-1 ,FR RMC SPORT 4 HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186721
 #EXTINF:-1 ,FR RMC SPORT 5 FHD
@@ -1793,14 +2149,20 @@ http://ky-iptv.com:25461/coolman/coolman/182407
 http://ky-iptv.com:25461/newyear1/newyear1/182407
 #EXTINF:-1 ,FR RMC SPORT News HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186739
+#EXTINF:-1 ,FR RMC Sport News HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/624939
 #EXTINF:-1 ,FR RMC Story FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186740
 #EXTINF:-1 ,FR RMC STORY HD
 http://ky-iptv.com:25461/coolman/coolman/182500
 #EXTINF:-1 ,FR RMC STORY HD
 http://ky-iptv.com:25461/newyear1/newyear1/182500
+#EXTINF:-1 ,FR RMC Story HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5638
 #EXTINF:-1 ,FR Rouge TV
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2081.m3u8
+#EXTINF:-1 ,FR Rouge TV FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/643095
 #EXTINF:-1 ,FR ROUGE TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186741
 #EXTINF:-1 ,FR ROUGE TV HD
@@ -1809,12 +2171,18 @@ http://ky-iptv.com:25461/coolman/coolman/182457
 http://ky-iptv.com:25461/newyear1/newyear1/182457
 #EXTINF:-1 ,FR RT FRANCE HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186742
+#EXTINF:-1 ,FR RT France HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/648935
 #EXTINF:-1 ,FR RTL 9 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186743
+#EXTINF:-1 ,FR RTL 9 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5620
 #EXTINF:-1 ,FR RTL FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186744
 #EXTINF:-1 ,FR RTL TVI FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186745
+#EXTINF:-1 ,FR RTL9 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/7945
 #EXTINF:-1 ,FR RTL9 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1996.m3u8
 #EXTINF:-1 ,FR RTL9 HD
@@ -1835,6 +2203,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186749
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2004.m3u8
 #EXTINF:-1 ,FR RTS Un HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186750
+#EXTINF:-1 ,FR RTS Un HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5619
 #EXTINF:-1 ,FR RTS Une FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186751
 #EXTINF:-1 ,FR Satellite TV
@@ -1897,12 +2267,16 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2109.m3u8
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2110.m3u8
 #EXTINF:-1 ,FR Science & VIE HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186752
+#EXTINF:-1 ,FR Science et Vie FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16894
 #EXTINF:-1 ,FR Science et Vie HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2139.m3u8
 #EXTINF:-1 ,FR SCIENCE ET VIE HD
 http://ky-iptv.com:25461/coolman/coolman/182502
 #EXTINF:-1 ,FR SCIENCE ET VIE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182502
+#EXTINF:-1 ,FR Science et Vie HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5615
 #EXTINF:-1 ,FR Season
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2009.m3u8
 #EXTINF:-1 ,FR SEASON
@@ -1911,12 +2285,16 @@ http://ky-iptv.com:25461/coolman/coolman/182503
 http://ky-iptv.com:25461/newyear1/newyear1/182503
 #EXTINF:-1 ,FR SEASON HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186753
+#EXTINF:-1 ,FR Seasons FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16893
 #EXTINF:-1 ,FR SERIE CLUB FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186754
 #EXTINF:-1 ,FR SERIE CLUB FHD
 http://ky-iptv.com:25461/coolman/coolman/182460
 #EXTINF:-1 ,FR SERIE CLUB FHD
 http://ky-iptv.com:25461/newyear1/newyear1/182460
+#EXTINF:-1 ,FR Serie Club FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8622
 #EXTINF:-1 ,FR Serie Club HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2066.m3u8
 #EXTINF:-1 ,FR SFR 1 SPORT HD
@@ -1949,16 +2327,24 @@ http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2011.m3u8
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186767
 #EXTINF:-1 ,FR SYFY FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186768
+#EXTINF:-1 ,FR Syfy FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12968
 #EXTINF:-1 ,FR Syfy HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2080.m3u8
 #EXTINF:-1 ,FR SYFY HD
 http://ky-iptv.com:25461/coolman/coolman/182463
 #EXTINF:-1 ,FR SYFY HD
 http://ky-iptv.com:25461/newyear1/newyear1/182463
+#EXTINF:-1 ,FR Syfy HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5614
 #EXTINF:-1 ,FR TCM Cinema
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2061.m3u8
 #EXTINF:-1 ,FR TCM CINEMA FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186769
+#EXTINF:-1 ,FR TCM Cinema FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13001
+#EXTINF:-1 ,FR TCM Cinema FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8621
 #EXTINF:-1 ,FR TCM CINEMA HD
 http://ky-iptv.com:25461/coolman/coolman/182465
 #EXTINF:-1 ,FR TCM CINEMA HD
@@ -2013,10 +2399,18 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186774
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186775
 #EXTINF:-1 ,FR Teletoon+
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2091.m3u8
+#EXTINF:-1 ,FR TeleToon+ FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16891
+#EXTINF:-1 ,FR TeleToon+ FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5612
 #EXTINF:-1 ,FR TELETOON+ HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186776
 #EXTINF:-1 ,FR TEVA FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186778
+#EXTINF:-1 ,FR Teva FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13002
+#EXTINF:-1 ,FR Teva FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5611
 #EXTINF:-1 ,FR TEVA HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2071.m3u8
 #EXTINF:-1 ,FR TEVA HD
@@ -2035,10 +2429,14 @@ http://ky-iptv.com:25461/newyear1/newyear1/182294
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186779
 #EXTINF:-1 ,FR TF1 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186780
+#EXTINF:-1 ,FR TF1 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12857
 #EXTINF:-1 ,FR TF1 FILM
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186781
 #EXTINF:-1 ,FR TF1 HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/1990.m3u8
+#EXTINF:-1 ,FR TF1 HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5610
 #EXTINF:-1 ,FR TF1 SERIE
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186782
 #EXTINF:-1 ,FR TF1 Series Films
@@ -2047,14 +2445,20 @@ http://ky-iptv.com:25461/coolman/coolman/182299
 http://ky-iptv.com:25461/newyear1/newyear1/182299
 #EXTINF:-1 ,FR TF1 Series Films FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186783
+#EXTINF:-1 ,FR TF1 Series Films FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5662
 #EXTINF:-1 ,FR TF1 Series Films HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2060.m3u8
 #EXTINF:-1 ,FR TFX FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186784
+#EXTINF:-1 ,FR TFX FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/50868
 #EXTINF:-1 ,FR TFX HD
 http://ky-iptv.com:25461/coolman/coolman/182467
 #EXTINF:-1 ,FR TFX HD
 http://ky-iptv.com:25461/newyear1/newyear1/182467
+#EXTINF:-1 ,FR TFX HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5692
 #EXTINF:-1 ,FR The Museum Channel HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2007.m3u8
 #EXTINF:-1 ,FR Tiji
@@ -2065,8 +2469,12 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186785
 http://ky-iptv.com:25461/coolman/coolman/182574
 #EXTINF:-1 ,FR TIJI HD
 http://ky-iptv.com:25461/newyear1/newyear1/182574
+#EXTINF:-1 ,FR Tiji HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5609
 #EXTINF:-1 ,FR TMC FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186786
+#EXTINF:-1 ,FR TMC FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5607
 #EXTINF:-1 ,FR TMC HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2062.m3u8
 #EXTINF:-1 ,FR TMC HD
@@ -2081,6 +2489,8 @@ http://ky-iptv.com:25461/coolman/coolman/182575
 http://ky-iptv.com:25461/newyear1/newyear1/182575
 #EXTINF:-1 ,FR Toonami FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186787
+#EXTINF:-1 ,FR Toonami FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16890
 #EXTINF:-1 ,FR Toonami HD
 http://ky-iptv.com:25461/coolman/coolman/182576
 #EXTINF:-1 ,FR Toonami HD
@@ -2091,12 +2501,18 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186788
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2153.m3u8
 #EXTINF:-1 ,FR TOUTE L HISTOIRE HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186789
+#EXTINF:-1 ,FR Toute L Historie FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5606
+#EXTINF:-1 ,FR Toute l'Histoire FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13000
 #EXTINF:-1 ,FR TOUTE_L'HISTOIRE HD
 http://ky-iptv.com:25461/coolman/coolman/182506
 #EXTINF:-1 ,FR TOUTE_L'HISTOIRE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182506
 #EXTINF:-1 ,FR Toutehistoire
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186790
+#EXTINF:-1 ,FR Trace Africa FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16889
 #EXTINF:-1 ,FR TRACE AFRICA HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186791
 #EXTINF:-1 ,FR TRACE AYITI HD
@@ -2133,24 +2549,36 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186806
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186807
 #EXTINF:-1 ,FR Trace Urban
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2124.m3u8
+#EXTINF:-1 ,FR Trace Urban FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/16886
 #EXTINF:-1 ,FR TRACE Urban HD
 http://ky-iptv.com:25461/coolman/coolman/182530
 #EXTINF:-1 ,FR TRACE Urban HD
 http://ky-iptv.com:25461/newyear1/newyear1/182530
 #EXTINF:-1 ,FR TRACE URBAN HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186808
+#EXTINF:-1 ,FR Trace Urban HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12963
 #EXTINF:-1 ,FR TRACE URBUN
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186809
 #EXTINF:-1 ,FR TRACE Vanilla HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186810
 #EXTINF:-1 ,FR TREK FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186811
+#EXTINF:-1 ,FR Trek FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/13005
+#EXTINF:-1 ,FR Trek FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5608
 #EXTINF:-1 ,FR Trek HD
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2017.m3u8
 #EXTINF:-1 ,FR Trek HD
 http://ky-iptv.com:25461/coolman/coolman/182508
 #EXTINF:-1 ,FR Trek HD
 http://ky-iptv.com:25461/newyear1/newyear1/182508
+#EXTINF:-1 ,FR TV 5 Monde FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5604
+#EXTINF:-1 ,FR TV 5 Monde FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/8631
 #EXTINF:-1 ,FR TV 5+
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186813
 #EXTINF:-1 ,FR TV 7 HD
@@ -2163,6 +2591,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186814
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2087.m3u8
 #EXTINF:-1 ,FR TV Breizh FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186815
+#EXTINF:-1 ,FR TV Breizh FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5605
 #EXTINF:-1 ,FR Tv Breizh HD
 http://ky-iptv.com:25461/coolman/coolman/182533
 #EXTINF:-1 ,FR Tv Breizh HD
@@ -2219,6 +2649,8 @@ http://ky-iptv.com:25461/coolman/coolman/182510
 http://ky-iptv.com:25461/newyear1/newyear1/182510
 #EXTINF:-1 ,FR Ushuaia TV
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2151.m3u8
+#EXTINF:-1 ,FR Ushuaia TV HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5603
 #EXTINF:-1 ,FR VH1 Classic
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2128.m3u8
 #EXTINF:-1 ,FR VH1 CLASSIC HD
@@ -2237,6 +2669,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186837
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186838
 #EXTINF:-1 ,FR VOSGES TV
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186839
+#EXTINF:-1 ,FR Vosges T�l�vision HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12932
 #EXTINF:-1 ,FR Voyage
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2142.m3u8
 #EXTINF:-1 ,FR VOYAGE FHD
@@ -2245,16 +2679,22 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186840
 http://ky-iptv.com:25461/coolman/coolman/182512
 #EXTINF:-1 ,FR VOYAGE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182512
+#EXTINF:-1 ,FR Voyage TV HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5602
 #EXTINF:-1 ,FR W9
 http://ky-iptv.com:25461/coolman/coolman/182305
 #EXTINF:-1 ,FR W9
 http://ky-iptv.com:25461/newyear1/newyear1/182305
 #EXTINF:-1 ,FR W9 FHD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186841
+#EXTINF:-1 ,FR W9 FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5601
 #EXTINF:-1 ,FR WARNER HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186842
 #EXTINF:-1 ,FR Warner TV
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2090.m3u8
+#EXTINF:-1 ,FR Warner TV HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/655432
 #EXTINF:-1 ,FR Weo
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2015.m3u8
 #EXTINF:-1 ,FR WEO FHD
@@ -2263,6 +2703,8 @@ http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186843
 http://ky-iptv.com:25461/coolman/coolman/182535
 #EXTINF:-1 ,FR WEO HD
 http://ky-iptv.com:25461/newyear1/newyear1/182535
+#EXTINF:-1 ,FR Weo HD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5600
 #EXTINF:-1 ,FR ZOUZOU TV HD
 http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186844
 #EXTINF:-1 ,FR:13 EME RUE HD

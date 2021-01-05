@@ -1,0 +1,3 @@
+#EXTM3U
+!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play francaises.m3u8
+!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play francaises.m3u8

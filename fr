@@ -1,0 +1,3 @@
+#EXTM3U
+https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8
+https://raw.githubusercontent.com/drsof68/sof/master/fr-Gratuit.m3u8

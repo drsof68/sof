@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,FR 13 Rue
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186255
+
 #EXTINF:-1 ,FR 13eme RUE
 http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2082.m3u8
 #EXTINF:-1 ,FR 13Eme Rue FHD FR
@@ -9,6 +8,8 @@ http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5717
 http://ky-iptv.com:25461/coolman/coolman/182409
 #EXTINF:-1 ,FR 13eme RUE HD
 http://ky-iptv.com:25461/newyear1/newyear1/182409
+#EXTINF:-1 ,FR 13 Rue
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/186255
 #EXTINF:-1 ,FR 6Ter
 http://ky-iptv.com:25461/coolman/coolman/182257
 #EXTINF:-1 ,FR 6Ter

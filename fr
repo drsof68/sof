@@ -1,3 +1,380 @@
 #EXTM3U
-!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play francaises.m3u8
-!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8
+#!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play francaises.m3u8
+#!list import https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8 and !list play https://raw.githubusercontent.com/drsof68/sof/master/francaises.m3u8
+
+#EXTINF:-1 ,FR 13eme RUE HD
+http://ky-iptv.com:25461/coolman/coolman/182409
+#EXTINF:-1 ,FR 6Ter
+http://ky-iptv.com:25461/coolman/coolman/182257
+#EXTINF:-1 ,FR AB Moteur HD
+http://ky-iptv.com:25461/coolman/coolman/182360
+#EXTINF:-1 ,FR AB1 HD
+http://ky-iptv.com:25461/coolman/coolman/182514
+#EXTINF:-1 ,FR ACTION HD
+http://ky-iptv.com:25461/coolman/coolman/182411
+#EXTINF:-1 ,FR ANIMAUX HD
+http://ky-iptv.com:25461/coolman/coolman/182471
+#EXTINF:-1 ,FR ARTE
+http://ky-iptv.com:25461/coolman/coolman/182258
+#EXTINF:-1 ,FR beIN SPORTS 1
+http://ky-iptv.com:25461/coolman/coolman/182316
+#EXTINF:-1 ,FR beIN SPORTS 2 FHD
+http://ky-iptv.com:25461/coolman/coolman/182319
+#EXTINF:-1 ,FR beIN SPORTS 3 FHD
+http://ky-iptv.com:25461/coolman/coolman/182322
+#EXTINF:-1 ,FR BET HD
+http://ky-iptv.com:25461/coolman/coolman/182515
+#EXTINF:-1 ,FR BFM Business HD
+http://ky-iptv.com:25461/coolman/coolman/182517
+#EXTINF:-1 ,FR BFM HD
+http://ky-iptv.com:25461/coolman/coolman/182307
+#EXTINF:-1 ,FR BFM sport HD
+http://ky-iptv.com:25461/coolman/coolman/182363
+#EXTINF:-1 ,FR BOING HD
+http://ky-iptv.com:25461/coolman/coolman/182537
+#EXTINF:-1 ,FR BOOMERANG HD
+http://ky-iptv.com:25461/coolman/coolman/182540
+#EXTINF:-1 ,FR BRAVA HD
+http://ky-iptv.com:25461/coolman/coolman/182518
+#EXTINF:-1 ,FR C NEWS FHD
+http://ky-iptv.com:25461/coolman/coolman/182309
+#EXTINF:-1 ,FR C8
+http://ky-iptv.com:25461/coolman/coolman/182262
+#EXTINF:-1 ,FR CANAL J HD
+http://ky-iptv.com:25461/coolman/coolman/182542
+#EXTINF:-1 ,FR CANAL PLUS CINEMA FHD
+http://ky-iptv.com:25461/coolman/coolman/182414
+#EXTINF:-1 ,FR CANAL PLUS DECALE HD
+http://ky-iptv.com:25461/coolman/coolman/182418
+#EXTINF:-1 ,FR CANAL PLUS FAMILY
+http://ky-iptv.com:25461/coolman/coolman/182419
+#EXTINF:-1 ,FR CANAL PLUS FHD
+http://ky-iptv.com:25461/coolman/coolman/182422
+#EXTINF:-1 ,FR CANAL PLUS SERIES FHD
+http://ky-iptv.com:25461/coolman/coolman/182425
+#EXTINF:-1 ,FR CANAL PLUS SPORT FHD
+http://ky-iptv.com:25461/coolman/coolman/182428
+#EXTINF:-1 ,FR CartoonNetwork HD
+http://ky-iptv.com:25461/coolman/coolman/182544
+#EXTINF:-1 ,FR CHASSE&PECHE
+http://ky-iptv.com:25461/coolman/coolman/182472
+#EXTINF:-1 ,FR Cherie25
+http://ky-iptv.com:25461/coolman/coolman/182264
+#EXTINF:-1 ,FR CINE CLASSIC
+http://ky-iptv.com:25461/coolman/coolman/182431
+#EXTINF:-1 ,FR CINE CLUB HD
+http://ky-iptv.com:25461/coolman/coolman/182434
+#EXTINF:-1 ,FR CINE EMOTION HD
+http://ky-iptv.com:25461/coolman/coolman/182436
+#EXTINF:-1 ,FR CINE FAMIZ HD
+http://ky-iptv.com:25461/coolman/coolman/182438
+#EXTINF:-1 ,FR CINE FRISSON HD
+http://ky-iptv.com:25461/coolman/coolman/182439
+#EXTINF:-1 ,FR CINE POLAR+ HD
+http://ky-iptv.com:25461/coolman/coolman/182441
+#EXTINF:-1 ,FR CINE PREMIERE
+http://ky-iptv.com:25461/coolman/coolman/182442
+#EXTINF:-1 ,FR Comedie + HD
+http://ky-iptv.com:25461/coolman/coolman/182475
+#EXTINF:-1 ,FR CRIME DISTRICT HD
+http://ky-iptv.com:25461/coolman/coolman/182477
+#EXTINF:-1 ,FR CStar
+http://ky-iptv.com:25461/coolman/coolman/182267
+#EXTINF:-1 ,FR Discovery Family HD
+http://ky-iptv.com:25461/coolman/coolman/182520
+#EXTINF:-1 ,FR DISCOVERY HD
+http://ky-iptv.com:25461/coolman/coolman/182479
+#EXTINF:-1 ,FR DISCOVERY INVESTIGATION HD
+http://ky-iptv.com:25461/coolman/coolman/182481
+#EXTINF:-1 ,FR DISCOVERY SCIENCE HD
+http://ky-iptv.com:25461/coolman/coolman/182483
+#EXTINF:-1 ,FR DISNEY CHANNEL
+http://ky-iptv.com:25461/coolman/coolman/182545
+#EXTINF:-1 ,FR DISNEY CHANNEL HD
+http://ky-iptv.com:25461/coolman/coolman/182546
+#EXTINF:-1 ,FR DISNEY CINEMA
+http://ky-iptv.com:25461/coolman/coolman/182547
+#EXTINF:-1 ,FR DISNEY CINEMA HD
+http://ky-iptv.com:25461/coolman/coolman/182548
+#EXTINF:-1 ,FR DISNEY JUNIOR HD
+http://ky-iptv.com:25461/coolman/coolman/182550
+#EXTINF:-1 ,FR DISNEY XD HD
+http://ky-iptv.com:25461/coolman/coolman/182552
+#EXTINF:-1 ,FR DISNEY+ FHD
+http://ky-iptv.com:25461/coolman/coolman/182325
+#EXTINF:-1 ,FR E! Entertainment HD
+http://ky-iptv.com:25461/coolman/coolman/182522
+#EXTINF:-1 ,FR ELLE GIRL HD
+http://ky-iptv.com:25461/coolman/coolman/182523
+#EXTINF:-1 ,FR EQUIDIA LIFE HD
+http://ky-iptv.com:25461/coolman/coolman/182365
+#EXTINF:-1 ,FR Equidia Live
+http://ky-iptv.com:25461/coolman/coolman/182366
+#EXTINF:-1 ,FR Equipe 21
+http://ky-iptv.com:25461/coolman/coolman/182368
+#EXTINF:-1 ,FR EURONEWS HD
+http://ky-iptv.com:25461/coolman/coolman/182311
+#EXTINF:-1 ,FR EuroSport 1
+http://ky-iptv.com:25461/coolman/coolman/182370
+#EXTINF:-1 ,FR EuroSport 2
+http://ky-iptv.com:25461/coolman/coolman/182372
+#EXTINF:-1 ,FR EXTREME SPORTS HD
+http://ky-iptv.com:25461/coolman/coolman/182374
+#EXTINF:-1 ,FR Foot24
+http://ky-iptv.com:25461/coolman/coolman/182375
+#EXTINF:-1 ,FR FRANCE 2
+http://ky-iptv.com:25461/coolman/coolman/182269
+#EXTINF:-1 ,FR FRANCE 3
+http://ky-iptv.com:25461/coolman/coolman/182271
+#EXTINF:-1 ,FR FRANCE 4
+http://ky-iptv.com:25461/coolman/coolman/182273
+#EXTINF:-1 ,FR FRANCE 5
+http://ky-iptv.com:25461/coolman/coolman/182275
+#EXTINF:-1 ,FR FRANCE INFO HD
+http://ky-iptv.com:25461/coolman/coolman/182276
+#EXTINF:-1 ,FR FRANCE O
+http://ky-iptv.com:25461/coolman/coolman/182277
+#EXTINF:-1 ,FR FRANCE.24
+http://ky-iptv.com:25461/coolman/coolman/182280
+#EXTINF:-1 ,FR GAME ONE HD
+http://ky-iptv.com:25461/coolman/coolman/182554
+#EXTINF:-1 ,FR Golf Channel
+http://ky-iptv.com:25461/coolman/coolman/182377
+#EXTINF:-1 ,FR Golf Plus
+http://ky-iptv.com:25461/coolman/coolman/182379
+#EXTINF:-1 ,FR GULLI HD
+http://ky-iptv.com:25461/coolman/coolman/182556
+#EXTINF:-1 ,FR HISTOIRE HD
+http://ky-iptv.com:25461/coolman/coolman/182485
+#EXTINF:-1 ,FR Infosport
+http://ky-iptv.com:25461/coolman/coolman/182381
+#EXTINF:-1 ,FR Infosport HD
+http://ky-iptv.com:25461/coolman/coolman/182382
+#EXTINF:-1 ,FR J-ONE HD
+http://ky-iptv.com:25461/coolman/coolman/182557
+#EXTINF:-1 ,FR KOMBAT SPORT HD
+http://ky-iptv.com:25461/coolman/coolman/182383
+#EXTINF:-1 ,FR LCI HD
+http://ky-iptv.com:25461/coolman/coolman/182313
+#EXTINF:-1 ,FR LCP HD
+http://ky-iptv.com:25461/coolman/coolman/182315
+#EXTINF:-1 ,FR M6
+http://ky-iptv.com:25461/coolman/coolman/182288
+#EXTINF:-1 ,FR M6 MUSIC HD
+http://ky-iptv.com:25461/coolman/coolman/182327
+#EXTINF:-1 ,FR MANGAS TV
+http://ky-iptv.com:25461/coolman/coolman/182559
+#EXTINF:-1 ,FR MCM HD
+http://ky-iptv.com:25461/coolman/coolman/182329
+#EXTINF:-1 ,FR MEZZO FR HD
+http://ky-iptv.com:25461/coolman/coolman/182332
+#EXTINF:-1 ,FR MEZZO LIVE HD
+http://ky-iptv.com:25461/coolman/coolman/182333
+#EXTINF:-1 ,FR MTV Base HD
+http://ky-iptv.com:25461/coolman/coolman/182335
+#EXTINF:-1 ,FR MTV Dance HD
+http://ky-iptv.com:25461/coolman/coolman/182337
+#EXTINF:-1 ,FR MTV FRANCE HD
+http://ky-iptv.com:25461/coolman/coolman/182339
+#EXTINF:-1 ,FR MTV Hits HD
+http://ky-iptv.com:25461/coolman/coolman/182341
+#EXTINF:-1 ,FR My Cuisine HD
+http://ky-iptv.com:25461/coolman/coolman/182526
+#EXTINF:-1 ,FR NAT GEO WILD
+http://ky-iptv.com:25461/coolman/coolman/182486
+#EXTINF:-1 ,FR NATIONAL GEO
+http://ky-iptv.com:25461/coolman/coolman/182488
+#EXTINF:-1 ,FR NICKELODEON 4TEEN HD
+http://ky-iptv.com:25461/coolman/coolman/182562
+#EXTINF:-1 ,FR NICKELODEON HD
+http://ky-iptv.com:25461/coolman/coolman/182561
+#EXTINF:-1 ,FR NICKELODEON JUNIOR HD
+http://ky-iptv.com:25461/coolman/coolman/182566
+#EXTINF:-1 ,FR NRJ12
+http://ky-iptv.com:25461/coolman/coolman/182291
+#EXTINF:-1 ,FR OCS CHOC HD
+http://ky-iptv.com:25461/coolman/coolman/182445
+#EXTINF:-1 ,FR OCS CITY HD
+http://ky-iptv.com:25461/coolman/coolman/182447
+#EXTINF:-1 ,FR OCS Geants HD
+http://ky-iptv.com:25461/coolman/coolman/182449
+#EXTINF:-1 ,FR OCS MAX
+http://ky-iptv.com:25461/coolman/coolman/182450
+#EXTINF:-1 ,FR ONE TV HD
+http://ky-iptv.com:25461/coolman/coolman/182527
+#EXTINF:-1 ,FR PARAMOUNT CHANNEL HD
+http://ky-iptv.com:25461/coolman/coolman/182453
+#EXTINF:-1 ,FR PARIS PREMIERE HD
+http://ky-iptv.com:25461/coolman/coolman/182455
+#EXTINF:-1 ,FR Piwi
+http://ky-iptv.com:25461/coolman/coolman/182567
+#EXTINF:-1 ,FR Piwi HD
+http://ky-iptv.com:25461/coolman/coolman/182568
+#EXTINF:-1 ,FR PLANET PLUS
+http://ky-iptv.com:25461/coolman/coolman/182490
+#EXTINF:-1 ,FR PLANETE A&E
+http://ky-iptv.com:25461/coolman/coolman/182492
+#EXTINF:-1 ,FR PLANETE CI
+http://ky-iptv.com:25461/coolman/coolman/182494
+#EXTINF:-1 ,FR RFM TV HD
+http://ky-iptv.com:25461/coolman/coolman/182496
+#EXTINF:-1 ,FR RMC Decouverte HD
+http://ky-iptv.com:25461/coolman/coolman/182498
+#EXTINF:-1 ,FR RMC Sport Access 1 HD
+http://ky-iptv.com:25461/coolman/coolman/182385
+#EXTINF:-1 ,FR RMC Sport Access 2 HD
+http://ky-iptv.com:25461/coolman/coolman/182386
+#EXTINF:-1 ,FR RMC Sport Access 3 HD
+http://ky-iptv.com:25461/coolman/coolman/182387
+#EXTINF:-1 ,FR RMC Sport Live 10 HD
+http://ky-iptv.com:25461/coolman/coolman/182390
+#EXTINF:-1 ,FR RMC Sport Live 11 HD
+http://ky-iptv.com:25461/coolman/coolman/182391
+#EXTINF:-1 ,FR RMC Sport Live 12 HD
+http://ky-iptv.com:25461/coolman/coolman/182392
+#EXTINF:-1 ,FR RMC Sport Live 13 HD
+http://ky-iptv.com:25461/coolman/coolman/182393
+#EXTINF:-1 ,FR RMC Sport Live 14 HD
+http://ky-iptv.com:25461/coolman/coolman/182394
+#EXTINF:-1 ,FR RMC Sport Live 15 HD
+http://ky-iptv.com:25461/coolman/coolman/182395
+#EXTINF:-1 ,FR RMC Sport Live 16 HD
+http://ky-iptv.com:25461/coolman/coolman/182396
+#EXTINF:-1 ,FR RMC Sport Live 2
+http://ky-iptv.com:25461/coolman/coolman/182397
+#EXTINF:-1 ,FR RMC Sport Live 3
+http://ky-iptv.com:25461/coolman/coolman/182399
+#EXTINF:-1 ,FR RMC Sport Live 5 HD
+http://ky-iptv.com:25461/coolman/coolman/182402
+#EXTINF:-1 ,FR RMC Sport Live 6 HD
+http://ky-iptv.com:25461/coolman/coolman/182403
+#EXTINF:-1 ,FR RMC Sport Live 7 HD
+http://ky-iptv.com:25461/coolman/coolman/182404
+#EXTINF:-1 ,FR RMC Sport Live 8 HD
+http://ky-iptv.com:25461/coolman/coolman/182405
+#EXTINF:-1 ,FR RMC Sport Live 9 HD
+http://ky-iptv.com:25461/coolman/coolman/182406
+#EXTINF:-1 ,FR RMC Sport News HD
+http://ky-iptv.com:25461/coolman/coolman/182407
+#EXTINF:-1 ,FR RMC STORY HD
+http://ky-iptv.com:25461/coolman/coolman/182500
+#EXTINF:-1 ,FR ROUGE TV HD
+http://ky-iptv.com:25461/coolman/coolman/182457
+#EXTINF:-1 ,FR RTL9 HD
+http://ky-iptv.com:25461/coolman/coolman/182459
+#EXTINF:-1 ,FR SCIENCE ET VIE HD
+http://ky-iptv.com:25461/coolman/coolman/182502
+#EXTINF:-1 ,FR SEASON
+http://ky-iptv.com:25461/coolman/coolman/182503
+#EXTINF:-1 ,FR SERIE CLUB FHD
+http://ky-iptv.com:25461/coolman/coolman/182460
+#EXTINF:-1 ,FR SYFY HD
+http://ky-iptv.com:25461/coolman/coolman/182463
+#EXTINF:-1 ,FR TCM CINEMA HD
+http://ky-iptv.com:25461/coolman/coolman/182465
+#EXTINF:-1 ,FR TELETOON +1
+http://ky-iptv.com:25461/coolman/coolman/182570
+#EXTINF:-1 ,FR TEVA HD
+http://ky-iptv.com:25461/coolman/coolman/182529
+#EXTINF:-1 ,FR TF1
+http://ky-iptv.com:25461/coolman/coolman/182293
+#EXTINF:-1 ,FR TF1 +1
+http://ky-iptv.com:25461/coolman/coolman/182294
+#EXTINF:-1 ,FR TF1 Series Films
+http://ky-iptv.com:25461/coolman/coolman/182299
+#EXTINF:-1 ,FR TFX HD
+http://ky-iptv.com:25461/coolman/coolman/182467
+#EXTINF:-1 ,FR TIJI HD
+http://ky-iptv.com:25461/coolman/coolman/182574
+#EXTINF:-1 ,FR TMC HD
+http://ky-iptv.com:25461/coolman/coolman/182469
+#EXTINF:-1 ,FR Toonami
+http://ky-iptv.com:25461/coolman/coolman/182575
+#EXTINF:-1 ,FR Toonami HD
+http://ky-iptv.com:25461/coolman/coolman/182576
+#EXTINF:-1 ,FR TOUTE_L'HISTOIRE HD
+http://ky-iptv.com:25461/coolman/coolman/182506
+#EXTINF:-1 ,FR TRACE Urban HD
+http://ky-iptv.com:25461/coolman/coolman/182530
+#EXTINF:-1 ,FR Trek HD
+http://ky-iptv.com:25461/coolman/coolman/182508
+#EXTINF:-1 ,FR Tv Breizh HD
+http://ky-iptv.com:25461/coolman/coolman/182533
+#EXTINF:-1 ,FR TV5 MONDE HD
+http://ky-iptv.com:25461/coolman/coolman/182302
+#EXTINF:-1 ,FR TVM3 HD
+http://ky-iptv.com:25461/coolman/coolman/182534
+#EXTINF:-1 ,FR Ushuaia HD
+http://ky-iptv.com:25461/coolman/coolman/182510
+#EXTINF:-1 ,FR VOYAGE HD
+http://ky-iptv.com:25461/coolman/coolman/182512
+#EXTINF:-1 ,FR W9
+http://ky-iptv.com:25461/coolman/coolman/182305
+#EXTINF:-1 ,FR WEO HD
+http://ky-iptv.com:25461/coolman/coolman/182535
+#EXTINF:-1 ,FR:  A LA CARTE 9
+http://ky-iptv.com:25461/coolman/coolman/182342
+#EXTINF:-1 ,FR: A LA CARTE 01
+http://ky-iptv.com:25461/coolman/coolman/182343
+#EXTINF:-1 ,FR: A LA CARTE 02
+http://ky-iptv.com:25461/coolman/coolman/182344
+#EXTINF:-1 ,FR: A LA CARTE 03
+http://ky-iptv.com:25461/coolman/coolman/182345
+#EXTINF:-1 ,FR: A LA CARTE 04
+http://ky-iptv.com:25461/coolman/coolman/182346
+#EXTINF:-1 ,FR: A LA CARTE 05
+http://ky-iptv.com:25461/coolman/coolman/182347
+#EXTINF:-1 ,FR: A LA CARTE 06
+http://ky-iptv.com:25461/coolman/coolman/182348
+#EXTINF:-1 ,FR: A LA CARTE 07
+http://ky-iptv.com:25461/coolman/coolman/182349
+#EXTINF:-1 ,FR: A LA CARTE 08
+http://ky-iptv.com:25461/coolman/coolman/182350
+#EXTINF:-1 ,FR: A LA CARTE 10
+http://ky-iptv.com:25461/coolman/coolman/182351
+#EXTINF:-1 ,FR: beIN Sports 4 HD
+http://ky-iptv.com:25461/coolman/coolman/819492
+#EXTINF:-1 ,FR: beIN Sports 5
+http://ky-iptv.com:25461/coolman/coolman/819494
+#EXTINF:-1 ,FR: beIN Sports 6 HD
+http://ky-iptv.com:25461/coolman/coolman/819493
+#EXTINF:-1 ,FR: beIN Sports 7 HD
+http://ky-iptv.com:25461/coolman/coolman/819495
+#EXTINF:-1 ,FR: beIN Sports 8 HD
+http://ky-iptv.com:25461/coolman/coolman/819496
+#EXTINF:-1 ,FR: beIN Sports 9 HD
+http://ky-iptv.com:25461/coolman/coolman/819497
+#EXTINF:-1 ,FR: CANAL PLAY 01
+http://ky-iptv.com:25461/coolman/coolman/182352
+#EXTINF:-1 ,FR: CANAL PLAY 02
+http://ky-iptv.com:25461/coolman/coolman/182353
+#EXTINF:-1 ,FR: CANAL PLAY 03
+http://ky-iptv.com:25461/coolman/coolman/182354
+#EXTINF:-1 ,FR: CANAL PLAY 04
+http://ky-iptv.com:25461/coolman/coolman/182355
+#EXTINF:-1 ,FR: CANAL PLAY 05
+http://ky-iptv.com:25461/coolman/coolman/182356
+#EXTINF:-1 ,FR: CANAL PLAY 06
+http://ky-iptv.com:25461/coolman/coolman/182357
+#EXTINF:-1 ,FR: CANAL PLAY 07
+http://ky-iptv.com:25461/coolman/coolman/182358
+#EXTINF:-1 ,FR: CANAL PLAY 08
+http://ky-iptv.com:25461/coolman/coolman/182359
+#EXTINF:-1 ,FR: MCM TOP FHD
+http://ky-iptv.com:25461/coolman/coolman/182331
+#EXTINF:-1 ,FR: MELODY HD
+http://ky-iptv.com:25461/coolman/coolman/560933
+#EXTINF:-1 ,FR: TeleFoot Stadium 2 FHD
+http://ky-iptv.com:25461/coolman/coolman/814676
+#EXTINF:-1 ,FR: TeleFoot Stadium 4 FHD
+http://ky-iptv.com:25461/coolman/coolman/814678
+#EXTINF:-1 ,FR: Telefoot Stadium 4K
+http://ky-iptv.com:25461/coolman/coolman/696927
+#EXTINF:-1 ,FR: TeleFoot Stadium 5 FHD
+http://ky-iptv.com:25461/coolman/coolman/814679
+#EXTINF:-1 ,FR: TeleFoot Stadium 6 FHD
+http://ky-iptv.com:25461/coolman/coolman/814680
+#EXTINF:-1 ,FR: TeleFoot Stadium 7 FHD
+http://ky-iptv.com:25461/coolman/coolman/814681
+#EXTINF:-1 ,FR: TeleFoot Stadium 8 HD
+http://ky-iptv.com:25461/coolman/coolman/814682

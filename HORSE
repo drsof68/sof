@@ -9,6 +9,14 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:0,Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE FHD" tvg-logo="https://www.megazap.fr/photo/art/grande/8642680-13633397.jpg?v=1449784812" group-title="CANAL SAT",FR: EQUIDIA LIVE FHD
+http://s.goldysat.com:8880/22249907b/so112233/78079
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="https://www.megazap.fr/photo/art/grande/8642680-13633397.jpg?v=1449784812" group-title="CANAL SAT",FR: EQUIDIA LIVE HD
+http://s.goldysat.com:8880/22249907b/so112233/78080
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/equidia_live.jpg" group-title="CANAL SAT",FR: EQUIDIA LIVE SD
+http://s.goldysat.com:8880/22249907b/so112233/78081
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIFE HD" tvg-logo="" group-title="CANAL SAT",FR: EQUIDIA LIFE HD
+http://s.goldysat.com:8880/22249907b/so112233/116074
 #EXTINF:0,Equidia Live FHD FR
 http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5675
 #EXTINF:0,Dubai Racing

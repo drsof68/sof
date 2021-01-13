@@ -1,48 +1,29 @@
 #EXTM3U
-
-#EXTINF:-1,Dubai Racing 1 HD
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing 2 HD
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing 3 HD
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 ,Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 ,Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 ,Equidia Live
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/2042.ts
-#EXTINF:-1 ,Equidia Live
-http://89.187.191.137:8889/live/MuMlvH9XvO/RtZFXVlsEC/2042.m3u8
-#EXTINF:-1 ,Equidia Live FHD FR
-http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5675
-#EXTINF:-1 ,Horse & Country TV
-https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
-#EXTINF:-1 ,RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,Racing.Com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,Sky Racing 1
+#EXTINF:0,Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 ,Sky Racing 2
+#EXTINF:0,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 ,Sky Thoroughbred Central
+#EXTINF:0,Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 ,UK: Racing FHD
-http://ky-iptv.com:25461/family123/family123/709536
-#EXTINF:-1 ,US: TVG 2 NETWORK | HD
-http://ky-iptv.com:25461/family123/family123/220449
-#EXTINF:-1 ,US: TVG NETWORK
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/309344.ts
-#EXTINF:-1 ,US: TVG NETWORK | SD
-http://ky-iptv.com:25461/family123/family123/220450
-#EXTINF:-1 ,US: TVG NETWORK | SD |
-http://ky-iptv.com:25461/live/newyear1/newyear1/220450.ts
-#EXTINF:-1 ,US: TYC SPORTS | HD |
-http://ky-iptv.com:25461/live/newyear1/newyear1/220450.ts
-#EXTINF:-1 ,Yas
+#EXTINF:0,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:0,Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0,Equidia Live FHD FR
+http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5675
+#EXTINF:0,Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:60,Dubai Racing 1 HD
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0,Dubai Racing 2 HD
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Racing 3 HD
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0,Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:0,US: TVG NETWORK
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/309344.ts

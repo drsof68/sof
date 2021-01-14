@@ -35,3 +35,7 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:0,US: TVG NETWORK
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/309344.ts
+#EXTINF:0,US:TVG Network HD VIP US
+http://satelliteiptv.xyz:8080/n72rdfg42/hsyehkk23/678070
+#EXTINF:0,US:TVG2 Network HD VIP US
+http://satelliteiptv.xyz:8080/n72rdfg42/hsyehkk23/678071

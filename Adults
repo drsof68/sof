@@ -1,5 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV
+#EXTGRP:XXX
+http://109.248.118.88:4044/udp/239.195.2.4:1234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/103.png" tvg-name="PlayBoy TV",PlayBoy TV
+#EXTGRP:XXX
+http://109.248.77.206:4022/udp/239.195.2.5:1234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/106.png" tvg-name="FrenchLover TV",FrenchLover TV
+#EXTGRP:XXX
+http://37.235.251.143:81/udp/225.50.70.7:1234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/108.png" tvg-name="Barely Legal TV",Barely Legal TV
+#EXTGRP:XXX
+http://37.235.254.182:81/udp/225.50.70.4:1234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe
+#EXTGRP:XXX
+http://tyciptv.site:8080/12241/c117f885/37296
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/150.png" tvg-name="Hustler HD Europe",Hustler HD Europe
+#EXTGRP:XXX
+http://176.113.0.237:7781/udp/224.200.238.3:1234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/140.png" tvg-name="Nuart TV",Nuart TV
+#EXTGRP:XXX
+http://securetv.net:8080/asxn8EhzT/VrWt5pW5J/47178
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/152.png" tvg-name="Sextreme",Sextreme
+#EXTGRP:XXX
+http://e.advd.cyou:80/anderson/anderson/185555
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/178.png" tvg-name="Balkan Erotic",Balkan Erotic
+#EXTGRP:XXX
+http://securetv.net:8080/asxn8EhzT/VrWt5pW5J/47245
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/185.png" tvg-name="HOT",HOT
+#EXTGRP:XXX
+http://185.152.66.172:25463/984871/984871/511
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/186.png" tvg-name="Candy",Candy
+#EXTGRP:XXX
+http://securetv.net:8080/asxn8EhzT/VrWt5pW5J/47186
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/197.png" tvg-name="HotClub 2 FHD Adult",HotClub 2 FHD Adult
+#EXTGRP:XXX
+http://185.224.218.203:2086/april2020/2020april/66468
+#EXTINF:-1 group-title="XXX" tvg-logo="http://iptvbarmen.tk/uploads/icon/243.png" tvg-name="Evil Angel",Evil Angel
+#EXTGRP:XXX
+http://xmen.ath.cx:25001/nfivRWnp4d/4GXFA2f2xu/716
+
+
 #EXTINF:-1,РУССКАЯ НОЧЬ
 http://109.248.81.215:4044/udp/239.195.2.3:1234
 #EXTINF:-1,BRAZZERS TV 18+

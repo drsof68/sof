@@ -123,3 +123,5 @@ http://watch.bravo-iptv.com:8777/get.php?username=spider_zHFmqD&password=3PRYOPX
 http://185.71.64.167:2086/get.php?username=307241447736&password=307241447736&type=m3u
 #EXTINF:-1 ,Unknown_31
 http://185.71.64.167:80/get.php?username=ETKDp9Uans&password=Bw9vfoFjUV&type=m3u
+#EXTINF:-1 ,xxxx
+http://destek.korax.com.tr/UYDUSIS/CLOUD2.txt

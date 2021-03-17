@@ -1,22 +1,6 @@
-
-#EXTINF:-1 ,yourdnshere.xyz:83
-http://yourdnshere.xyz:83/get.php?username=trevorparker&password=8177168823&type=m3u
-#EXTINF:-1 ,yourdnshere.xyz:83
-http://yourdnshere.xyz:83/live/Julievarin/8025829493/376384.ts
-#EXTINF:-1 ,yourdnshere.xyz:83
-http://yourdnshere.xyz:83/get.php?username=Julievarin&password=8025829493&type=m3u
-#EXTINF:-1 ,xtream.ws:8080
-http://xtream.ws:8080/get.php?username=fullhdp.servep2p&password=live.mtg_2406_1&type=m3u
-#EXTINF:-1 ,xtream.ws:8080
-http://xtream.ws:8080/get.php?username=fullhdp.servep2p&password=live.mtg_2406_1&type=m3u
-#EXTINF:-1 ,xtream.ws:8080
-http://xtream.ws:8080/get.php?username=fullhdp.servep2p&password=live.mtg_2406_1&type=m3u
+#EXTM3U
 #EXTINF:-1 ,xiptv.dyndns.tv:8000
 http://xiptv.dyndns.tv:8000/get.php?username=shadi&password=987654321&type=m3u
-#EXTINF:-1 ,wweraw.ddns.net:8080
-http://wweraw.ddns.net:8080/get.php?username=live:mtg_2406_1010101&password=live:mtg_2406_1010101&type=m3u
-#EXTINF:-1 ,watch-myjokertv.xyz:8080
-http://watch-myjokertv.xyz:8080/get.php?username=Pepsijr&password=Makaveli1983&type=m3u
 #EXTINF:-1 ,us1-external-sources.iptvserver.tv:80
 http://us1-external-sources.iptvserver.tv:80/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u
 #EXTINF:-1 ,us1-external-sources.iptvserver.tv
@@ -27,176 +11,24 @@ http://us1-external-sources.iptvserver.tv/get.php?username=kkkrkDp2a9KNwAwGzpb&p
 http://us1-external-sources.iptvserver.tv/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u
 #EXTINF:-1 ,us1-external-sources.iptvserver.tv
 http://us1-external-sources.iptvserver.tv/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u
-#EXTINF:-1 ,uruguayiptv.com:25461
-http://uruguayiptv.com:25461/get.php?username=leandro1&password=leandro123&type=m3u
-#EXTINF:-1 ,Umytv.fun:8080
-http://mytv.fun:8080/get.php?username=sftg9n6k86&password=lr41epxg3m&type=m3u
-#EXTINF:-1 ,tv10.narcotv.eu:8080
-http://tv10.narcotv.eu:8080/get.php?username=serhat11&password=123456&type=m3u
-#EXTINF:-1 ,tv10.narcotv.eu:8080
-http://tv10.narcotv.eu:8080/get.php?username=serhat11&password=123456&type=m3u
-#EXTINF:-1 ,tv.masterplaytv.xyz:8000
-http://tv.masterplaytv.xyz:8000/get.php?username=luisrivera1&password=luis12345riv&type=m3u
 #EXTINF:-1 ,tigeriptv.vip:8080
 http://tigeriptv.vip:8080/get.php?username=3466&password=3466&type=m3u
-#EXTINF:-1 ,supiptv.vip
-http://supiptv.vip/get.php?username=TrjJE7eFG3&password=qDWsTzz8PR&type=m3u
-#EXTINF:-1 ,supiptv.vip
-http://supiptv.vip/get.php?username=TrjJE7eFG3&password=qDWsTzz8PR&type=m3u
-#EXTINF:-1 ,super1.ideaiptv.com:2052
-http://super1.ideaiptv.com:2052/get.php?username=bandook&password=3243243&type=m3u
-#EXTINF:-1 ,super1.ideaiptv.com:2052
-http://super1.ideaiptv.com:2052/get.php?username=bandook&password=3243243&type=m3u
-#EXTINF:-1 ,stream-sky.cf:8080
-http://stream-sky.cf:8080/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-#EXTINF:-1 ,stream-sky.cf:80
-http://stream-sky.cf:80/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-#EXTINF:-1 ,stream-sky.cf
-http://stream-sky.cf/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-#EXTINF:-1 ,stream-sky.cf
-http://stream-sky.cf/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-#EXTINF:-1 ,stream-sky.cf
-http://stream-sky.cf/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-#EXTINF:-1 ,srvcliente.me:80
-http://srvcliente.me:80/get.php?username=galdino&password=10203040&type=m3u
 #EXTINF:-1 ,sonyiptv.net:8080
 http://sonyiptv.net:8080/get.php?username=123456789&password=123456789&type=m3u
-#EXTINF:-1 ,sonyiptv.net:8080
-http://sonyiptv.net:8080/get.php?username=0123456&password=0123456&type=m3u
-#EXTINF:-1 ,sonyiptv.net:8080
-http://sonyiptv.net:8080/get.php?username=8888&password=8888&type=m3u
 #EXTINF:-1 ,short.faststream.link:8080
 http://short.faststream.link:8080/get.php?username=rwfnqsod&password=8hesU38hB1&type=m3u
-#EXTINF:-1 ,satelliteiptv.xyz:80
-http://satelliteiptv.xyz:80/get.php?username=Amanda1&password=Nosa2255&type=m3u
-#EXTINF:-1 ,sarhantv.xyz:25461
-http://sarhantv.xyz:25461/get.php?username=free&password=free22&type=m3u
-#EXTINF:-1 ,sarhantv.xyz:25461
-http://sarhantv.xyz:25461/get.php?username=sarhan&password=5555&type=m3u
-#EXTINF:-1 ,ottplanet.live:7788
-http://ottplanet.live:7788/get.php?username=x2N5mK3EGM&password=pCZPFTYDSQ&type=m3u
 #EXTINF:-1 ,ottplanet.live:7788
 http://ottplanet.live:7788/get.php?username=KHALID098&password=098KHALID&type=m3u
 #EXTINF:-1 ,ottin.me:8000
 http://ottin.me:8000/get.php?username=salam_000946&password=ImHfNpi5&type=m3u
-#EXTINF:-1 ,opplex.tv:8080
-http://opplex.tv:8080/get.php?username=786&password=786&type=m3u
-#EXTINF:-1 ,needuhd.life:8080
-http://needuhd.life:8080/get.php?username=Reginaldo&password=Reginaldo&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kemal100&password=fkcjkrj77&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=6osziul5p&password=pmuvvqc2vd&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=arthur409&password=3zmftltkul&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=s7in25xpbf&password=1ovizrbrbr&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kfbejty6p&password=z2l3yu1jy&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=ikvp15qwy&password=pzfk7hkzb7&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=4go5v10utn&password=ks4cbd51nk&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=wqcjinniad&password=6a6wvvyjiv&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kxf63uuuo&password=iumdouwjl4&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=bobbyclient&password=boby10052019&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=0YORbB4gzi&password=hvdxLOayk4&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kjwgwljng&password=wxi0z42r5c&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=f4mcwpqi1d&password=zhlt21ryz9&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=nigv8f3nbi&password=cptjjvhmyr&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=pbggrv85lq&password=8ei6fjtp79&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=x3hzy7hwd&password=5fma6jow4n&type=m3u
 #EXTINF:-1 ,mytv.fun:8080
 http://mytv.fun:8080/get.php?username=4pprsxyelp&password=639hmawurety&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=Mile&password=e7r4dyzb6q&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=Mimmo&password=a43l2qhyc&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=pf2qtvf9af&password=j9139xh3up&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=ddaniel18&password=4akz45qz8t&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=2ytrhfdcz9&password=iqn5v2s3eb&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=9lmwrk37mq&password=qimclpt45i&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=ptwu4s28jx&password=3kyyqg9k2m&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=qmv826kls7&password=hy6znb0xq&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=SFLnbvoR6S&password=FRnL5NT13o&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=6xsxzvyxa&password=vy3zvcqt9g&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=r132t0drsq&password=r8ml9ih098&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=sgjgqufpi8&password=pjk1px3p37&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=vrn3airyd&password=hdfjfjhurds&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=lNa2y8ZAes&password=olRgpUYPNL&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=av3mf3jw61d9jnuc9v0a4i&password=93i3vvycw&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=8hc37i7t7g&password=6sa3q543j5&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=tyceky2wm&password=b8k3za409&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=e3pqrwiu8&password=keigfyd0ug&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kp1mkzh3eu&password=mhk2qhigp&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=kp1mkzh3eu&password=mhk2qhigp&type=m3u
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/5610
-#EXTINF:-1 ,mytv.fun:8080
-http://mytv.fun:8080/get.php?username=ddu5vat2d&password=m8n105hyfd&type=m3u
-#EXTINF:-1 ,mypanel.tv:8080
-http://mypanel.tv:8080/get.php?username=live:cardak7_1&password=HSi2ulXczL&type=m3u
 #EXTINF:-1 ,mains.vip:2086
 http://mains.vip:2086/get.php?username=demouser&password=demouser&type=m3u
 #EXTINF:-1 ,m3u4u.com
 http://m3u4u.com/m3u/p192y7vex1fw7jwnmeg3
-#EXTINF:-1 ,lista.minhadns.me:8880
-http://lista.minhadns.me:8880/get.php?username=adilson123&password=adilson321&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=family123&password=family123&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=newyear1&password=newyear1&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=Larry1&password=Larry1&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=mario1234&password=mario1234&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=coolman&password=coolman&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=500500&password=500500&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://ky-iptv.com:25461/get.php?username=500500&password=500500&type=m3u
-#EXTINF:-1 ,ky-iptv.com:25461
-http://mytv.fun:8080/ddu5vat2d/m8n105hyfd/12857
-#EXTINF:-1 ,ipflix.click:8080
-http://ipflix.click:8080/get.php?username=3hx8g17lcc&password=wjbfbmao4i&type=m3u
-#EXTINF:-1 ,ipflix.click:8080
-http://ipflix.click:8080/get.php?username=xua4nlnqr9&password=dpf74igvjc&type=m3u
-#EXTINF:-1 ,ipflix.click:8080
-http://ipflix.click:8080/get.php?username=5g7gue7jts&password=ieuicc8sdx&type=m3u
-#EXTINF:-1 ,ipflix.click:8080
-http://ipflix.click:8080/get.php?username=fy7ltvom2g&password=p31pawj18l&type=m3u
 #EXTINF:-1 ,howflix.org:5890
 http://showflix.org:5890/get.php?username=112233445566&password=665544332211&type=m3u_plus&output=ts
-#EXTINF:-1 ,france  italia De lente
-http://worldteam.io:8080/get.php?username=lLlfw4JjgH&password=NZhZODcpKZ&type=m3u
 #EXTINF:-1 ,echotv.online:8080
 http://echotv.online:8080/get.php?username=HalowTV&password=FSyzHfEhvb&type=m3u
 #EXTINF:-1 ,dmin-mainpanel.club:8080
@@ -209,117 +41,11 @@ http://dimapro.cz:8080/get.php?username=ed8Skmugg9&password=orCZh4yxdN&type=m3u
 http://dimapro.cz:80/get.php?username=SfZXl1780F&password=PUrytlTWZ4&type=m3u
 #EXTINF:-1 ,destinyip.tv:2086
 http://destinyip.tv:2086/get.php?username=J7B6yyzmBV&password=ppCavxVdo4&type=m3u
-#EXTINF:-1 ,cloud.nicefhd.xyz:80
-http://cloud.nicefhd.xyz:80/get.php?username=v51704&password=0ADa0wXRhQ&type=m3u
-#EXTINF:-1 ,cloud.nicefhd.xyz:80
-http://cloud.nicefhd.xyz:80/get.php?username=v51704&password=0ADa0wXRhQ&type=m3u
-#EXTINF:-1 ,cassiopea.link:8000
-http://cassiopea.link:8000/get.php?username=8jFrSBaCMx&password=YSwGDbUYJn&type=m3u
-#EXTINF:-1 ,brtvcdn.xyz:8080
-http://brtvcdn.xyz:8080/get.php?username=Rafael123&password=rafael123&type=m3u
-#EXTINF:-1 ,boxiptv.club:8080
-http://boxiptv.club:8080/get.php?username=vagner&password=123456&type=m3u
-#EXTINF:-1 ,bluetv.org:8889
-http://bluetv.org:8889/live/XiiLxuHczK/usZ9WRVNOt/1990.ts
-#EXTINF:-1 ,bluetv.org:8889
-http://bluetv.org:8889/get.php?username=XiiLxuHczK&password=usZ9WRVNOt&type=m3u
-#EXTINF:-1 ,blciptv.com:80
-http://blciptv.com:80/get.php?username=Yoyo010266&password=Keke01276&type=m3u
-#EXTINF:-1 ,best-live-iptv.xyz:2082
-http://best-live-iptv.xyz:2082/get.php?username=BEST-LIVE1313&password=BEST-LIVE1313&type=m3u
-#EXTINF:-1 ,bestever.vodiptv.org:83
-http://bestever.vodiptv.org:83/get.php?username=237849426364&password=959338582673&type=m3u
-#EXTINF:-1 ,bestever.vodiptv.org:83
-http://bestever.vodiptv.org:83/get.php?username=237849426364&password=959338582673&type=m3u
-#EXTINF:-1 ,bestever.vodiptv.org:83
-http://bestever.vodiptv.org:83/get.php?username=237849426364&password=959338582673&type=m3u
 #EXTINF:-1 ,api.ndasat.com/iptv
 http://api.ndasat.com/iptv/m3u.php?username=221654598897046&password=221654598897046
-#EXTINF:-1 ,api.gotvred.com:8889
-http://api.gotvred.com:8889/get.php?username=6h8Wcg21ET&password=MUK4ppKyta&type=m3u
-#EXTINF:-1 ,api.gotvred.com:8889
-http://api.gotvred.com:8889/get.php?username=jNeDAgS97K&password=0DCd1A3Mnk&type=m3u
-#EXTINF:-1 ,admin-mainpanel.club:8080
-http://admin-mainpanel.club:8080/get.php?username=franck33&password=franck33&type=m3u
-#EXTINF:-1 ,89.187.191.133:8889
-http://89.187.191.133:8889/get.php?username=LcdfBv1UAC&password=E8Lh8az1pL&type=m3u
-#EXTINF:-1 ,89.187.191.133:8889
-http://89.187.191.133:8889/get.php?username=LcdfBv1UAC&password=E8Lh8az1pL&type=m3u
-#EXTINF:-1 ,89.187.191.133:8889
-http://89.187.191.133:8889/get.php?username=MuMlvH9VvO&password=RtZFXVlsEC&type=m3u
-#EXTINF:-1 ,89.187.191.133:8889
-http://89.187.191.133:8889/get.php?username=LTHeX7FOht&password=jMheuwkVy9&type=m3u
-#EXTINF:-1 ,8.142.29.124:80
-http://78.142.29.124:80/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,78.142.29.70:80
-http://78.142.29.70:80/get.php?username=Amanda1&password=Nosa2255&type=m3u
-#EXTINF:-1 ,78.142.29.68:80
-http://78.142.29.68:80/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,78.142.29.68:80
-http://78.142.29.68:80/get.php?username=1qyax3x1pt&password=cvf12emju67&type=m3u
-#EXTINF:-1 ,78.142.29.124:8000
-http://78.142.29.124:8000/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,51.104.147.231:8080
-http://51.104.147.231:8080/get.php?username=Amanda1&password=Nosa2255&type=m3u
-#EXTINF:-1 ,51.104.147.231:80
-http://51.104.147.231:80/get.php?username=Amanda1&password=Nosa2255&type=m3u
-#EXTINF:-1 ,3.133.154.226:25461
-http://3.133.154.226:25461/get.php?username=beinlivetv&password=7dayes&type=m3u
-#EXTINF:-1 ,212.102.60.121:8080
-http://212.102.60.121:8080/get.php?username=calem7&password=4BY4CSaMUW&type=m3u
-#EXTINF:-1 ,212.102.60.121:8000
-http://212.102.60.121:8000/get.php?username=calem7&password=4BY4CSaMUW&type=m3u
-#EXTINF:-1 ,212.102.60.121:25461
-http://212.102.60.121:25461/get.php?username=calem7&password=4BY4CSaMUW&type=m3u
-#EXTINF:-1 ,209.126.8.89:25461
-http://209.126.8.89:25461/get.php?username=qtv@@sport&password=4La90Evnxv&type=m3u
-#EXTINF:-1 ,1skytv.com:8889
-http://1skytv.com:8889/get.php?username=LcdfBv1UAC&password=E8Lh8az1pL&type=m3u
-#EXTINF:-1 ,194.40.241.218:83
-http://194.40.241.218:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u
-#EXTINF:-1 ,185.180.14.120:8889
-http://185.180.14.120:8889/get.php?username=XiiLxuHczK&password=usZ9WRVNOt&type=m3u
-#EXTINF:-1 ,185.180.14.120:8889
-http://185.180.14.120:8889/get.php?username=MuMlvH9VvO&password=RtZFXVlsEC&type=m3u
-#EXTINF:-1 ,185.180.14.120:8889
-http://185.180.14.120:8889/live/MuMlvH9VvO/RtZFXVlsEC/1990.ts
 #EXTINF:-1 ,163.172.39.215:25461
 http://163.172.39.215:25461/get.php?username=line&password=C4@!a3a1@!w72A&type=m3u
 #EXTINF:-1 ,159.69.56.148:25461
 http://159.69.56.148:25461/get.php?username=M3UMix247&password=89ph5uifoi&type=m3u
 #EXTINF:-1 ,151.80.24.92:9985
 http://151.80.24.92:9985/get.php?username=nL352475vRd53&password=43nL8538Grdie035&type=m3u
-#EXTINF:-1 ,109.232.230.186:8080
-http://109.232.230.186:8080/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,109.232.230.186:80
-http://109.232.230.186:80/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,109.232.230.186:2565
-http://109.232.230.186:2565/get.php?username=orr7opchoc&password=om1xl0i81&type=m3u
-#EXTINF:-1 ,109.200.130.124:7000
-http://109.200.130.124:7000/playlist.m3u8
-
-http://xtream.encohd.co:25461/get.php?username=AxYXdji6Kv&password=7uRFri5Z45&type=m3u
-http://smartiptv.dyndns.info:25461/get.php?username=greek.iptv&password=skype984&type=m3u
-http://us1-external-sources.iptvserver.tv/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u
-http://185.71.64.115:1997/get.php?username=notmenem3FZAFsqfqczf&password=azdcdfaefafsFAfzad&type=m3u
-http://stream-sky.cf/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-http://163.172.39.215:25461/get.php?username=line&password=C4@!a3a1@!w72A&type=m3u
-http://stream-sky.cf:80/get.php?username=edvandro24h&password=4mRJSpRD1h&type=m3u
-http://m3u4u.com/m3u/p192y7vex1fw7jwnmeg3
- http://89.187.191.133:8889/get.php?username=LcdfBv1UAC&password=E8Lh8az1pL&type=m3u
-http://tv4iptv.ddns.net:80/get.php?username=8795449375&password=d6Ts37W9jx9&type=m3u
-http://159.69.56.148:25461/get.php?username=M3UMix247&password=89ph5uifoi&type=m3u
-http://uruguayiptv.com:25461/get.php?username=leandro1&password=leandro123&type=m3u
-
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/Europa/Berlin.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/Europa/London.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/Europa/Moscow.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/New%20World/LA.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/New%20World/Montevideo.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/Oriental/Bangkok.m3u8
-https://raw.githubusercontent.com/exodiver/IPTV/master/Ark/Oriental/Dubai.m3u8
-https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u
-https://raw.githubusercontent.com/djidham/kalkid/63603d1a5bd395500b39d1959b77893b9d8a09d2/iptv%20freemix
-https://raw.githubusercontent.com/aguiarbaeza/Listas/a3f466761986c71f61d25f6906bd5a48bedf2dbe/Adult.m3u
-https://webarmen.com/my/iptv/auto.xxx.m3u
-
